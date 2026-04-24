@@ -1,3 +1,6 @@
+
+DOI 10.5281/zenodo.19729192
+
 # CoumarinBioBench-TierA
 
 **CoumarinBioBench-TierA** is an auditable, ChEMBL-derived benchmark and public reproducibility package for **organism-aware target-family mapping**, **target-level QSAR-readiness assessment**, and **fingerprint-based activity-landscape analysis** in **coumarin-containing bioactivity data**.
