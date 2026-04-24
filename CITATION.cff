@@ -1,2 +1,11 @@
 cff-version: 1.2.0
-message: ...
+message: "If you use this repository, please cite it as below."
+type: software
+title: "CoumarinBioBench-TierA"
+version: "v1.0.1"
+date-released: 2026-04-24
+authors:
+  - family-names: "Gunes"
+    given-names: "Ahmet"
+repository-code: "https://github.com/ahmetgunes58/CoumarinBioBench-TierA"
+license: "MIT"
