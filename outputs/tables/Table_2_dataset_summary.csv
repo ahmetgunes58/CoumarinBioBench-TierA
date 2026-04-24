@@ -1,0 +1,5 @@
+dataset_layer,records,unique_molecules,unique_targets,doi_coverage_percent
+Raw,180653,21632,2082,47.4612
+Tier-A Screened,12012,5538,656,88.5365
+Validity-warning records,433,326,118,96.3048
+Tier-A Core,11579,5390,632,88.246

@@ -1,0 +1,9 @@
+metric,value
+figure3_source_rows,5390
+unique_compounds,5390
+single_target_compounds,3021
+multi_target_compounds,2369
+high_degree_compounds_degree_ge_5,221
+effect_size_descriptors_plotted,12
+bh_significant_descriptor_shifts,5
+selected_distribution_descriptors,MolWt; cLogP; TPSA; RotB

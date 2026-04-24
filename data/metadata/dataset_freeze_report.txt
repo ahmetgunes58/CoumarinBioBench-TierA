@@ -1,0 +1,27 @@
+CoumarinBioBench-TierA Dataset Freeze Report
+
+Status: P0 AUDIT COMPLETED
+
+Dataset version: TierA_v0.1_P0
+
+Raw records: 180653
+Raw unique molecules: 21632
+Raw unique targets: 2082
+
+Tier-A Screened records: 12012
+Tier-A Screened unique coumarins: 5538
+Tier-A Screened protein targets: 656
+
+Validity-warning records removed: 433
+
+Tier-A Core records: 11579
+Tier-A Core unique coumarins: 5390
+Tier-A Core protein targets: 632
+
+Raw data file:
+C:\Users\Ahmet Gunes\YandexDisk\Makaleler\10. CoumarinBioBench-TierA\data\raw\coumarin_master_20260210_004558.csv
+
+Notes:
+- Confidence score is treated as a quality characteristic, not as a record-removing filter.
+- Potency endpoint exclusion is documented in Supplementary Table S1.
+- Tier-A Core excludes non-null ChEMBL data_validity_comment records.

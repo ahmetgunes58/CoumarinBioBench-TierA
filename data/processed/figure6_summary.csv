@@ -1,0 +1,8 @@
+metric,value
+case_study_targets,3
+total_compounds_across_case_tables,1357
+near_neighbor_pairs_tanimoto_ge_0_70,3221
+activity_cliff_pairs_delta_ge_2_00,67
+max_delta_pactivity,4.28
+max_sali,50.60000000000005
+target_with_most_cliff_pairs,MAOB_HUMAN_IC50

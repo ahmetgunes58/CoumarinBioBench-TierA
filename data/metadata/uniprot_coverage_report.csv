@@ -1,0 +1,633 @@
+target_chembl_id,target_pref_name,target_organism,uniprot_accession,has_uniprot
+CHEMBL322,5-hydroxytryptamine receptor 2A,Rattus norvegicus,P14842,True
+CHEMBL273,5-hydroxytryptamine receptor 1A,Rattus norvegicus,P19327,True
+CHEMBL339,D(2) dopamine receptor,Rattus norvegicus,P61169,True
+CHEMBL3594,Carbonic anhydrase 9,Homo sapiens,Q5T4R1,True
+CHEMBL3242,Carbonic anhydrase 12,Homo sapiens,Q9BWG2,True
+CHEMBL268,Cathepsin K,Homo sapiens,Q6FHS6,True
+CHEMBL4072,Cathepsin B,Homo sapiens,Q96D87,True
+CHEMBL2954,Cathepsin S,Homo sapiens,Q9BUG3,True
+CHEMBL1914,Cholinesterase,Homo sapiens,P06276,True
+CHEMBL2039,Amine oxidase [flavin-containing] B,Homo sapiens,Q7Z6S2,True
+CHEMBL1906,RAF proto-oncogene serine/threonine-protein kinase,Homo sapiens,P04049,True
+CHEMBL3587,Dual specificity mitogen-activated protein kinase kinase 1,Homo sapiens,Q02750,True
+CHEMBL220,Acetylcholinesterase,Homo sapiens,Q9BXP7,True
+CHEMBL2916,Telomerase reverse transcriptase,Homo sapiens,Q8NG46,True
+CHEMBL4198,E3 ubiquitin-protein ligase XIAP,Homo sapiens,Q9NQ14,True
+CHEMBL279,Vascular endothelial growth factor receptor 2,Homo sapiens,P35968,True
+CHEMBL1826,DNA gyrase subunit B,Escherichia coli,Q2M811,True
+CHEMBL4078,Acetylcholinesterase,Electrophorus electricus,O42275,True
+CHEMBL5763,Cholinesterase,Equus caballus,P81908,True
+CHEMBL2993,Amine oxidase [flavin-containing] B,Rattus norvegicus,Q5EBB5,True
+CHEMBL3358,Amine oxidase [flavin-containing] A,Rattus norvegicus,Q63817,True
+CHEMBL3559,Steryl-sulfatase,Homo sapiens,P08842,True
+CHEMBL3198,Acetylcholinesterase,Mus musculus,P21836,True
+CHEMBL206,Estrogen receptor,Homo sapiens,P03372,True
+CHEMBL6145,Inosine-5'-monophosphate dehydrogenase,Cryptosporidium parvum,Q8T6T2,True
+CHEMBL3471,Human immunodeficiency virus type 1 integrase,Human immunodeficiency virus 1,Q7ZJM1,True
+CHEMBL1951,Amine oxidase [flavin-containing] A,Homo sapiens,Q16426,True
+CHEMBL235,Peroxisome proliferator-activated receptor gamma,Homo sapiens,P37231,True
+CHEMBL4005,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Homo sapiens,P42336,True
+CHEMBL3267,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",Homo sapiens,P48736,True
+CHEMBL3130,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",Homo sapiens,Q5SR49,True
+CHEMBL2842,Serine/threonine-protein kinase mTOR,Homo sapiens,Q9Y4I3,True
+CHEMBL3145,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",Homo sapiens,Q24JU2,True
+CHEMBL247,Human immunodeficiency virus type 1 reverse transcriptase,Human immunodeficiency virus 1,Q72547,True
+CHEMBL340,Cytochrome P450 3A4,Homo sapiens,P08684,True
+CHEMBL3397,Cytochrome P450 2C9,Homo sapiens,Q8WW80,True
+CHEMBL2949,Prostaglandin G/H synthase 1,Ovis aries,P05979,True
+CHEMBL230,Prostaglandin G/H synthase 2,Homo sapiens,Q16876,True
+CHEMBL208,Progesterone receptor,Homo sapiens,Q9UPF7,True
+CHEMBL262,Glycogen synthase kinase-3 beta,Homo sapiens,P49841,True
+CHEMBL2828,Casein kinase I isoform delta,Homo sapiens,Q9BTN5,True
+CHEMBL2326,Carbonic anhydrase 7,Homo sapiens,Q86YU0,True
+CHEMBL4789,"Carbonic anhydrase 5A, mitochondrial",Homo sapiens,P35218,True
+CHEMBL3969,"Carbonic anhydrase 5B, mitochondrial",Homo sapiens,Q9Y2D0,True
+CHEMBL4680039,Myosin-2,Bos taurus,Q9BE41,True
+CHEMBL2635,Dual specificity protein phosphatase 3,Homo sapiens,Q8IYJ9,True
+CHEMBL5511,Dual specificity protein phosphatase 6,Rattus norvegicus,Q64346,True
+CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens,Q9NZM8,True
+CHEMBL242,Estrogen receptor beta,Homo sapiens,Q9UQK9,True
+CHEMBL5422,Protein disulfide-isomerase,Homo sapiens,Q6LDE5,True
+CHEMBL4105870,Vitamin K epoxide reductase complex subunit 1,Rattus norvegicus,Q6TEK4,True
+CHEMBL2073663,Monocarboxylate transporter 4,Homo sapiens,Q2M1P8,True
+CHEMBL5145,Serine/threonine-protein kinase B-raf,Homo sapiens,P15056,True
+CHEMBL1978,Aromatase,Homo sapiens,Q8IYJ7,True
+CHEMBL288,"3',5'-cyclic-AMP phosphodiesterase 4D",Homo sapiens,Q08499,True
+CHEMBL3621036,"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",Homo sapiens,Q7Z650,True
+CHEMBL2541,"C-1-tetrahydrofolate synthase, cytoplasmic",Homo sapiens,Q9BVP5,True
+CHEMBL1741207,Sentrin-specific protease 8,Homo sapiens,Q96QA4,True
+CHEMBL1741213,Sentrin-specific protease 7,Homo sapiens,Q9HBT5,True
+CHEMBL2334,Caspase-3,Homo sapiens,P42574,True
+CHEMBL1741215,Sentrin-specific protease 6,Homo sapiens,Q9UJV5,True
+CHEMBL312,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,P12527,True
+CHEMBL221,Prostaglandin G/H synthase 1,Homo sapiens,Q5T7T8,True
+CHEMBL5282,Cytochrome P450 2A6,Homo sapiens,Q9UK48,True
+CHEMBL2378,M-phase inducer phosphatase 3,Homo sapiens,Q9H2F1,True
+CHEMBL3775,M-phase inducer phosphatase 1,Homo sapiens,Q9H2F2,True
+CHEMBL3729,Carbonic anhydrase 4,Homo sapiens,Q6FHI7,True
+CHEMBL2085,Macrophage migration inhibitory factor,Homo sapiens,P14174,True
+CHEMBL3356,Cytochrome P450 1A2,Homo sapiens,Q9UK49,True
+CHEMBL3622,Cytochrome P450 2C19,Homo sapiens,Q9UCD4,True
+CHEMBL289,Cytochrome P450 2D6,Homo sapiens,Q6NXU8,True
+CHEMBL3623,NAD(P)H dehydrogenase [quinone] 1,Homo sapiens,Q86UK1,True
+CHEMBL5465386,Metallo-beta-lactamase type 2,Bacteria,C7C422,True
+CHEMBL5643,DnaC helicase,Staphylococcus aureus,Q9AQH7,True
+CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Q6NSY0,True
+CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,P20272,True
+CHEMBL4234,17-beta-hydroxysteroid dehydrogenase type 3,Homo sapiens,Q5U0Q6,True
+CHEMBL2366,Trypsin,Sus scrofa,P00761,True
+CHEMBL1250413,CAAX prenyl protease 2,Saccharomyces cerevisiae S288c,Q03530,True
+CHEMBL326,Alpha-1D adrenergic receptor,Rattus norvegicus,Q71UM4,True
+CHEMBL4302,ATP-dependent translocase ABCB1,Homo sapiens,Q14812,True
+CHEMBL3004,Multidrug resistance-associated protein 1,Homo sapiens,Q9UQA0,True
+CHEMBL2622,Aldo-keto reductase family 1 member B1,Rattus norvegicus,P07943,True
+CHEMBL1895,DNA topoisomerase 4 subunit A,Escherichia coli K-12,Q2M9I1,True
+CHEMBL2424506,DNA gyrase subunit A,Staphylococcus aureus,P20831,True
+CHEMBL1858,DNA gyrase subunit A,Escherichia coli K-12,P0AES4,True
+CHEMBL275,"3',5'-cyclic-AMP phosphodiesterase 4B",Homo sapiens,Q5TEK6,True
+CHEMBL5933,NAD-dependent protein deacetylase HST2,Saccharomyces cerevisiae S288c,P53686,True
+CHEMBL4506,NAD-dependent protein deacetylase sirtuin-1,Homo sapiens,Q9Y6F0,True
+CHEMBL2730,Protein-glutamine gamma-glutamyltransferase,Homo sapiens,Q9UH35,True
+CHEMBL5620,Proteasome subunit beta type-8,Homo sapiens,Q96J48,True
+CHEMBL3142,DNA-dependent protein kinase catalytic subunit,Homo sapiens,Q9UME3,True
+CHEMBL205,Carbonic anhydrase 2,Homo sapiens,P00918,True
+CHEMBL261,Carbonic anhydrase 1,Homo sapiens,P00915,True
+CHEMBL4822,Beta-secretase 1,Homo sapiens,P56817,True
+CHEMBL203,Epidermal growth factor receptor,Homo sapiens,P00533,True
+CHEMBL1806,DNA topoisomerase 2-alpha,Homo sapiens,Q9UQP9,True
+CHEMBL4117,Aminopeptidase N,Plasmodium falciparum FcB1/Columbia,Q8IEK1,True
+CHEMBL5939,Endoplasmic reticulum aminopeptidase 1,Homo sapiens,Q9UKY2,True
+CHEMBL1293286,Polyadenylate-binding protein 1,Homo sapiens,Q93004,True
+CHEMBL1741179,DNA dC->dU-editing enzyme APOBEC-3A,Homo sapiens,Q9UH18,True
+CHEMBL1741217,DNA dC->dU-editing enzyme APOBEC-3G,Homo sapiens,Q9HC16,True
+CHEMBL1293251,ATP-dependent molecular chaperone HSP82,Candida albicans (strain WO-1) (Yeast),C4YTQ8,True
+CHEMBL4531,Galectin-3,Homo sapiens,P17931,True
+CHEMBL5474,Galectin-9,Homo sapiens,Q9NQ58,True
+CHEMBL4915,Galectin-1,Homo sapiens,Q9UDK5,True
+CHEMBL4523143,Galectin-7,Mus musculus,O54974,True
+CHEMBL5475,Galectin-8,Homo sapiens,Q9UP34,True
+CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Q9UNN0,True
+CHEMBL1075322,G-protein coupled receptor 55,Homo sapiens,Q9Y2T6,True
+CHEMBL2424,Lactoylglutathione lyase,Homo sapiens,Q96J41,True
+CHEMBL1795086,HSP90,Plasmodium falciparum 3D7,Q8IL32,True
+CHEMBL3880,Heat shock protein HSP 90-alpha,Homo sapiens,P07900,True
+CHEMBL2756,Amine oxidase [flavin-containing] B,Bos taurus,Q864W3,True
+CHEMBL1908,"Cytochrome P450 11B1, mitochondrial",Homo sapiens,Q9UML2,True
+CHEMBL2722,"Cytochrome P450 11B2, mitochondrial",Homo sapiens,Q16726,True
+CHEMBL319,Alpha-1A adrenergic receptor,Rattus norvegicus,P43140,True
+CHEMBL2010631,Atypical chemokine receptor 3,Homo sapiens,Q92986,True
+CHEMBL274,C-C chemokine receptor type 5,Homo sapiens,Q9UPA4,True
+CHEMBL3717,Hepatocyte growth factor receptor,Homo sapiens,P08581,True
+CHEMBL3254,Amine oxidase [flavin-containing] A,Bos taurus,Q0IIE7,True
+CHEMBL1615382,Nuclear receptor coactivator 3,Homo sapiens,Q9Y6Q9,True
+CHEMBL4218,Tegument protein VP16,Herpes simplex virus (type 1 / strain 17),Q09I86,True
+CHEMBL214,5-hydroxytryptamine receptor 1A,Homo sapiens,Q6LAE7,True
+CHEMBL224,5-hydroxytryptamine receptor 2A,Homo sapiens,Q5T8C0,True
+CHEMBL1824,Receptor tyrosine-protein kinase erbB-2,Homo sapiens,P04626,True
+CHEMBL2414,C-C chemokine receptor type 4,Homo sapiens,Q9ULY7,True
+CHEMBL1075214,5'-nucleotidase,Rattus norvegicus,P21588,True
+CHEMBL1930,Vitamin K epoxide reductase complex subunit 1,Homo sapiens,Q9BQB6,True
+CHEMBL1293267,G-protein coupled receptor 35,Homo sapiens,Q9HC97,True
+CHEMBL3712907,Transmembrane domain-containing protein TMIGD3,Homo sapiens,Q9BYZ1,True
+CHEMBL251,Adenosine receptor A2a,Homo sapiens,P29274,True
+CHEMBL219,D(4) dopamine receptor,Homo sapiens,Q8NGM5,True
+CHEMBL234,D(3) dopamine receptor,Homo sapiens,Q4VBM8,True
+CHEMBL217,D(2) dopamine receptor,Homo sapiens,Q9UPA9,True
+CHEMBL4161,Urease,Canavalia ensiformis,P07374,True
+CHEMBL204,Prothrombin,Homo sapiens,P00734,True
+CHEMBL4523503,Chloride anion exchanger,Mus musculus,Q9WVC8,True
+CHEMBL2292,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Homo sapiens,Q9UNM5,True
+CHEMBL2147,Serine/threonine-protein kinase pim-1,Homo sapiens,P11309,True
+CHEMBL239,Peroxisome proliferator-activated receptor alpha,Homo sapiens,Q07869,True
+CHEMBL1293240,Plectin,Homo sapiens,Q6S383,True
+CHEMBL3229,Fatty-acid amide hydrolase 1,Rattus norvegicus,Q5BKA3,True
+CHEMBL2007629,26S proteasome non-ATPase regulatory subunit 14,Homo sapiens,O00487,True
+CHEMBL4471,Prothrombin,Bos taurus,Q3MHK7,True
+CHEMBL213,Beta-1 adrenergic receptor,Homo sapiens,Q9UKG8,True
+CHEMBL1871,Androgen receptor,Homo sapiens,P10275,True
+CHEMBL3167,Serum paraoxonase/arylesterase 1,Homo sapiens,Q9UCB1,True
+CHEMBL256,Adenosine receptor A3,Homo sapiens,Q9BYZ1,True
+CHEMBL1795098,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,Homo sapiens,Q9GZU7,True
+CHEMBL4247,ALK tyrosine kinase receptor,Homo sapiens,Q9UM73,True
+CHEMBL1293246,Beta Lactamase,Pseudomonas aeruginosa,Q932Y6,True
+CHEMBL1741165,Microphthalmia-associated transcription factor,Homo sapiens,Q9P2Y8,True
+CHEMBL5567,Luciferin 4-monooxygenase,Photinus pyralis,Q27755,True
+CHEMBL2146304,DNA damage-inducible transcript 3 protein,Mus musculus,Q91YW9,True
+CHEMBL1741176,X-box-binding protein 1,Homo sapiens,Q96BD7,True
+CHEMBL2186,Carbonic anhydrase 13,Mus musculus,Q9D6N1,True
+CHEMBL3510,Carbonic anhydrase 14,Homo sapiens,Q9ULX7,True
+CHEMBL5973,Carbonic anhydrase 15,Mus musculus,Q99N23,True
+CHEMBL3025,Carbonic anhydrase 6,Homo sapiens,Q9UF03,True
+CHEMBL2885,Carbonic anhydrase 3,Homo sapiens,P07451,True
+CHEMBL3912,Carbonic anhydrase 13,Homo sapiens,Q8N1Q1,True
+CHEMBL4984,Tumor necrosis factor,Mus musculus,Q91VF3,True
+CHEMBL5469,Protein-tyrosine kinase 2-beta,Homo sapiens,Q14289,True
+CHEMBL4036,Cyclin-dependent kinase 5,Homo sapiens,Q00535,True
+CHEMBL6175,Lysine-specific demethylase 4C,Homo sapiens,Q9H3R0,True
+CHEMBL1287620,Fructose-bisphosphate aldolase,Mycobacterium tuberculosis,P9WQA3,True
+CHEMBL280,Collagenase 3,Homo sapiens,Q6NWN6,True
+CHEMBL3869,Matrix metalloproteinase-14,Homo sapiens,Q92678,True
+CHEMBL333,72 kDa type IV collagenase,Homo sapiens,Q9UCJ8,True
+CHEMBL215,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens,Q5JQ14,True
+CHEMBL3706,Disintegrin and metalloproteinase domain-containing protein 17,Homo sapiens,P78536,True
+CHEMBL1293200,Zn finger protein,Nicotiana tabacum,Q43570,True
+CHEMBL2637,Mitogen-activated protein kinase 10,Homo sapiens,Q49AP1,True
+CHEMBL2821,Coagulation factor XII,Homo sapiens,P78339,True
+CHEMBL3335,Cytochrome P450 2B1,Rattus norvegicus,Q64584,True
+CHEMBL1743542,Cytochrome P450 2B4,Oryctolagus cuniculus,P00178,True
+CHEMBL4729,Cytochrome P450 2B6,Homo sapiens,Q9UK46,True
+CHEMBL4523582,Replicase polyprotein 1ab,Severe acute respiratory syndrome coronavirus 2,P0DTD1,True
+CHEMBL3019,Cytochrome P450 3A5,Homo sapiens,Q9HB56,True
+CHEMBL5281,Cytochrome P450 2E1,Homo sapiens,Q9UK47,True
+CHEMBL1293311,Envelope glycoprotein gp160,Human immunodeficiency virus 1,Q6QLK5,True
+CHEMBL1741189,FAD-linked sulfhydryl oxidase ALR,Homo sapiens,Q9UK40,True
+CHEMBL3318,Tyrosinase,Agaricus bisporus,Q12543,True
+CHEMBL1293307,3C-like protease,Infectious bronchitis virus,Q3Y5H1,True
+CHEMBL3212,Vitamin K epoxide reductase complex subunit 1,Bos taurus,Q6B4J2,True
+CHEMBL3943,Histamine H1 receptor,Cavia porcellus,P31389,True
+CHEMBL3138,D(3) dopamine receptor,Rattus norvegicus,P70647,True
+CHEMBL267,Proto-oncogene tyrosine-protein kinase Src,Homo sapiens,P12931,True
+CHEMBL4633,Potassium voltage-gated channel subfamily A member 3,Homo sapiens,Q6P2D3,True
+CHEMBL4306,Potassium voltage-gated channel subfamily A member 5,Homo sapiens,Q9UDA4,True
+CHEMBL5979,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens,Q9UBK0,True
+CHEMBL4879518,Microtubule-associated proteins 1A/1B light chain 3A,Homo sapiens,Q9H492,True
+CHEMBL4879514,Microtubule-associated proteins 1A/1B light chain 3B,Homo sapiens,Q9GZQ8,True
+CHEMBL5508,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Rattus norvegicus,Q63470,True
+CHEMBL3072,Androgen receptor,Rattus norvegicus,Q63049,True
+CHEMBL4088,DNA topoisomerase 4 subunit A,Staphylococcus aureus,P95683,True
+CHEMBL2903,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens,Q99657,True
+CHEMBL243,Human immunodeficiency virus type 1 protease,Human immunodeficiency virus 1,Q72874,True
+CHEMBL226,Adenosine receptor A1,Homo sapiens,Q8TAM8,True
+CHEMBL4662,Proteasome Macropain subunit MB1,Homo sapiens,Q9TNN9,True
+CHEMBL2231,Cytochrome P450 1A1,Homo sapiens,Q53G18,True
+CHEMBL2176851,Replicative DNA helicase,Bacillus anthracis,Q81JI8,True
+CHEMBL4768,Acetylcholinesterase,Bos taurus,Q08D79,True
+CHEMBL1972,"Glutamate receptor ionotropic, NMDA 2A",Homo sapiens,Q17RZ6,True
+CHEMBL4109,"Glutamate receptor ionotropic, NMDA 2C",Homo sapiens,Q14957,True
+CHEMBL1904,"Glutamate receptor ionotropic, NMDA 2B",Homo sapiens,Q9UM56,True
+CHEMBL2284,Glyceraldehyde-3-phosphate dehydrogenase,Homo sapiens,Q53X65,True
+CHEMBL5131,Trypanothione reductase,Trypanosoma cruzi,P28593,True
+CHEMBL4878,Cytochrome P450 1B1,Homo sapiens,Q9H316,True
+CHEMBL4093,Oxysterols receptor LXR-beta,Homo sapiens,Q5I0Y1,True
+CHEMBL6136,Lysine-specific histone demethylase 1A,Homo sapiens,O60341,True
+CHEMBL1935,"Aldehyde dehydrogenase, mitochondrial",Homo sapiens,Q6IV71,True
+CHEMBL3579,Retinaldehyde dehydrogenase 3,Homo sapiens,Q6NT64,True
+CHEMBL3251,Nuclear factor NF-kappa-B p105 subunit,Homo sapiens,Q9NZC0,True
+CHEMBL4374,Photoreceptor-specific nuclear receptor,Homo sapiens,Q9Y5X4,True
+CHEMBL3564,"DNA polymerase I, thermostable",Thermus aquaticus,P19821,True
+CHEMBL2074,Maltase-glucoamylase,Homo sapiens,Q86UM5,True
+CHEMBL5957,5'-nucleotidase,Homo sapiens,Q5W116,True
+CHEMBL5071,Prostaglandin D2 receptor 2,Homo sapiens,Q9Y5Y4,True
+CHEMBL6174,Cytochrome c oxidase subunit 2,Homo sapiens,Q37526,True
+CHEMBL5313,Heat shock factor protein 1,Mus musculus,P38532,True
+CHEMBL5573,Intestinal-type alkaline phosphatase,Homo sapiens,Q9UCL2,True
+CHEMBL1163101,Serine/threonine-protein kinase/endoribonuclease IRE1,Homo sapiens,Q59EE2,True
+CHEMBL3081,Aldo-keto reductase family 1 member B1,Bos taurus,Q5E962,True
+CHEMBL1075108,Solute carrier family 12 member 5,Rattus norvegicus,Q63633,True
+CHEMBL1163125,Bromodomain-containing protein 4,Homo sapiens,O60885,True
+CHEMBL3563,Cruzipain,Trypanosoma cruzi,P25779,True
+CHEMBL2366517,Protease,Human immunodeficiency virus 1,Q9YQ12,True
+CHEMBL1795151,Bis(5'-adenosyl)-triphosphatase,Homo sapiens,Q6IU12,True
+CHEMBL335,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens,P18031,True
+CHEMBL5407,Serine/threonine-protein kinase pim-3,Homo sapiens,Q86V86,True
+CHEMBL4523,Serine/threonine-protein kinase pim-2,Homo sapiens,Q9P1W9,True
+CHEMBL2384898,N-arachidonyl glycine receptor,Homo sapiens,Q9H2L2,True
+CHEMBL5444,Tubulin beta-5 chain,Homo sapiens,Q9CY33,True
+CHEMBL5485,D-amino-acid oxidase,Homo sapiens,Q8N6R2,True
+CHEMBL1973,Tyrosinase,Homo sapiens,Q9BZX1,True
+CHEMBL1900,Aldo-keto reductase family 1 member B1,Homo sapiens,P15121,True
+CHEMBL344,Melanin-concentrating hormone receptor 1,Homo sapiens,Q9BV08,True
+CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,Q9H3P0,True
+CHEMBL4361,Induced myeloid leukemia cell differentiation protein Mcl-1,Homo sapiens,Q07820,True
+CHEMBL4018,Neuropeptide Y receptor type 2,Homo sapiens,Q9UE67,True
+CHEMBL4777,Neuropeptide Y receptor type 1,Homo sapiens,P25929,True
+CHEMBL1615387,Nuclear receptor coactivator 1,Homo sapiens,Q15788,True
+CHEMBL1991,Inhibitor of nuclear factor kappa-B kinase subunit beta,Homo sapiens,O75327,True
+CHEMBL2443,Kallikrein-7,Homo sapiens,Q8NFV7,True
+CHEMBL5983,Aldo-keto reductase family 1 member B10,Homo sapiens,Q8IWZ1,True
+CHEMBL2176863,Uncharacterized protein,Sus scrofa,I3LIR5,True
+CHEMBL1275219,Glucosylceramidase,Bos taurus,Q2KHZ8,True
+CHEMBL3411,CAAX prenyl protease 2,Homo sapiens,Q9Y256,True
+CHEMBL3720,ATP-citrate synthase,Homo sapiens,Q9BRL0,True
+CHEMBL2061,Retinoic acid receptor RXR-alpha,Homo sapiens,P19793,True
+CHEMBL1870,Retinoic acid receptor RXR-beta,Homo sapiens,Q5STQ1,True
+CHEMBL2004,Retinoic acid receptor RXR-gamma,Homo sapiens,Q6IBU7,True
+CHEMBL1293274,Eukaryotic translation initiation factor 4H,Homo sapiens,Q15056,True
+CHEMBL4203,Dual specificity protein kinase CLK4,Homo sapiens,Q9HAZ1,True
+CHEMBL3629,Casein kinase II subunit alpha,Homo sapiens,P68400,True
+CHEMBL6166,Mitogen-activated protein kinase kinase kinase kinase 4,Homo sapiens,Q9NST7,True
+CHEMBL1293228,Streptokinase A,Streptococcus pyogenes serotype M1,Q48WH3,True
+CHEMBL1293266,Nucleotide-binding oligomerization domain-containing protein 2,Homo sapiens,Q9HC29,True
+CHEMBL3317339,Polymerase basic protein 2,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),Q8JUU8,True
+CHEMBL3649,Xanthine dehydrogenase/oxidase,Bos taurus,Q95325,True
+CHEMBL4422,Free fatty acid receptor 1,Homo sapiens,Q4VBL4,True
+CHEMBL3864,Tyrosine-protein phosphatase non-receptor type 11,Homo sapiens,Q06124,True
+CHEMBL2007628,Tyrosine-protein phosphatase non-receptor type 5,Homo sapiens,Q8NDP8,True
+CHEMBL4461,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",Homo sapiens,Q9Y6E8,True
+CHEMBL1741200,Hexokinase HKDC1,Homo sapiens,Q9H5Y9,True
+CHEMBL2688,Hexokinase-1,Homo sapiens,Q9NNZ5,True
+CHEMBL1741161,Acyl-homoserine lactone acylase PvdQ,Pseudomonas aeruginosa (strain LESB58),Q9I194,True
+CHEMBL1795089,Latent membrane protein 1,Human herpesvirus 4 (strain B95-8),Q777A4,True
+CHEMBL4123,Neurotensin receptor type 1,Homo sapiens,Q9H4T5,True
+CHEMBL281,Carbonic anhydrase 4,Bos taurus,Q95323,True
+CHEMBL3108645,Histone-lysine N-methyltransferase NSD2,Homo sapiens,Q9UPR2,True
+CHEMBL3308,Caspase-6,Homo sapiens,Q9BQE7,True
+CHEMBL1293297,Bifunctional protein GlmU,Mycobacterium tuberculosis,Q7D8Z8,True
+CHEMBL2955,Sphingosine 1-phosphate receptor 2,Homo sapiens,Q86UN8,True
+CHEMBL258,Tyrosine-protein kinase Lck,Homo sapiens,P06239,True
+CHEMBL1841,Tyrosine-protein kinase Fyn,Homo sapiens,Q8N5D7,True
+CHEMBL1849,Enoyl-[acyl-carrier-protein] reductase [NADH],Mycobacterium tuberculosis,P9WGR1,True
+CHEMBL3863,Serine/threonine-protein kinase D1,Homo sapiens,Q15139,True
+CHEMBL1293319,Zinc finger protein mex-5,Caenorhabditis elegans,Q9XUB2,True
+CHEMBL4477,Metabotropic glutamate receptor 1,Rattus norvegicus,P23385,True
+CHEMBL1075189,Pyruvate kinase PKM,Homo sapiens,Q9UPF2,True
+CHEMBL4102,Prostaglandin G/H synthase 2,Ovis aries,P79208,True
+CHEMBL3658,Tubulin alpha chain,Sus scrofa,P02550,True
+CHEMBL1913,Platelet-derived growth factor receptor beta,Homo sapiens,Q8N5L4,True
+CHEMBL4739844,Immunoglobulin lambda variable 6-57,Homo sapiens,P06319,True
+CHEMBL4295618,Enoyl-(Acyl-carrier-protein) reductase II,Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R),Q8E1K8,True
+CHEMBL6003,Testis-specific serine/threonine-protein kinase 1,Homo sapiens,Q9BXA7,True
+CHEMBL1787,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Homo sapiens,Q9UP37,True
+CHEMBL5661,Exportin-1,Homo sapiens,Q99433,True
+CHEMBL3230,Sphingosine 1-phosphate receptor 4,Homo sapiens,O95977,True
+CHEMBL4333,Sphingosine 1-phosphate receptor 1,Homo sapiens,Q9NYN8,True
+CHEMBL4105838,DCN1-like protein 1,Homo sapiens,Q9HCT3,True
+CHEMBL4343,DNA polymerase beta,Rattus norvegicus,Q4G081,True
+CHEMBL4523223,Chloride anion exchanger,Homo sapiens,P40879,True
+CHEMBL3253,Albumin,Homo sapiens,P02768,True
+CHEMBL3112384,Retinal dehydrogenase 2,Homo sapiens,Q9UFY0,True
+CHEMBL4881,"Aldehyde dehydrogenase X, mitochondrial",Homo sapiens,Q9BV45,True
+CHEMBL3305,Sex hormone-binding globulin,Homo sapiens,Q6ISD2,True
+CHEMBL2362978,DNA repair protein RAD52 homolog,Homo sapiens,Q9Y5T9,True
+CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Q499G4,True
+CHEMBL2034,Glucocorticoid receptor,Homo sapiens,Q6N0A4,True
+CHEMBL1741163,ORF 73,Human herpesvirus 8,O40947,True
+CHEMBL4450,UDP-galactopyranose mutase,Mycobacterium tuberculosis,Q7D4U3,True
+CHEMBL2808,Oxysterols receptor LXR-alpha,Homo sapiens,Q96H87,True
+CHEMBL5533,Transcription factor p65,Homo sapiens,Q04206,True
+CHEMBL1293260,Beta-lactamase,Salmonella choleraesuis (strain SC-B67),Q5J463,True
+CHEMBL1293244,Beta-lactamase,Pseudomonas aeruginosa,Q79MP6,True
+CHEMBL4360,Monocarboxylate transporter 1,Homo sapiens,Q9NSJ9,True
+CHEMBL2283,Carbonic anhydrase 2,Bos taurus,Q865Y7,True
+CHEMBL4586,Seed linoleate 13S-lipoxygenase-1,Glycine max,P08170,True
+CHEMBL4804,M-phase inducer phosphatase 2,Homo sapiens,Q9BRA6,True
+CHEMBL3199,Acetylcholinesterase,Rattus norvegicus,P37136,True
+CHEMBL3403,Butyrylcholinesterase,Rattus norvegicus,Q9JKC1,True
+CHEMBL1293293,Neuropeptides B/W receptor type 1,Homo sapiens,Q6NTC7,True
+CHEMBL1293239,Bcl-2-related protein A1,Mus musculus,Q07440,True
+CHEMBL1795093,Apoptotic protease-activating factor 1,Homo sapiens,Q9UNC9,True
+CHEMBL6089,Ubiquitin-conjugating enzyme E2 N,Homo sapiens,Q53Y81,True
+CHEMBL4698,"Malonyl-CoA decarboxylase, mitochondrial",Homo sapiens,Q9Y3F2,True
+CHEMBL284,Dipeptidyl peptidase 4,Homo sapiens,Q53TN1,True
+CHEMBL229,Alpha-1A adrenergic receptor,Homo sapiens,Q9UD67,True
+CHEMBL1741192,Replicative DNA helicase DnaB,Mycobacterium tuberculosis,P9WMR3,True
+CHEMBL1741171,Protein RecA,Mycobacterium tuberculosis,P9WHJ3,True
+CHEMBL3925,17-beta-hydroxysteroid-dehydrogenase,Cochliobolus lunatus,O93874,True
+CHEMBL1293229,Nuclear receptor subfamily 4immunitygroup A member 1,Homo sapiens,Q6IBU8,True
+CHEMBL3151,Intestinal-type alkaline phosphatase,Mus musculus,P24822,True
+CHEMBL3402,"Alkaline phosphatase, germ cell type",Homo sapiens,Q96CM1,True
+CHEMBL5287,Hepatic sodium/bile acid cotransporter,Homo sapiens,Q2TU29,True
+CHEMBL1075126,Pyruvate kinase PKLR,Homo sapiens,P30613,True
+CHEMBL1641359,Lipoxygenase,Glycine max,Q39829,True
+CHEMBL3577,Aldehyde dehydrogenase 1A1,Homo sapiens,Q5SYR1,True
+CHEMBL1741194,Mitochondrial import inner membrane translocase subunit TIM10,Saccharomyces cerevisiae S288c,P87108,True
+CHEMBL1741180,Mitochondrial import inner membrane translocase subunit TIM23,Saccharomyces cerevisiae S288c,P32897,True
+CHEMBL227,Type-1 angiotensin II receptor,Homo sapiens,Q8TBK4,True
+CHEMBL1945,Melatonin receptor type 1A,Homo sapiens,P48039,True
+CHEMBL1946,Melatonin receptor type 1B,Homo sapiens,P49286,True
+CHEMBL3201,Aryl hydrocarbon receptor,Homo sapiens,Q13804,True
+CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,Q9UNW4,True
+CHEMBL3979,Peroxisome proliferator-activated receptor delta,Homo sapiens,Q9BUD4,True
+CHEMBL4235,11-beta-hydroxysteroid dehydrogenase 1,Homo sapiens,P28845,True
+CHEMBL1994,Mineralocorticoid receptor,Homo sapiens,Q96KQ9,True
+CHEMBL1697656,Glutathione S-transferase,Plasmodium falciparum,Q95V54,True
+CHEMBL2755,"Glutathione reductase, mitochondrial",Homo sapiens,Q9NP63,True
+CHEMBL3902,Glutathione S-transferase P,Homo sapiens,Q5TZY3,True
+CHEMBL2487,Amyloid-beta precursor protein,Homo sapiens,P05067,True
+CHEMBL5339,Free fatty acid receptor 4,Homo sapiens,Q86SM7,True
+CHEMBL2973,Rho-associated protein kinase 2,Homo sapiens,Q9UQN5,True
+CHEMBL1075282,Dual specificity protein kinase CLK3,Mus musculus,Q8C1V1,True
+CHEMBL321,Matrix metalloproteinase-9,Homo sapiens,Q9UDK2,True
+CHEMBL5926,"Glyceraldehyde-3-phosphate dehydrogenase, glycosomal",Trypanosoma cruzi,P22513,True
+CHEMBL4143,Calpain-2 catalytic subunit,Sus scrofa,P43367,True
+CHEMBL2731,Galanin receptor type 3,Homo sapiens,Q53YJ4,True
+CHEMBL2275,Sorbitol dehydrogenase,Homo sapiens,Q9UMD6,True
+CHEMBL1741212,Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase,Plasmodium berghei,Q9BHT9,True
+CHEMBL4894,Galanin receptor type 1,Homo sapiens,Q4VBL7,True
+CHEMBL3176,Galanin receptor type 2,Homo sapiens,Q32MN8,True
+CHEMBL5577,Galanin receptor type 2,Rattus norvegicus,O08726,True
+CHEMBL6144,G protein-coupled receptor kinase 6,Homo sapiens,Q13652,True
+CHEMBL2073709,Monocarboxylate transporter 1,Rattus norvegicus,P53987,True
+CHEMBL6164,Poly [ADP-ribose] polymerase tankyrase-1,Homo sapiens,Q59FX0,True
+CHEMBL1741221,Cysteine protease ATG4B,Homo sapiens,Q9Y4P1,True
+CHEMBL4426,Phospholipase A2,Homo sapiens,Q3KPI1,True
+CHEMBL3480,Chitin synthase 1,Candida albicans,P23316,True
+CHEMBL1293287,Insulin-degrading enzyme,Homo sapiens,Q5T5N2,True
+CHEMBL248,Neutrophil elastase,Homo sapiens,Q6LDP5,True
+CHEMBL5373,Cannabinoid receptor 2,Mus musculus,Q544H5,True
+CHEMBL5977,Galectin-2,Homo sapiens,Q6FGY4,True
+CHEMBL1671608,Galectin-4,Homo sapiens,P56470,True
+CHEMBL210,Beta-2 adrenergic receptor,Homo sapiens,P07550,True
+CHEMBL6152,Alpha-synuclein,Homo sapiens,P37840,True
+CHEMBL324,5-hydroxytryptamine receptor 2C,Rattus norvegicus,P08909,True
+CHEMBL3988613,Protein-glutamine gamma-glutamyltransferase 2,Cavia cutleri,P08587,True
+CHEMBL3785,Hydroxycarboxylic acid receptor 2,Homo sapiens,Q8TDS4,True
+CHEMBL4766,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial",Homo sapiens,Q308M4,True
+CHEMBL3861,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",Homo sapiens,Q9BS05,True
+CHEMBL4999,Aldo-keto reductase family 1 member C4,Homo sapiens,Q9NS54,True
+CHEMBL5905,Aldo-keto reductase family 1 member C1,Homo sapiens,Q9UCX2,True
+CHEMBL5847,Aldo-keto reductase family 1 member C2,Homo sapiens,Q96A71,True
+CHEMBL2246,Aldo-keto reductase family 1 member A1,Homo sapiens,Q6IAZ4,True
+CHEMBL4681,Aldo-keto reductase family 1 member C3,Homo sapiens,Q9UKL9,True
+CHEMBL5586,Carbonyl reductase [NADPH] 1,Homo sapiens,Q3LHW8,True
+CHEMBL3681,Amine oxidase [flavin-containing] A,Mus musculus,Q8K0Z8,True
+CHEMBL3351196,PA-I galactophilic lectin,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228),Q05097,True
+CHEMBL3596075,"Beta-galactoside alpha-2,6-sialyltransferase 1",Homo sapiens,P15907,True
+CHEMBL1293302,Female germline-specific tumor suppressor gld-1,Caenorhabditis elegans,Q17339,True
+CHEMBL1293282,Protein Rev,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)(HIV-1),P04618,True
+CHEMBL2758,Mannose-6-phosphate isomerase,Homo sapiens,Q96AB0,True
+CHEMBL4153,Sigma non-opioid intracellular receptor 1,Cavia porcellus,Q60492,True
+CHEMBL2484,Acetylcholine receptor subunit epsilon,Homo sapiens,Q04844,True
+CHEMBL1250379,ELAV-like protein 1,Homo sapiens,Q9BTT1,True
+CHEMBL1741186,Nuclear receptor ROR-gamma,Homo sapiens,P51449,True
+CHEMBL5804,Toll-like receptor 9,Homo sapiens,Q9NYC3,True
+CHEMBL1293269,NS3,Hepatitis C virus,A3EZJ3,True
+CHEMBL1075145,Transitional endoplasmic reticulum ATPase,Homo sapiens,P55072,True
+CHEMBL1781,DNA topoisomerase 1,Homo sapiens,Q9UJN0,True
+CHEMBL1075094,Nuclear factor erythroid 2-related factor 2,Homo sapiens,Q96F71,True
+CHEMBL1293304,RNA-binding protein pos-1,Caenorhabditis elegans,G5EF15,True
+CHEMBL3091,Sortilin,Homo sapiens,Q99523,True
+CHEMBL2243,Fatty-acid amide hydrolase 1,Homo sapiens,Q5TDF8,True
+CHEMBL4801,Caspase-1,Homo sapiens,Q9UCN3,True
+CHEMBL3114,"Sucrase-isomaltase, intestinal",Rattus norvegicus,P23739,True
+CHEMBL4026,Signal transducer and activator of transcription 3,Homo sapiens,Q9BW54,True
+CHEMBL6101,Signal transducer and activator of transcription 1-alpha/beta,Homo sapiens,Q9UDL5,True
+CHEMBL3314,Chymotrypsinogen A,Bos taurus,P00766,True
+CHEMBL4358,Polyunsaturated fatty acid lipoxygenase ALOX15,Oryctolagus cuniculus,P12530,True
+CHEMBL1899,5-hydroxytryptamine receptor 3A,Homo sapiens,Q9BSZ9,True
+CHEMBL3203,4-hydroxyphenylpyruvate dioxygenase,Sus scrofa,Q02110,True
+CHEMBL2219,Tyrosine-protein phosphatase non-receptor type 7,Homo sapiens,Q9BV05,True
+CHEMBL5857,Trace amine-associated receptor 1,Homo sapiens,Q96RJ0,True
+CHEMBL1169595,UDP-galactose 4-epimerase,Trypanosoma brucei,Q8T8E9,True
+CHEMBL6100,Autoinducer 2-binding periplasmic protein LuxP,Vibrio harveyi,P54300,True
+CHEMBL2179,Lysosomal acid glucosylceramidase,Homo sapiens,Q9UMJ8,True
+CHEMBL1825,Tumor necrosis factor,Homo sapiens,P01375,True
+CHEMBL1293222,Nucleotide-binding oligomerization domain-containing protein 1,Homo sapiens,Q9Y239,True
+CHEMBL5347,Glucose-6-phosphate 1-dehydrogenase,Homo sapiens,Q96PQ2,True
+CHEMBL2189117,Polycomb protein EED,Homo sapiens,O75530,True
+CHEMBL1667698,Telomere resolvase ResT,Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM4680),O50979,True
+CHEMBL1743122,Solute carrier family 22 member 2,Homo sapiens,Q9NQB9,True
+CHEMBL5685,Solute carrier family 22 member 1,Homo sapiens,Q9NQD4,True
+CHEMBL1293203,Major prion protein,Mesocricetus auratus,P04273,True
+CHEMBL2499,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Mus musculus,Q0VGQ5,True
+CHEMBL4512,Fatty acid synthase,Plasmodium falciparum,Q965D7,True
+CHEMBL2362980,Paired box protein Pax-8,Homo sapiens,Q96J49,True
+CHEMBL5848,"Oligo-1,6-glucosidase IMA1",Saccharomyces cerevisiae S288c,Q76CZ0,True
+CHEMBL3569,Squalene--hopene cyclase,Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC27009 / DSM 446 / 104-1A) (Bacillus acidocaldarius),P33247,True
+CHEMBL2309,Potassium voltage-gated channel subfamily A member 1,Homo sapiens,Q3MIQ9,True
+CHEMBL4205,Potassium voltage-gated channel subfamily A member 4,Homo sapiens,P22459,True
+CHEMBL2773,Potassium voltage-gated channel subfamily A member 7,Homo sapiens,Q9BYS4,True
+CHEMBL5279,Potassium voltage-gated channel subfamily A member 6,Homo sapiens,P17658,True
+CHEMBL2086,Potassium voltage-gated channel subfamily A member 2,Homo sapiens,Q86XG6,True
+CHEMBL4304,Calcium-activated potassium channel subunit alpha-1,Homo sapiens,Q9UQK6,True
+CHEMBL4469,Small conductance calcium-activated potassium channel protein 2,Homo sapiens,Q9H2S1,True
+CHEMBL2369,Small conductance calcium-activated potassium channel protein 1,Homo sapiens,Q92952,True
+CHEMBL4305,Intermediate conductance calcium-activated potassium channel protein 4,Homo sapiens,Q53XR4,True
+CHEMBL3050,Amine oxidase [flavin-containing] B,Mus musculus,Q8C0B2,True
+CHEMBL4105758,Butyrophilin subfamily 3 member A1,Homo sapiens,Q9HCY1,True
+CHEMBL3714706,Transient receptor potential cation channel subfamily M member 7,Mus musculus,Q9JLQ1,True
+CHEMBL3524,Histone deacetylase 4,Homo sapiens,Q9UND6,True
+CHEMBL2716,Histone deacetylase 7,Homo sapiens,Q9UFU7,True
+CHEMBL4145,Histone deacetylase 9,Homo sapiens,Q9UKV0,True
+CHEMBL2563,Histone deacetylase 5,Homo sapiens,Q9UQL6,True
+CHEMBL4818,Potassium voltage-gated channel subfamily A member 3,Mus musculus,P16390,True
+CHEMBL5936,Toll-like receptor 7,Homo sapiens,Q9NYK1,True
+CHEMBL4869,Major prion protein,Homo sapiens,Q9UP19,True
+CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,P31652,True
+CHEMBL2392,DNA polymerase beta,Homo sapiens,P06746,True
+CHEMBL1293317,Muscleblind-like protein 1,Homo sapiens,Q9NR56,True
+CHEMBL3431938,Glucose transporter,Leishmania mexicana,O61059,True
+CHEMBL2535,"Solute carrier family 2, facilitated glucose transporter member 1",Homo sapiens,Q147X2,True
+CHEMBL5113,Orexin/Hypocretin receptor type 1,Homo sapiens,Q9HBV6,True
+CHEMBL3048,Nitric oxide synthase 1,Rattus norvegicus,P29476,True
+CHEMBL1741185,CAAX prenyl protease 1,Saccharomyces cerevisiae S288c,P47154,True
+CHEMBL6065,Dihydrofolate reductase,Mycobacterium tuberculosis,P9WNX1,True
+CHEMBL202,Dihydrofolate reductase,Homo sapiens,Q6IRW8,True
+CHEMBL325,Histone deacetylase 1,Homo sapiens,Q92534,True
+CHEMBL1781862,Calmodulin-domain protein kinase 1,Toxoplasma gondii,Q9BJF5,True
+CHEMBL3155,5-hydroxytryptamine receptor 7,Homo sapiens,Q5VX03,True
+CHEMBL3085,Excitatory amino acid transporter 1,Homo sapiens,Q4JCQ8,True
+CHEMBL1741203,Scavenger receptor class B member 1,Mus musculus,Q9CWJ7,True
+CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,P23977,True
+CHEMBL2193,Arylsulfatase A,Homo sapiens,Q96CJ0,True
+CHEMBL3784,Histone acetyltransferase p300,Homo sapiens,Q09472,True
+CHEMBL3414417,Histone acetyltransferase RTT109,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),Q07794,True
+CHEMBL4669,Histone acetyltransferase GCN5,Saccharomyces cerevisiae S288c,Q6B165,True
+CHEMBL232,Alpha-1B adrenergic receptor,Homo sapiens,P35368,True
+CHEMBL223,Alpha-1D adrenergic receptor,Homo sapiens,Q9NPY0,True
+CHEMBL4105939,Polyketide synthase Pks13,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),I6X8D2,True
+CHEMBL4550,Arachidonate 5-lipoxygenase-activating protein,Homo sapiens,Q5VV04,True
+CHEMBL1293313,Leucine aminopeptidase,Plasmodium falciparum 3D7,Q8IL11,True
+CHEMBL1795140,Transmembrane protease serine 2,Homo sapiens,Q9BXX1,True
+CHEMBL4837,Type 1 fimbrin D-mannose specific adhesin,Escherichia coli K-12,Q2M5Z3,True
+CHEMBL3797020,Lectin,Burkholderia cenocepacia (strain ATCC BAA-245 / DSM 16553 / LMG 16656/ NCTC 13227 / J2315 / CF5610) (Burkholderia cepacia (strain J2315)),B4EH87,True
+CHEMBL1293296,14-3-3 protein gamma,Homo sapiens,Q9UN99,True
+CHEMBL4372,Lethal factor,Bacillus anthracis,Q933F6,True
+CHEMBL1829,Histone deacetylase 3,Homo sapiens,Q9UEV0,True
+CHEMBL3192,Histone deacetylase 8,Homo sapiens,Q9NYH4,True
+CHEMBL1865,Histone deacetylase 6,Homo sapiens,Q9UBN7,True
+CHEMBL1937,Histone deacetylase 2,Homo sapiens,Q92769,True
+CHEMBL3310,Histone deacetylase 11,Homo sapiens,Q9NTC9,True
+CHEMBL5103,Polyamine deacetylase HDAC10,Homo sapiens,Q9UGX2,True
+CHEMBL4296326,Anthrax toxin receptor 2,Homo sapiens,Q96NC7,True
+CHEMBL4295521,Phosphotyrosine protein phosphatase,Mycobacterium tuberculosis,A0A045ISB3,True
+CHEMBL3807,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens,Q96HR2,True
+CHEMBL246,Beta-3 adrenergic receptor,Homo sapiens,Q4JFT4,True
+CHEMBL4261,Hypoxia-inducible factor 1-alpha,Homo sapiens,Q9UPB1,True
+CHEMBL2007625,Isocitrate dehydrogenase [NADP] cytoplasmic,Homo sapiens,Q9UKW8,True
+CHEMBL2424511,3-oxoacyl-(Acyl-carrier protein) reductase,Plasmodium falciparum (isolate 3D7),Q8I2S7,True
+CHEMBL1812,Pancreatic triacylglycerol lipase,Homo sapiens,Q5VSQ2,True
+CHEMBL1795096,Endoribonuclease toxin MazF,Escherichia coli K-12,Q2MA50,True
+CHEMBL3974,Proteinase-activated receptor 1,Homo sapiens,Q9BUN4,True
+CHEMBL3308960,Alpha-amylase,Sus scrofa domesticus,Q7M328,True
+CHEMBL5725151,"Pyruvate carboxylase, mitochondrial",Homo sapiens,Q16705,True
+CHEMBL1801,Plasminogen,Homo sapiens,Q6PA00,True
+CHEMBL3223,5-hydroxytryptamine receptor 7,Rattus norvegicus,P97936,True
+CHEMBL1628477,Acid-sensing ion channel 1,Homo sapiens,Q96CV2,True
+CHEMBL3268,Phosphatidylinositol 4-kinase beta,Homo sapiens,Q9UBF8,True
+CHEMBL4225,Dual specificity protein kinase CLK2,Homo sapiens,Q96CQ0,True
+CHEMBL265,D(1A) dopamine receptor,Rattus norvegicus,P21669,True
+CHEMBL3429,Steroid hormone receptor ERR1,Homo sapiens,Q14514,True
+CHEMBL3751,Steroid hormone receptor ERR2,Homo sapiens,Q9HCB4,True
+CHEMBL3412,Stromelysin-3,Mus musculus,Q02853,True
+CHEMBL4588,Neutrophil collagenase,Homo sapiens,Q45F99,True
+CHEMBL2971,Tyrosine-protein kinase JAK2,Homo sapiens,O60674,True
+CHEMBL5872,G-protein coupled estrogen receptor 1,Homo sapiens,Q99981,True
+CHEMBL5619,DNA repair nuclease/redox regulator APEX1,Homo sapiens,Q99775,True
+CHEMBL1993,DNA (cytosine-5)-methyltransferase 1,Homo sapiens,Q9UMZ6,True
+CHEMBL3307224,Nonstructural protein 5A,Hepatitis C virus,Q5L478,True
+CHEMBL2390811,Thioredoxin reductase,Mycobacterium tuberculosis,P9WHH1,True
+CHEMBL2889,Tyrosine-protein phosphatase non-receptor type 22,Homo sapiens,Q9Y2R2,True
+CHEMBL4295885,Tyrosinase,Danio rerio,Q8AYA1,True
+CHEMBL1868,Vascular endothelial growth factor receptor 1,Homo sapiens,Q12954,True
+CHEMBL3468,Caspase-7,Homo sapiens,Q96BA0,True
+CHEMBL2047,Bile acid receptor,Homo sapiens,Q96RI1,True
+CHEMBL1743121,Solute carrier organic anion transporter family member 1B3,Homo sapiens,Q9NPD5,True
+CHEMBL1697668,Solute carrier organic anion transporter family member 1B1,Homo sapiens,Q9Y6L6,True
+CHEMBL6135,Neuraminidase,Influenza A virus,B4URF0,True
+CHEMBL3275,NAD-dependent histone deacetylase SIR2,Saccharomyces cerevisiae S288c,P06700,True
+CHEMBL2176778,Protein mono-ADP-ribosyltransferase PARP15,Homo sapiens,Q8N1K3,True
+CHEMBL1628468,Transient receptor potential cation channel subfamily M member 5,Homo sapiens,Q9NZQ8,True
+CHEMBL1741172,Large ribosomal subunit protein eL19A,Saccharomyces cerevisiae S288c,P0CX82,True
+CHEMBL3616,Protein kinase C eta type,Homo sapiens,Q8NE03,True
+CHEMBL4630859,Sialin,Homo sapiens,Q9UGH0,True
+CHEMBL3308998,Genome polyprotein,dengue virus type 2,Q88655,True
+CHEMBL5695,Intestinal-type alkaline phosphatase,Bos taurus,Q28124,True
+CHEMBL1929,Xanthine dehydrogenase/oxidase,Homo sapiens,Q4PJ16,True
+CHEMBL3085613,DNA gyrase subunit B,Mycobacterium smegmatis,Q59555,True
+CHEMBL2069,Thromboxane A2 receptor,Homo sapiens,Q9UCY2,True
+CHEMBL1293243,Mucolipin-3,Homo sapiens,Q9NV09,True
+CHEMBL327,Alpha-2A adrenergic receptor,Rattus norvegicus,P22909,True
+CHEMBL3737,5-hydroxytryptamine receptor 1A,Mus musculus,Q8BGS4,True
+CHEMBL3774295,Lysine-specific demethylase 5B,Homo sapiens,Q9Y3Q5,True
+CHEMBL5362,Sortase A,Staphylococcus aureus,Q9S446,True
+CHEMBL3371,5-hydroxytryptamine receptor 6,Homo sapiens,Q5TGZ1,True
+CHEMBL231,Histamine H1 receptor,Homo sapiens,Q6P9E5,True
+CHEMBL225,5-hydroxytryptamine receptor 2C,Homo sapiens,Q9NP28,True
+CHEMBL308,Cyclin-dependent kinase 1,Homo sapiens,P06493,True
+CHEMBL6187,MecA,Staphylococcus aureus,Q7DHH4,True
+CHEMBL2079849,Serine protease hepsin,Homo sapiens,P05981,True
+CHEMBL5722,Ectonucleoside triphosphate diphosphohydrolase 1,Homo sapiens,Q9Y3Q9,True
+CHEMBL3922,Methionine aminopeptidase 2,Homo sapiens,Q8NB11,True
+CHEMBL1772932,Mitotic checkpoint serine/threonine-protein kinase BUB1,Homo sapiens,Q53QE4,True
+CHEMBL1781865,Endoplasmic reticulum chaperone BiP,Homo sapiens,Q9UK02,True
+CHEMBL4295757,"Stress-70 protein, mitochondrial",Homo sapiens,Q9UC56,True
+CHEMBL2062348,Heat shock-related 70 kDa protein 2,Homo sapiens,Q9UE78,True
+CHEMBL5460,Heat shock 70 kDa protein 1A,Homo sapiens,Q9UQM0,True
+CHEMBL2424504,Lysine-specific demethylase 5A,Homo sapiens,Q86XZ1,True
+CHEMBL4685,"Indoleamine 2,3-dioxygenase 1",Homo sapiens,Q540B4,True
+CHEMBL4630869,Collagenase ColH,Hathewaya histolytica,Q46085,True
+CHEMBL3988623,Thyrotropin releasing hormone degrading enzyme,Sus scrofa,F1SH20,True
+CHEMBL4553,Thyrotropin-releasing hormone receptor,Rattus norvegicus,Q63949,True
+CHEMBL2820,Coagulation factor XI,Homo sapiens,Q9Y495,True
+CHEMBL244,Coagulation factor X,Homo sapiens,P00742,True
+CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Q5EE02,True
+CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Q96KH8,True
+CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Q14996,True
+CHEMBL1075093,Farnesyl pyrophosphate synthase,Rattus norvegicus,Q6GT82,True
+CHEMBL3236,Tyrosine-protein phosphatase non-receptor type 12,Homo sapiens,Q86XU4,True
+CHEMBL3166,Tyrosine-protein phosphatase non-receptor type 6,Homo sapiens,Q9UK67,True
+CHEMBL4703,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,Homo sapiens,P67775,True
+CHEMBL3243,Receptor-type tyrosine-protein phosphatase C,Homo sapiens,X6R433,True
+CHEMBL3924,Dual specificity protein phosphatase 22,Homo sapiens,Q9NRW4,True
+CHEMBL4523923,Probable G-protein coupled receptor 27,Homo sapiens,Q9NS67,True
+CHEMBL4523345,Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6,Homo sapiens,Q9Y4E2,True
+CHEMBL1293281,Epstein-Barr nuclear antigen 1,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Q777E1,True
+CHEMBL2331053,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",Homo sapiens,Q5VX19,True
+CHEMBL3578,"Aldehyde dehydrogenase, dimeric NADP-preferring",Homo sapiens,Q9BT37,True
+CHEMBL3879827,Chromodomain Y-like protein,Homo sapiens,Q9Y424,True
+CHEMBL2073682,ATP-binding cassette sub-family C member 3,Rattus norvegicus,O88563,True
+CHEMBL2176846,Advanced glycosylation end product-specific receptor,Homo sapiens,V5R6A3,True
+CHEMBL283,Stromelysin-1,Homo sapiens,Q6GRF8,True
+CHEMBL4481,"Nitric oxide synthase, inducible",Homo sapiens,Q9UD42,True
+CHEMBL5800,Falcipain 2,Plasmodium falciparum,Q9N6S8,True
+CHEMBL4510,Cysteine protease falcipain-3,Plasmodium falciparum,Q9NBA7,True
+CHEMBL2251,Phosphatidylinositol 4-kinase type 2-alpha,Homo sapiens,Q9NSG8,True
+CHEMBL4241,Squalene monooxygenase,Rattus norvegicus,Q4V8L3,True
+CHEMBL3713355,Polypeptide N-acetylgalactosaminyltransferase 2,Homo sapiens,Q9NPY4,True
+CHEMBL4523371,Polypeptide N-acetylgalactosaminyltransferase 10,Homo sapiens,Q9Y4M4,True
+CHEMBL4523427,Polypeptide N-acetylgalactosaminyltransferase 14,Homo sapiens,Q9H9J8,True
+CHEMBL4523291,Polypeptide N-acetylgalactosaminyltransferase 3,Homo sapiens,Q7Z476,True
+CHEMBL4523400,Polypeptide N-acetylgalactosaminyltransferase 6,Homo sapiens,Q9UIV5,True
+CHEMBL4523282,Polypeptide N-acetylgalactosaminyltransferase 1,Homo sapiens,Q9UM86,True
+CHEMBL4523392,Polypeptide N-acetylgalactosaminyltransferase 13,Homo sapiens,Q9UIE5,True
+CHEMBL2424510,E3 ubiquitin-protein ligase UHRF1,Homo sapiens,Q9P1U7,True
+CHEMBL3663,Growth factor receptor-bound protein 2,Homo sapiens,P62993,True
+CHEMBL5393,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens,Q9UNQ0,True
+CHEMBL3116,Cyclin-dependent kinase 9,Homo sapiens,Q96TF1,True
+CHEMBL5792,Cytochrome P450 3A43,Homo sapiens,Q9HB57,True
+CHEMBL1838,Chromaffin granule amine transporter,Homo sapiens,Q9BRE4,True
+CHEMBL1893,Synaptic vesicular amine transporter,Homo sapiens,Q9H3P6,True
+CHEMBL4042,Prostaglandin G/H synthase 1,Rattus norvegicus,Q63921,True
+CHEMBL3091269,NAD(P)H dehydrogenase [quinone] 1,Rattus norvegicus,Q63478,True
+CHEMBL2232,Proprotein convertase subtilisin/kexin type 7,Homo sapiens,Q9UL57,True
+CHEMBL4040,Mitogen-activated protein kinase 1,Homo sapiens,P28482,True
+CHEMBL6020,Bile salt export pump,Homo sapiens,Q9UNB2,True
+CHEMBL2150835,Enoyl-[acyl-carrier-protein] reductase [NADH],Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4),Q5NGQ3,True
+CHEMBL6086,ATP phosphoribosyltransferase,Mycobacterium tuberculosis,P9WMN1,True
+CHEMBL1169598,Polymerase acidic protein,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),Q8JUU6,True
+CHEMBL4680034,5'-nucleotidase,Mus musculus,Q61503,True
+CHEMBL5542,DNA polymerase eta,Homo sapiens,Q9Y253,True
+CHEMBL5391,DNA polymerase iota,Homo sapiens,Q9UNA4,True
+CHEMBL1293258,Mothers against decapentaplegic homolog 3,Homo sapiens,P84022,True
+CHEMBL1957,Insulin-like growth factor 1 receptor,Homo sapiens,Q9UCC0,True
+CHEMBL4128,Angiopoietin-1 receptor,Homo sapiens,Q8IV34,True
+CHEMBL1641347,Solute carrier family 22 member 6,Homo sapiens,Q9UEQ8,True
+CHEMBL1981,Insulin receptor,Homo sapiens,P06213,True
+CHEMBL4739681,Ectonucleoside triphosphate diphosphohydrolase 1,Mus musculus,P55772,True
+CHEMBL5784,NUAK family SNF1-like kinase 1,Homo sapiens,Q96KA8,True
+CHEMBL1293308,Likely tRNA 2'-phosphotransferase,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast),Q5A7N4,True
+CHEMBL4105924,ELAV-like protein 3,Homo sapiens,Q96QS9,True
+CHEMBL4394,Sphingosine kinase 1,Homo sapiens,Q9NYL3,True
+CHEMBL1955,Vascular endothelial growth factor receptor 3,Homo sapiens,Q86W08,True
+CHEMBL5147,Ephrin type-B receptor 4,Homo sapiens,Q9BXP0,True
+CHEMBL4899,Mitogen-activated protein kinase kinase kinase 8,Homo sapiens,Q9HC81,True
+CHEMBL4722,Aurora kinase A,Homo sapiens,O14965,True
+CHEMBL2185,Aurora kinase B,Homo sapiens,Q9UQ46,True
+CHEMBL4363,Tyrosine-protein kinase Lyn,Rattus norvegicus,Q63320,True
+CHEMBL3788,Serine/threonine-protein kinase PLK4,Homo sapiens,Q9UDE2,True
+CHEMBL2695,Focal adhesion kinase 1,Homo sapiens,Q9UD85,True
+CHEMBL4282,RAC-alpha serine/threonine-protein kinase,Homo sapiens,P31749,True
+CHEMBL3024,Serine/threonine-protein kinase PLK1,Homo sapiens,P53350,True
+CHEMBL4524025,Translin-associated protein X,Homo sapiens,Q99598,True
+CHEMBL4364,Tyrosine-protein kinase SYK,Rattus norvegicus,Q64725,True
+CHEMBL4362,Tyrosine-protein kinase Fgr,Rattus norvegicus,Q6P6U0,True
+CHEMBL2409,Bifunctional epoxide hydrolase 2,Homo sapiens,P34913,True
+CHEMBL5406,Histone-arginine methyltransferase CARM1,Homo sapiens,Q86X55,True
+CHEMBL1275223,Heat shock cognate 71 kDa protein,Homo sapiens,Q9H3R6,True
+CHEMBL1287617,UDP-glucuronosyltransferase 1A1,Homo sapiens,P22309,True
+CHEMBL2964,Dual specificity mitogen-activated protein kinase kinase 2,Homo sapiens,P36507,True
+CHEMBL4948,Dual specificity mitogen-activated protein kinase kinase 5,Homo sapiens,Q92962,True
+CHEMBL3542436,Cytochrome P450 2A13,Homo sapiens,Q9H2X2,True
+CHEMBL254,"3',5'-cyclic-AMP phosphodiesterase 4A",Homo sapiens,Q9H3H2,True

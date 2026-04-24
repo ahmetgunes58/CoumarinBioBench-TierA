@@ -1,0 +1,13 @@
+metric,value,notes
+core_records,11579,Tier-A Core bioactivity records.
+unique_compounds,5390,Unique molecule ChEMBL IDs in Tier-A Core.
+unique_targets,632,Unique ChEMBL protein targets.
+unique_compound_target_edges,9926,Unique molecule-target pairs.
+single_target_compounds,3021,Compounds annotated to one ChEMBL target.
+single_target_percent,56.0482,Percentage of compounds annotated to one ChEMBL target.
+multi_target_compounds,2369,Compounds annotated to at least two ChEMBL targets.
+multi_target_percent,43.9518,Percentage of compounds annotated to at least two targets.
+compounds_with_degree_ge_5,221,Compounds annotated to five or more targets.
+compounds_with_degree_ge_10,30,Compounds annotated to ten or more targets.
+max_chembl_target_degree,71,Highest degree molecule: CHEMBL6246.
+top_target_by_unique_compounds,CHEMBL2039,Amine oxidase [flavin-containing] B | 661 compounds | 714 records.

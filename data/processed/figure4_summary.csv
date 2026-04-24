@@ -1,0 +1,13 @@
+metric,value
+total_records,11579
+target_families,11
+total_targets,632
+human_records,8484
+nonhuman_records,3095
+human_record_percent,73.27057604283617
+nonhuman_record_percent,26.729423957163835
+top_family_by_records,Other enzymes
+top_family_record_count,2130
+top_family_record_percent,18.39537093013213
+top_family_by_unique_compounds,Other enzymes
+top_unique_compound_count,1284

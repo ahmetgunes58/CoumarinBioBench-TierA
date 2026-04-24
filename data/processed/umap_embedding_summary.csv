@@ -1,0 +1,17 @@
+metric,value
+n_compounds,5390
+unique_compounds,5390
+umap1_min,-9.887399673461914
+umap1_max,24.336328506469727
+umap2_min,-9.683577537536621
+umap2_max,21.439697265625
+degree_class_single-target,3021
+degree_class_multi-target,2369
+high_degree_compounds_degree_ge_5,221
+parameter_n_neighbors,15
+parameter_min_dist,0.1
+parameter_n_components,2
+parameter_metric,jaccard
+parameter_random_state,42
+parameter_n_compounds,5390
+parameter_n_fingerprint_bits,2048

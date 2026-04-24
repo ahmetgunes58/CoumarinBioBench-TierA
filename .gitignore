@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS / file manager noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional local env folders
+.venv/
+venv/
+env/
+
+# Optional editor folders
+.vscode/
+.idea/

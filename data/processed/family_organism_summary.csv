@@ -1,0 +1,116 @@
+target_family,organism_group,target_organism,record_count,unique_targets,unique_compounds,family_record_count,percent_of_family_records
+Carbonic anhydrases,Human,Homo sapiens,1807,12,541,1870,96.63101604278074
+Carbonic anhydrases,Non-human,Mus musculus,41,2,21,1870,2.1925133689839575
+Carbonic anhydrases,Non-human,Bos taurus,22,2,22,1870,1.1764705882352942
+Cholinesterases,Human,Homo sapiens,464,2,300,1265,36.6798418972332
+Cholinesterases,Non-human,Electrophorus electricus,449,1,427,1265,35.49407114624506
+Cholinesterases,Non-human,Equus caballus,289,1,286,1265,22.845849802371543
+Cholinesterases,Non-human,Bos taurus,29,1,28,1265,2.292490118577075
+Cholinesterases,Non-human,Mus musculus,25,1,24,1265,1.9762845849802373
+Cholinesterases,Non-human,Rattus norvegicus,9,2,5,1265,0.7114624505928854
+Cytochrome P450s,Human,Homo sapiens,490,15,198,492,99.59349593495935
+Cytochrome P450s,Non-human,Oryctolagus cuniculus,1,1,1,492,0.20325203252032523
+Cytochrome P450s,Non-human,Rattus norvegicus,1,1,1,492,0.20325203252032523
+G protein-coupled receptors,Human,Homo sapiens,994,46,466,1278,77.77777777777779
+G protein-coupled receptors,Non-human,Rattus norvegicus,263,13,113,1278,20.579029733959313
+G protein-coupled receptors,Non-human,Cavia porcellus,17,2,17,1278,1.330203442879499
+G protein-coupled receptors,Non-human,Mus musculus,4,2,4,1278,0.3129890453834116
+Ion channels and transporters,Human,Homo sapiens,304,37,176,383,79.37336814621409
+Ion channels and transporters,Non-human,Mus musculus,54,3,33,383,14.099216710182768
+Ion channels and transporters,Non-human,Rattus norvegicus,24,5,17,383,6.266318537859007
+Ion channels and transporters,Non-human,Leishmania mexicana,1,1,1,383,0.26109660574412535
+Kinases,Human,Homo sapiens,506,65,259,586,86.3481228668942
+Kinases,Non-human,Rattus norvegicus,38,4,36,586,6.484641638225256
+Kinases,Non-human,Streptococcus pyogenes serotype M1,37,1,27,586,6.313993174061433
+Kinases,Non-human,Toxoplasma gondii,3,1,1,586,0.5119453924914675
+Kinases,Non-human,Mus musculus,2,2,2,586,0.3412969283276451
+Monoamine oxidases,Human,Homo sapiens,1043,2,713,1618,64.46229913473424
+Monoamine oxidases,Non-human,Rattus norvegicus,519,2,245,1618,32.07663782447466
+Monoamine oxidases,Non-human,Bos taurus,51,2,39,1618,3.15203955500618
+Monoamine oxidases,Non-human,Mus musculus,5,2,3,1618,0.30902348578491967
+Nuclear receptors,Human,Homo sapiens,573,22,327,594,96.46464646464646
+Nuclear receptors,Non-human,Rattus norvegicus,21,1,21,594,3.535353535353535
+Other enzymes,Human,Homo sapiens,1312,122,784,2130,61.5962441314554
+Other enzymes,Non-human,Human immunodeficiency virus 1,192,2,137,2130,9.014084507042254
+Other enzymes,Non-human,Rattus norvegicus,127,12,94,2130,5.962441314553991
+Other enzymes,Non-human,Escherichia coli K-12,59,2,30,2130,2.7699530516431925
+Other enzymes,Non-human,Escherichia coli,54,1,30,2130,2.535211267605634
+Other enzymes,Non-human,Staphylococcus aureus,52,3,32,2130,2.4413145539906105
+Other enzymes,Non-human,Mycobacterium tuberculosis,45,7,42,2130,2.112676056338028
+Other enzymes,Non-human,Pseudomonas aeruginosa,41,2,25,2130,1.9248826291079812
+Other enzymes,Non-human,Bos taurus,29,5,29,2130,1.3615023474178403
+Other enzymes,Non-human,Ovis aries,29,2,26,2130,1.3615023474178403
+Other enzymes,Non-human,Canavalia ensiformis,28,1,27,2130,1.3145539906103285
+Other enzymes,Non-human,Bacillus anthracis,22,1,22,2130,1.0328638497652582
+Other enzymes,Non-human,Glycine max,18,2,18,2130,0.8450704225352111
+Other enzymes,Non-human,Photinus pyralis,18,1,9,2130,0.8450704225352111
+Other enzymes,Non-human,Cryptosporidium parvum,13,1,13,2130,0.6103286384976526
+Other enzymes,Non-human,Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R),9,1,9,2130,0.42253521126760557
+Other enzymes,Non-human,Plasmodium falciparum,8,2,8,2130,0.3755868544600939
+Other enzymes,Non-human,Thermus aquaticus,8,1,8,2130,0.3755868544600939
+Other enzymes,Non-human,Trypanosoma cruzi,8,2,6,2130,0.3755868544600939
+Other enzymes,Non-human,Agaricus bisporus,7,1,5,2130,0.32863849765258213
+Other enzymes,Non-human,Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC27009 / DSM 446 / 104-1A) (Bacillus acidocaldarius),7,1,7,2130,0.32863849765258213
+Other enzymes,Non-human,Mus musculus,6,2,5,2130,0.28169014084507044
+Other enzymes,Non-human,Saccharomyces cerevisiae S288c,5,3,3,2130,0.2347417840375587
+Other enzymes,Non-human,Sus scrofa domesticus,4,1,4,2130,0.18779342723004694
+Other enzymes,Non-human,Salmonella choleraesuis (strain SC-B67),3,1,3,2130,0.14084507042253522
+Other enzymes,Non-human,Bacteria,2,1,2,2130,0.09389671361502347
+Other enzymes,Non-human,Cochliobolus lunatus,2,1,1,2130,0.09389671361502347
+Other enzymes,Non-human,Danio rerio,2,1,1,2130,0.09389671361502347
+Other enzymes,Non-human,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),2,1,2,2130,0.09389671361502347
+Other enzymes,Non-human,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),2,1,2,2130,0.09389671361502347
+Other enzymes,Non-human,Oryctolagus cuniculus,2,1,2,2130,0.09389671361502347
+Other enzymes,Non-human,Plasmodium berghei,2,1,2,2130,0.09389671361502347
+Other enzymes,Non-human,Sus scrofa,2,1,1,2130,0.09389671361502347
+Other enzymes,Non-human,Trypanosoma brucei,2,1,2,2130,0.09389671361502347
+Other enzymes,Non-human,Candida albicans,1,1,1,2130,0.046948356807511735
+Other enzymes,Non-human,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast),1,1,1,2130,0.046948356807511735
+Other enzymes,Non-human,Cavia cutleri,1,1,1,2130,0.046948356807511735
+Other enzymes,Non-human,Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4),1,1,1,2130,0.046948356807511735
+Other enzymes,Non-human,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),1,1,1,2130,0.046948356807511735
+Other enzymes,Non-human,Mycobacterium smegmatis,1,1,1,2130,0.046948356807511735
+Other enzymes,Non-human,Plasmodium falciparum (isolate 3D7),1,1,1,2130,0.046948356807511735
+Other enzymes,Non-human,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),1,1,1,2130,0.046948356807511735
+Other/unclassified,Human,Homo sapiens,653,83,382,820,79.63414634146342
+Other/unclassified,Non-human,Mus musculus,21,8,20,820,2.5609756097560976
+Other/unclassified,Non-human,Candida albicans (strain WO-1) (Yeast),18,1,16,820,2.195121951219512
+Other/unclassified,Non-human,Nicotiana tabacum,15,1,15,820,1.8292682926829267
+Other/unclassified,Non-human,Bos taurus,14,1,14,820,1.707317073170732
+Other/unclassified,Non-human,Caenorhabditis elegans,12,3,8,820,1.4634146341463417
+Other/unclassified,Non-human,Mycobacterium tuberculosis,11,3,10,820,1.3414634146341464
+Other/unclassified,Non-human,Saccharomyces cerevisiae S288c,11,4,8,820,1.3414634146341464
+Other/unclassified,Non-human,Human immunodeficiency virus 1,8,1,8,820,0.975609756097561
+Other/unclassified,Non-human,Herpes simplex virus (type 1 / strain 17),7,1,7,820,0.853658536585366
+Other/unclassified,Non-human,Plasmodium falciparum 3D7,6,1,6,820,0.7317073170731708
+Other/unclassified,Non-human,Rattus norvegicus,5,2,4,820,0.6097560975609756
+Other/unclassified,Non-human,Human herpesvirus 4 (strain B95-8),4,1,4,820,0.4878048780487805
+Other/unclassified,Non-human,Human herpesvirus 8,4,1,4,820,0.4878048780487805
+Other/unclassified,Non-human,Sus scrofa,4,3,4,820,0.4878048780487805
+Other/unclassified,Non-human,Escherichia coli K-12,3,2,2,820,0.3658536585365854
+Other/unclassified,Non-human,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)(HIV-1),3,1,3,820,0.3658536585365854
+Other/unclassified,Non-human,Severe acute respiratory syndrome coronavirus 2,3,1,3,820,0.3658536585365854
+Other/unclassified,Non-human,Staphylococcus aureus,3,2,3,820,0.3658536585365854
+Other/unclassified,Non-human,Burkholderia cenocepacia (strain ATCC BAA-245 / DSM 16553 / LMG 16656/ NCTC 13227 / J2315 / CF5610) (Burkholderia cepacia (strain J2315)),2,1,2,820,0.24390243902439024
+Other/unclassified,Non-human,Hepatitis C virus,2,2,2,820,0.24390243902439024
+Other/unclassified,Non-human,Pseudomonas aeruginosa (strain LESB58),2,1,1,820,0.24390243902439024
+Other/unclassified,Non-human,Bacillus anthracis,1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM4680),1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,Influenza A virus,1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,Mesocricetus auratus,1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,Plasmodium falciparum,1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228),1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,Vibrio harveyi,1,1,1,820,0.12195121951219512
+Other/unclassified,Non-human,dengue virus type 2,1,1,1,820,0.12195121951219512
+Proteases,Human,Homo sapiens,338,35,246,543,62.246777163904234
+Proteases,Non-human,Human immunodeficiency virus 1,96,2,84,543,17.67955801104972
+Proteases,Non-human,Plasmodium falciparum FcB1/Columbia,43,1,43,543,7.918968692449356
+Proteases,Non-human,Sus scrofa,23,2,23,543,4.23572744014733
+Proteases,Non-human,Saccharomyces cerevisiae S288c,20,2,18,543,3.683241252302026
+Proteases,Non-human,Bos taurus,13,2,13,543,2.394106813996317
+Proteases,Non-human,Plasmodium falciparum 3D7,3,1,3,543,0.5524861878453038
+Proteases,Non-human,Trypanosoma cruzi,3,1,2,543,0.5524861878453038
+Proteases,Non-human,Infectious bronchitis virus,2,1,2,543,0.3683241252302026
+Proteases,Non-human,Hathewaya histolytica,1,1,1,543,0.1841620626151013
+Proteases,Non-human,Plasmodium falciparum,1,1,1,543,0.1841620626151013

@@ -1,0 +1,21 @@
+panel,step,label,records,records_removed,percent_removed,unique_molecules,unique_targets,retained_percent_of_raw,dataset_layer,doi_coverage_percent,validity_comment,record_count
+A_workflow,P0_raw_dataset,Raw dataset,180653.0,0.0,0.0,21632.0,2082.0,100.0,,,,
+A_workflow,P0_01_single_protein_targets,Single-protein targets,67520.0,113133.0,62.6245,11856.0,1301.0,37.37552102649831,,,,
+A_workflow,P0_02_exact_relation_equals,Exact relation '=',33513.0,34007.0,50.3658,10074.0,940.0,18.55103430333291,,,,
+A_workflow,P0_03_accepted_endpoints,Accepted endpoints,12211.0,21302.0,63.5634,5578.0,661.0,6.759367406021488,,,,
+A_workflow,P0_04_nM_standardized_units,nM-standardized values,12017.0,194.0,1.5887,5540.0,656.0,6.651979208759334,,,,
+A_workflow,P0_05_positive_numeric_values,Tier-A Screened,12012.0,5.0,0.0416,5538.0,656.0,6.649211471716495,,,,
+A_workflow,P0_06_remove_data_validity_warnings,Tier-A Core,11579.0,433.0,3.6047,5390.0,632.0,6.409525443806635,,,,
+B_attrition_curve,P0_raw_dataset,Raw dataset,180653.0,0.0,0.0,21632.0,2082.0,100.0,,,,
+B_attrition_curve,P0_01_single_protein_targets,Single-protein targets,67520.0,113133.0,62.6245,11856.0,1301.0,37.37552102649831,,,,
+B_attrition_curve,P0_02_exact_relation_equals,Exact relation '=',33513.0,34007.0,50.3658,10074.0,940.0,18.55103430333291,,,,
+B_attrition_curve,P0_03_accepted_endpoints,Accepted endpoints,12211.0,21302.0,63.5634,5578.0,661.0,6.759367406021488,,,,
+B_attrition_curve,P0_04_nM_standardized_units,nM-standardized values,12017.0,194.0,1.5887,5540.0,656.0,6.651979208759334,,,,
+B_attrition_curve,P0_05_positive_numeric_values,Tier-A Screened,12012.0,5.0,0.0416,5538.0,656.0,6.649211471716495,,,,
+B_attrition_curve,P0_06_remove_data_validity_warnings,Tier-A Core,11579.0,433.0,3.6047,5390.0,632.0,6.409525443806635,,,,
+C_benchmark_tiers,,,180653.0,,,21632.0,2082.0,,Raw,47.4612,,
+C_benchmark_tiers,,,12012.0,,,5538.0,656.0,,Tier-A Screened,88.5365,,
+C_benchmark_tiers,,,11579.0,,,5390.0,632.0,,Tier-A Core,88.246,,
+D_validity_warnings,,,,,,,,,,,Outside typical range,425.0
+D_validity_warnings,,,,,,,,,,,Potential transcription error,7.0
+D_validity_warnings,,,,,,,,,,,Manually validated,1.0

@@ -1,0 +1,633 @@
+target_chembl_id,target_name,target_organism,organism_group,uniprot_accession,target_family,record_count,unique_compounds,endpoint_types,dominant_endpoint,endpoint_homogeneity,doi_count,year_min,year_max,pchembl_min,pchembl_max,pchembl_range
+CHEMBL3594,Carbonic anhydrase 9,Homo sapiens,Human,Q5T4R1,Carbonic anhydrases,471,448,IC50; Ki,Ki,0.9554140127388535,41,2005,2024,4.1,8.64,4.540000000000001
+CHEMBL3242,Carbonic anhydrase 12,Homo sapiens,Human,Q9BWG2,Carbonic anhydrases,444,428,Ki,Ki,1.0,35,2008,2024,4.31,9.27,4.96
+CHEMBL261,Carbonic anhydrase 1,Homo sapiens,Human,P00915,Carbonic anhydrases,235,219,IC50; Ki,Ki,0.9787234042553191,26,2000,2024,4.0,9.0,5.0
+CHEMBL205,Carbonic anhydrase 2,Homo sapiens,Human,P00918,Carbonic anhydrases,213,204,IC50; Ki,Ki,0.8826291079812206,28,2000,2024,4.01,10.0,5.99
+CHEMBL2326,Carbonic anhydrase 7,Homo sapiens,Human,Q86YU0,Carbonic anhydrases,108,106,Ki,Ki,1.0,10,2008,2024,4.11,9.22,5.11
+CHEMBL3729,Carbonic anhydrase 4,Homo sapiens,Human,Q6FHI7,Carbonic anhydrases,90,90,Ki,Ki,1.0,9,2008,2024,4.21,9.36,5.1499999999999995
+CHEMBL3969,"Carbonic anhydrase 5B, mitochondrial",Homo sapiens,Human,Q9Y2D0,Carbonic anhydrases,78,77,Ki,Ki,1.0,8,2008,2024,4.46,8.08,3.62
+CHEMBL4789,"Carbonic anhydrase 5A, mitochondrial",Homo sapiens,Human,P35218,Carbonic anhydrases,78,77,Ki,Ki,1.0,9,2005,2024,4.02,8.17,4.15
+CHEMBL3912,Carbonic anhydrase 13,Homo sapiens,Human,Q8N1Q1,Carbonic anhydrases,28,28,Ki,Ki,1.0,3,2010,2013,4.02,5.5,1.4800000000000004
+CHEMBL3510,Carbonic anhydrase 14,Homo sapiens,Human,Q9ULX7,Carbonic anhydrases,23,22,Ki,Ki,1.0,5,2008,2012,5.05,7.4,2.3500000000000005
+CHEMBL2186,Carbonic anhydrase 13,Mus musculus,Non-human,Q9D6N1,Carbonic anhydrases,21,21,Ki,Ki,1.0,3,2008,2010,4.69,7.35,2.6599999999999993
+CHEMBL3025,Carbonic anhydrase 6,Homo sapiens,Human,Q9UF03,Carbonic anhydrases,21,20,Ki,Ki,1.0,5,2008,2012,4.03,7.0,2.9699999999999998
+CHEMBL281,Carbonic anhydrase 4,Bos taurus,Non-human,Q95323,Carbonic anhydrases,20,20,Ki,Ki,1.0,1,2000,2000,6.5,9.22,2.7200000000000006
+CHEMBL5973,Carbonic anhydrase 15,Mus musculus,Non-human,Q99N23,Carbonic anhydrases,20,19,Ki,Ki,1.0,2,2010,2010,4.03,7.34,3.3099999999999996
+CHEMBL2885,Carbonic anhydrase 3,Homo sapiens,Human,P07451,Carbonic anhydrases,18,18,Ki,Ki,1.0,3,2010,2012,4.02,5.42,1.4000000000000004
+CHEMBL2283,Carbonic anhydrase 2,Bos taurus,Non-human,Q865Y7,Carbonic anhydrases,2,2,IC50,IC50,1.0,1,2014,2014,4.87,4.95,0.08000000000000007
+CHEMBL2039,Amine oxidase [flavin-containing] B,Homo sapiens,Human,Q7Z6S2,Monoamine oxidases,714,661,IC50; Ki,IC50,0.988795518207283,64,2002,2024,4.03,9.87,5.839999999999999
+CHEMBL1951,Amine oxidase [flavin-containing] A,Homo sapiens,Human,Q16426,Monoamine oxidases,329,313,AC50; EC50; IC50; Ki,IC50,0.9756838905775076,45,2002,2024,4.01,8.42,4.41
+CHEMBL2993,Amine oxidase [flavin-containing] B,Rattus norvegicus,Non-human,Q5EBB5,Monoamine oxidases,359,233,IC50,IC50,1.0,16,1994,2022,4.0,9.4,5.4
+CHEMBL3358,Amine oxidase [flavin-containing] A,Rattus norvegicus,Non-human,Q63817,Monoamine oxidases,160,133,IC50,IC50,1.0,13,1994,2020,4.0,8.3,4.300000000000001
+CHEMBL2756,Amine oxidase [flavin-containing] B,Bos taurus,Non-human,Q864W3,Monoamine oxidases,39,39,Ki,Ki,1.0,2,2006,2012,5.2,6.32,1.12
+CHEMBL3254,Amine oxidase [flavin-containing] A,Bos taurus,Non-human,Q0IIE7,Monoamine oxidases,12,12,Ki,Ki,1.0,2,2006,2012,5.62,11.0,5.38
+CHEMBL3681,Amine oxidase [flavin-containing] A,Mus musculus,Non-human,Q8K0Z8,Monoamine oxidases,4,3,IC50,IC50,1.0,2,2013,2019,5.24,10.46,5.220000000000001
+CHEMBL3050,Amine oxidase [flavin-containing] B,Mus musculus,Non-human,Q8C0B2,Monoamine oxidases,1,1,IC50,IC50,1.0,1,2013,2013,4.54,4.54,0.0
+CHEMBL4078,Acetylcholinesterase,Electrophorus electricus,Non-human,O42275,Cholinesterases,449,427,IC50; Ki,IC50,0.9621380846325167,41,2006,2024,4.01,10.38,6.370000000000001
+CHEMBL220,Acetylcholinesterase,Homo sapiens,Human,Q9BXP7,Cholinesterases,332,289,IC50; Ki,IC50,0.8975903614457831,45,2001,2024,4.03,9.63,5.6000000000000005
+CHEMBL5763,Cholinesterase,Equus caballus,Non-human,P81908,Cholinesterases,289,286,IC50,IC50,1.0,33,2008,2024,4.04,9.32,5.28
+CHEMBL1914,Cholinesterase,Homo sapiens,Human,P06276,Cholinesterases,132,127,IC50; Ki,IC50,0.8636363636363636,26,2003,2024,4.28,9.57,5.29
+CHEMBL4768,Acetylcholinesterase,Bos taurus,Non-human,Q08D79,Cholinesterases,29,28,IC50; Ki,IC50,0.9655172413793104,3,2008,2013,4.18,9.0,4.82
+CHEMBL3198,Acetylcholinesterase,Mus musculus,Non-human,P21836,Cholinesterases,25,24,IC50,IC50,1.0,3,2014,2022,4.04,6.4,2.3600000000000003
+CHEMBL3199,Acetylcholinesterase,Rattus norvegicus,Non-human,P37136,Cholinesterases,7,5,IC50,IC50,1.0,3,1998,2017,6.44,8.82,2.38
+CHEMBL3403,Butyrylcholinesterase,Rattus norvegicus,Non-human,Q9JKC1,Cholinesterases,2,2,IC50,IC50,1.0,1,1998,1998,7.19,8.44,1.2499999999999991
+CHEMBL3587,Dual specificity mitogen-activated protein kinase kinase 1,Homo sapiens,Human,Q02750,Kinases,64,55,IC50; Kd,IC50,0.953125,10,2005,2024,3.56,8.3,4.74
+CHEMBL1906,RAF proto-oncogene serine/threonine-protein kinase,Homo sapiens,Human,P04049,Kinases,48,43,IC50,IC50,1.0,4,2013,2022,4.57,8.4,3.83
+CHEMBL5508,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Rattus norvegicus,Non-human,Q63470,Kinases,35,35,AC50; IC50,AC50,0.6,1,2012,2012,4.58,7.17,2.59
+CHEMBL4005,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Homo sapiens,Human,P42336,Kinases,30,30,IC50,IC50,1.0,5,2019,2024,4.28,8.68,4.3999999999999995
+CHEMBL1293228,Streptokinase A,Streptococcus pyogenes serotype M1,Non-human,Q48WH3,Kinases,37,27,EC50,EC50,1.0,0,,,4.29,6.95,2.66
+CHEMBL3130,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",Homo sapiens,Human,Q5SR49,Kinases,27,27,IC50,IC50,1.0,3,2009,2019,4.17,6.92,2.75
+CHEMBL3145,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",Homo sapiens,Human,Q24JU2,Kinases,26,26,IC50,IC50,1.0,3,2009,2019,4.17,6.92,2.75
+CHEMBL3267,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",Homo sapiens,Human,P48736,Kinases,26,26,IC50,IC50,1.0,2,2019,2019,4.37,7.09,2.7199999999999998
+CHEMBL203,Epidermal growth factor receptor,Homo sapiens,Human,P00533,Kinases,33,25,IC50,IC50,1.0,8,2007,2024,5.12,8.05,2.9300000000000006
+CHEMBL1163101,Serine/threonine-protein kinase/endoribonuclease IRE1,Homo sapiens,Human,Q59EE2,Kinases,36,24,EC50; IC50; Kd,IC50,0.8888888888888888,2,2014,2019,4.79,7.33,2.54
+CHEMBL3142,DNA-dependent protein kinase catalytic subunit,Homo sapiens,Human,Q9UME3,Kinases,24,19,IC50,IC50,1.0,3,2005,2015,4.95,6.22,1.2699999999999996
+CHEMBL279,Vascular endothelial growth factor receptor 2,Homo sapiens,Human,P35968,Kinases,21,17,AC50; IC50,IC50,0.9523809523809523,9,2012,2024,4.47,7.49,3.0200000000000005
+CHEMBL5145,Serine/threonine-protein kinase B-raf,Homo sapiens,Human,P15056,Kinases,18,16,IC50; Kd,IC50,0.9444444444444444,5,2012,2022,4.47,8.15,3.6800000000000006
+CHEMBL1824,Receptor tyrosine-protein kinase erbB-2,Homo sapiens,Human,P04626,Kinases,11,11,IC50,IC50,1.0,2,2012,2024,5.45,6.89,1.4399999999999995
+CHEMBL2147,Serine/threonine-protein kinase pim-1,Homo sapiens,Human,P11309,Kinases,12,10,IC50; Ki,IC50,0.9166666666666666,5,2012,2024,4.59,7.26,2.67
+CHEMBL2292,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Homo sapiens,Human,Q9UNM5,Kinases,13,9,IC50; Ki,IC50,0.9230769230769231,5,2013,2022,4.82,9.52,4.699999999999999
+CHEMBL267,Proto-oncogene tyrosine-protein kinase Src,Homo sapiens,Human,P12931,Kinases,9,8,IC50,IC50,1.0,6,1994,2015,4.05,7.05,3.0
+CHEMBL5469,Protein-tyrosine kinase 2-beta,Homo sapiens,Human,Q14289,Kinases,8,7,IC50,IC50,1.0,0,,,4.9,5.88,0.9799999999999995
+CHEMBL258,Tyrosine-protein kinase Lck,Homo sapiens,Human,P06239,Kinases,7,6,IC50; Kd,IC50,0.5714285714285714,3,1999,2002,4.66,7.46,2.8
+CHEMBL3629,Casein kinase II subunit alpha,Homo sapiens,Human,P68400,Kinases,7,6,IC50; Ki,Ki,0.7142857142857143,3,2009,2019,5.1,8.15,3.0500000000000007
+CHEMBL262,Glycogen synthase kinase-3 beta,Homo sapiens,Human,P49841,Kinases,6,6,IC50,IC50,1.0,3,2006,2023,5.12,6.1,0.9799999999999995
+CHEMBL2842,Serine/threonine-protein kinase mTOR,Homo sapiens,Human,Q9Y4I3,Kinases,6,6,IC50,IC50,1.0,2,2014,2019,5.03,5.13,0.09999999999999964
+CHEMBL3717,Hepatocyte growth factor receptor,Homo sapiens,Human,P08581,Kinases,5,5,IC50,IC50,1.0,3,2012,2018,4.0,7.52,3.5199999999999996
+CHEMBL1741200,Hexokinase HKDC1,Homo sapiens,Human,Q9H5Y9,Kinases,5,4,EC50; IC50,EC50,0.6,0,,,4.26,4.87,0.6100000000000003
+CHEMBL2828,Casein kinase I isoform delta,Homo sapiens,Human,Q9BTN5,Kinases,4,4,IC50; Ki,IC50,0.75,1,2023,2023,5.2,5.82,0.6200000000000001
+CHEMBL1075126,Pyruvate kinase PKLR,Homo sapiens,Human,P30613,Kinases,3,3,IC50,IC50,1.0,1,2024,2024,6.39,7.55,1.1600000000000001
+CHEMBL2973,Rho-associated protein kinase 2,Homo sapiens,Human,Q9UQN5,Kinases,3,3,IC50,IC50,1.0,0,2018,2022,6.3,7.04,0.7400000000000002
+CHEMBL4247,ALK tyrosine kinase receptor,Homo sapiens,Human,Q9UM73,Kinases,4,2,IC50,IC50,1.0,1,2024,2024,6.23,6.57,0.33999999999999986
+CHEMBL1841,Tyrosine-protein kinase Fyn,Homo sapiens,Human,Q8N5D7,Kinases,2,2,IC50; Kd,IC50,0.5,2,1999,2002,6.82,7.0,0.17999999999999972
+CHEMBL1913,Platelet-derived growth factor receptor beta,Homo sapiens,Human,Q8N5L4,Kinases,2,2,IC50,IC50,1.0,2,2012,2021,5.89,7.7,1.8100000000000005
+CHEMBL1991,Inhibitor of nuclear factor kappa-B kinase subunit beta,Homo sapiens,Human,O75327,Kinases,2,2,IC50,IC50,1.0,2,2013,2020,5.01,5.7,0.6900000000000004
+CHEMBL2637,Mitogen-activated protein kinase 10,Homo sapiens,Human,Q49AP1,Kinases,2,2,IC50,IC50,1.0,0,,,4.26,4.49,0.23000000000000043
+CHEMBL2688,Hexokinase-1,Homo sapiens,Human,Q9NNZ5,Kinases,2,2,EC50,EC50,1.0,0,,,4.43,4.66,0.23000000000000043
+CHEMBL308,Cyclin-dependent kinase 1,Homo sapiens,Human,P06493,Kinases,2,2,IC50; Ki,Ki,0.5,2,2020,2024,5.34,9.46,4.120000000000001
+CHEMBL4036,Cyclin-dependent kinase 5,Homo sapiens,Human,Q00535,Kinases,2,2,IC50,IC50,1.0,1,2022,2022,5.57,6.14,0.5699999999999994
+CHEMBL5407,Serine/threonine-protein kinase pim-3,Homo sapiens,Human,Q86V86,Kinases,2,2,IC50; Ki,IC50,0.5,1,2023,2023,5.8,6.47,0.6699999999999999
+CHEMBL1781862,Calmodulin-domain protein kinase 1,Toxoplasma gondii,Non-human,Q9BJF5,Kinases,3,1,IC50,IC50,1.0,1,2014,2018,7.5,7.5,0.0
+CHEMBL2331053,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",Homo sapiens,Human,Q5VX19,Kinases,2,1,IC50; Ki,Ki,0.5,1,2020,2020,6.74,7.03,0.29000000000000004
+CHEMBL3268,Phosphatidylinositol 4-kinase beta,Homo sapiens,Human,Q9UBF8,Kinases,2,1,IC50; Kd,Kd,0.5,1,2017,2017,7.12,7.68,0.5599999999999996
+CHEMBL6144,G protein-coupled receptor kinase 6,Homo sapiens,Human,Q13652,Kinases,2,1,IC50,IC50,1.0,0,2014,2019,5.14,5.14,0.0
+CHEMBL1075189,Pyruvate kinase PKM,Homo sapiens,Human,Q9UPF2,Kinases,1,1,IC50,IC50,1.0,0,2014,2014,4.16,4.16,0.0
+CHEMBL1075282,Dual specificity protein kinase CLK3,Mus musculus,Non-human,Q8C1V1,Kinases,1,1,IC50,IC50,1.0,1,2013,2013,6.82,6.82,0.0
+CHEMBL1772932,Mitotic checkpoint serine/threonine-protein kinase BUB1,Homo sapiens,Human,Q53QE4,Kinases,1,1,IC50,IC50,1.0,0,2019,2019,7.54,7.54,0.0
+CHEMBL1868,Vascular endothelial growth factor receptor 1,Homo sapiens,Human,Q12954,Kinases,1,1,IC50,IC50,1.0,1,2007,2007,4.71,4.71,0.0
+CHEMBL1955,Vascular endothelial growth factor receptor 3,Homo sapiens,Human,Q86W08,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.81,5.81,0.0
+CHEMBL2185,Aurora kinase B,Homo sapiens,Human,Q9UQ46,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.6,5.6,0.0
+CHEMBL2251,Phosphatidylinositol 4-kinase type 2-alpha,Homo sapiens,Human,Q9NSG8,Kinases,1,1,IC50,IC50,1.0,1,2022,2022,5.84,5.84,0.0
+CHEMBL2499,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Mus musculus,Non-human,Q0VGQ5,Kinases,1,1,IC50,IC50,1.0,1,2009,2009,5.52,5.52,0.0
+CHEMBL2695,Focal adhesion kinase 1,Homo sapiens,Human,Q9UD85,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.51,5.51,0.0
+CHEMBL2964,Dual specificity mitogen-activated protein kinase kinase 2,Homo sapiens,Human,P36507,Kinases,1,1,Kd,Kd,1.0,1,2017,2017,7.43,7.43,0.0
+CHEMBL2971,Tyrosine-protein kinase JAK2,Homo sapiens,Human,O60674,Kinases,1,1,IC50,IC50,1.0,0,,,5.07,5.07,0.0
+CHEMBL3024,Serine/threonine-protein kinase PLK1,Homo sapiens,Human,P53350,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.48,5.48,0.0
+CHEMBL3116,Cyclin-dependent kinase 9,Homo sapiens,Human,Q96TF1,Kinases,1,1,IC50,IC50,1.0,1,2024,2024,6.42,6.42,0.0
+CHEMBL3616,Protein kinase C eta type,Homo sapiens,Human,Q8NE03,Kinases,1,1,Kd,Kd,1.0,1,2010,2010,6.19,6.19,0.0
+CHEMBL3788,Serine/threonine-protein kinase PLK4,Homo sapiens,Human,Q9UDE2,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.53,5.53,0.0
+CHEMBL3861,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",Homo sapiens,Human,Q9BS05,Kinases,1,1,IC50,IC50,1.0,1,2017,2017,5.28,5.28,0.0
+CHEMBL3863,Serine/threonine-protein kinase D1,Homo sapiens,Human,Q15139,Kinases,1,1,IC50,IC50,1.0,1,2023,2023,5.63,5.63,0.0
+CHEMBL4040,Mitogen-activated protein kinase 1,Homo sapiens,Human,P28482,Kinases,1,1,IC50,IC50,1.0,0,,,5.35,5.35,0.0
+CHEMBL4203,Dual specificity protein kinase CLK4,Homo sapiens,Human,Q9HAZ1,Kinases,1,1,Ki,Ki,1.0,0,,,5.9,5.9,0.0
+CHEMBL4225,Dual specificity protein kinase CLK2,Homo sapiens,Human,Q96CQ0,Kinases,1,1,IC50,IC50,1.0,1,2023,2023,6.15,6.15,0.0
+CHEMBL4282,RAC-alpha serine/threonine-protein kinase,Homo sapiens,Human,P31749,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.48,5.48,0.0
+CHEMBL4362,Tyrosine-protein kinase Fgr,Rattus norvegicus,Non-human,Q6P6U0,Kinases,1,1,IC50,IC50,1.0,1,2006,2006,5.03,5.03,0.0
+CHEMBL4363,Tyrosine-protein kinase Lyn,Rattus norvegicus,Non-human,Q63320,Kinases,1,1,IC50,IC50,1.0,1,2006,2006,5.54,5.54,0.0
+CHEMBL4364,Tyrosine-protein kinase SYK,Rattus norvegicus,Non-human,Q64725,Kinases,1,1,IC50,IC50,1.0,1,2006,2006,5.37,5.37,0.0
+CHEMBL4394,Sphingosine kinase 1,Homo sapiens,Human,Q9NYL3,Kinases,1,1,IC50,IC50,1.0,1,2021,2021,6.13,6.13,0.0
+CHEMBL4523,Serine/threonine-protein kinase pim-2,Homo sapiens,Human,Q9P1W9,Kinases,1,1,IC50,IC50,1.0,1,2023,2023,6.47,6.47,0.0
+CHEMBL4722,Aurora kinase A,Homo sapiens,Human,O14965,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.61,5.61,0.0
+CHEMBL4766,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial",Homo sapiens,Human,Q308M4,Kinases,1,1,IC50,IC50,1.0,1,2017,2017,5.53,5.53,0.0
+CHEMBL4899,Mitogen-activated protein kinase kinase kinase 8,Homo sapiens,Human,Q9HC81,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,5.62,5.62,0.0
+CHEMBL4948,Dual specificity mitogen-activated protein kinase kinase 5,Homo sapiens,Human,Q92962,Kinases,1,1,Kd,Kd,1.0,1,2017,2017,5.7,5.7,0.0
+CHEMBL5784,NUAK family SNF1-like kinase 1,Homo sapiens,Human,Q96KA8,Kinases,1,1,IC50,IC50,1.0,1,2012,2012,6.29,6.29,0.0
+CHEMBL6003,Testis-specific serine/threonine-protein kinase 1,Homo sapiens,Human,Q9BXA7,Kinases,1,1,IC50,IC50,1.0,1,2009,2009,4.41,4.41,0.0
+CHEMBL6166,Mitogen-activated protein kinase kinase kinase kinase 4,Homo sapiens,Human,Q9NST7,Kinases,1,1,Ki,Ki,1.0,0,,,5.3,5.3,0.0
+CHEMBL206,Estrogen receptor,Homo sapiens,Human,P03372,Nuclear receptors,180,133,EC50; IC50,IC50,0.9666666666666667,10,2004,2022,4.3,9.72,5.420000000000001
+CHEMBL208,Progesterone receptor,Homo sapiens,Human,Q9UPF7,Nuclear receptors,88,74,AC50; IC50,IC50,0.9886363636363636,5,1999,2023,4.3,7.62,3.3200000000000003
+CHEMBL242,Estrogen receptor beta,Homo sapiens,Human,Q9UQK9,Nuclear receptors,82,72,EC50; IC50,IC50,0.9024390243902439,6,2004,2022,4.75,8.94,4.1899999999999995
+CHEMBL1871,Androgen receptor,Homo sapiens,Human,P10275,Nuclear receptors,102,57,EC50; IC50; Ki,IC50,0.5980392156862745,9,1999,2022,4.3,9.7,5.3999999999999995
+CHEMBL3072,Androgen receptor,Rattus norvegicus,Non-human,Q63049,Nuclear receptors,21,21,IC50; Ki,IC50,0.6190476190476191,2,2005,2019,5.41,7.04,1.63
+CHEMBL4093,Oxysterols receptor LXR-beta,Homo sapiens,Human,Q5I0Y1,Nuclear receptors,21,18,EC50,EC50,1.0,3,2015,2016,5.1,6.02,0.9199999999999999
+CHEMBL235,Peroxisome proliferator-activated receptor gamma,Homo sapiens,Human,P37231,Nuclear receptors,17,15,EC50; Ki,EC50,0.9411764705882353,3,2008,2023,4.25,9.0,4.75
+CHEMBL239,Peroxisome proliferator-activated receptor alpha,Homo sapiens,Human,Q07869,Nuclear receptors,17,15,EC50; IC50,EC50,0.7647058823529411,3,2006,2017,4.9,9.0,4.1
+CHEMBL2034,Glucocorticoid receptor,Homo sapiens,Human,Q6N0A4,Nuclear receptors,8,7,AC50; IC50,IC50,0.875,4,1999,2023,4.7,6.47,1.7699999999999996
+CHEMBL1615382,Nuclear receptor coactivator 3,Homo sapiens,Human,Q9Y6Q9,Nuclear receptors,7,7,IC50,IC50,1.0,0,,,4.64,5.44,0.8000000000000007
+CHEMBL2808,Oxysterols receptor LXR-alpha,Homo sapiens,Human,Q96H87,Nuclear receptors,7,6,EC50,EC50,1.0,2,2015,2015,4.96,5.82,0.8600000000000003
+CHEMBL4374,Photoreceptor-specific nuclear receptor,Homo sapiens,Human,Q9Y5X4,Nuclear receptors,6,6,IC50,IC50,1.0,0,,,5.12,5.64,0.5199999999999996
+CHEMBL1293229,Nuclear receptor subfamily 4immunitygroup A member 1,Homo sapiens,Human,Q6IBU8,Nuclear receptors,5,5,IC50,IC50,1.0,0,,,4.21,6.31,2.0999999999999996
+CHEMBL1615387,Nuclear receptor coactivator 1,Homo sapiens,Human,Q15788,Nuclear receptors,5,5,IC50,IC50,1.0,0,,,4.66,5.05,0.3899999999999997
+CHEMBL2061,Retinoic acid receptor RXR-alpha,Homo sapiens,Human,P19793,Nuclear receptors,12,4,EC50; IC50; Kd; Ki,Kd,0.5833333333333334,5,2014,2023,4.68,7.66,2.9800000000000004
+CHEMBL1994,Mineralocorticoid receptor,Homo sapiens,Human,Q96KQ9,Nuclear receptors,4,4,IC50,IC50,1.0,1,1999,1999,5.52,5.82,0.3000000000000007
+CHEMBL3401,Nuclear receptor subfamily 1 group I member 2,Homo sapiens,Human,Q9UNW4,Nuclear receptors,4,4,AC50; EC50; IC50,EC50,0.5,2,2014,2023,4.05,5.1,1.0499999999999998
+CHEMBL3201,Aryl hydrocarbon receptor,Homo sapiens,Human,Q13804,Nuclear receptors,2,2,EC50,EC50,1.0,0,,,5.47,5.49,0.020000000000000462
+CHEMBL3979,Peroxisome proliferator-activated receptor delta,Homo sapiens,Human,Q9BUD4,Nuclear receptors,2,2,IC50,IC50,1.0,1,2006,2006,5.49,6.87,1.38
+CHEMBL1741186,Nuclear receptor ROR-gamma,Homo sapiens,Human,P51449,Nuclear receptors,1,1,EC50,EC50,1.0,0,2017,2017,5.8,5.8,0.0
+CHEMBL1870,Retinoic acid receptor RXR-beta,Homo sapiens,Human,Q5STQ1,Nuclear receptors,1,1,EC50,EC50,1.0,1,2018,2018,4.38,4.38,0.0
+CHEMBL2004,Retinoic acid receptor RXR-gamma,Homo sapiens,Human,Q6IBU7,Nuclear receptors,1,1,EC50,EC50,1.0,1,2018,2018,4.29,4.29,0.0
+CHEMBL5872,G-protein coupled estrogen receptor 1,Homo sapiens,Human,Q99981,Nuclear receptors,1,1,IC50,IC50,1.0,0,2018,2018,8.61,8.61,0.0
+CHEMBL253,Cannabinoid receptor 2,Homo sapiens,Human,Q6NSY0,G protein-coupled receptors,120,86,EC50; IC50; Ki,Ki,0.7416666666666667,8,1997,2021,4.88,10.06,5.180000000000001
+CHEMBL214,5-hydroxytryptamine receptor 1A,Homo sapiens,Human,Q6LAE7,G protein-coupled receptors,82,74,IC50; Ki,Ki,0.9024390243902439,7,2010,2021,5.46,9.52,4.06
+CHEMBL273,5-hydroxytryptamine receptor 1A,Rattus norvegicus,Non-human,P19327,G protein-coupled receptors,71,66,EC50; IC50; Ki,Ki,0.9154929577464789,8,1998,2018,5.51,10.92,5.41
+CHEMBL322,5-hydroxytryptamine receptor 2A,Rattus norvegicus,Non-human,P14842,G protein-coupled receptors,64,64,Ki,Ki,1.0,3,2003,2014,5.51,9.52,4.01
+CHEMBL224,5-hydroxytryptamine receptor 2A,Homo sapiens,Human,Q5T8C0,G protein-coupled receptors,63,62,IC50; Ki,Ki,0.9841269841269841,6,2013,2021,5.34,9.52,4.18
+CHEMBL1293267,G-protein coupled receptor 35,Homo sapiens,Human,Q9HC97,G protein-coupled receptors,189,61,EC50; IC50; Ki,IC50,0.5079365079365079,5,2012,2023,4.0,9.51,5.51
+CHEMBL339,D(2) dopamine receptor,Rattus norvegicus,Non-human,P61169,G protein-coupled receptors,59,59,IC50; Ki,Ki,0.9830508474576272,5,2003,2014,5.52,8.85,3.33
+CHEMBL219,D(4) dopamine receptor,Homo sapiens,Human,Q8NGM5,G protein-coupled receptors,70,51,IC50; Ki,Ki,0.9571428571428572,5,1997,2021,5.3,8.89,3.5900000000000007
+CHEMBL218,Cannabinoid receptor 1,Homo sapiens,Human,Q9UNN0,G protein-coupled receptors,55,39,EC50; Ki,Ki,0.9090909090909091,4,2009,2021,4.68,7.66,2.9800000000000004
+CHEMBL1075322,G-protein coupled receptor 55,Homo sapiens,Human,Q9Y2T6,G protein-coupled receptors,38,38,EC50; IC50,IC50,0.868421052631579,1,2013,2013,4.79,6.95,2.16
+CHEMBL256,Adenosine receptor A3,Homo sapiens,Human,Q9BYZ1,G protein-coupled receptors,41,32,AC50; IC50; Ki,Ki,0.8292682926829268,3,2020,2023,4.53,6.59,2.0599999999999996
+CHEMBL2414,C-C chemokine receptor type 4,Homo sapiens,Human,Q9ULY7,G protein-coupled receptors,31,31,IC50,IC50,1.0,1,2010,2010,4.23,7.67,3.4399999999999995
+CHEMBL251,Adenosine receptor A2a,Homo sapiens,Human,P29274,G protein-coupled receptors,26,24,AC50; IC50; Ki,Ki,0.9230769230769231,4,2016,2023,4.19,6.13,1.9399999999999995
+CHEMBL217,D(2) dopamine receptor,Homo sapiens,Human,Q9UPA9,G protein-coupled receptors,48,23,EC50; IC50; Ki,Ki,0.75,11,1997,2023,4.79,8.7,3.9099999999999993
+CHEMBL234,D(3) dopamine receptor,Homo sapiens,Human,Q4VBM8,G protein-coupled receptors,36,22,IC50; Ki,Ki,0.9722222222222222,9,1997,2021,5.56,8.74,3.1800000000000006
+CHEMBL4422,Free fatty acid receptor 1,Homo sapiens,Human,Q4VBL4,G protein-coupled receptors,25,22,EC50,EC50,1.0,2,2022,2022,4.49,6.85,2.3599999999999994
+CHEMBL3571,Cannabinoid receptor 1,Rattus norvegicus,Non-human,P20272,G protein-coupled receptors,22,19,EC50; Ki,Ki,0.9545454545454546,3,1997,2009,4.72,8.02,3.3
+CHEMBL226,Adenosine receptor A1,Homo sapiens,Human,Q8TAM8,G protein-coupled receptors,18,18,Ki,Ki,1.0,3,2016,2022,4.39,5.62,1.2300000000000004
+CHEMBL3943,Histamine H1 receptor,Cavia porcellus,Non-human,P31389,G protein-coupled receptors,16,16,Kd; Ki,Ki,0.5625,3,1984,2014,4.0,9.0,5.0
+CHEMBL3138,D(3) dopamine receptor,Rattus norvegicus,Non-human,P70647,G protein-coupled receptors,15,14,IC50; Ki,Ki,0.6666666666666666,2,2013,2015,6.75,8.37,1.6199999999999992
+CHEMBL344,Melanin-concentrating hormone receptor 1,Homo sapiens,Human,Q9BV08,G protein-coupled receptors,23,12,IC50,IC50,1.0,2,2005,2007,5.99,9.0,3.01
+CHEMBL324,5-hydroxytryptamine receptor 2C,Rattus norvegicus,Non-human,P08909,G protein-coupled receptors,11,11,IC50; Ki,Ki,0.5454545454545454,1,2013,2015,5.72,7.92,2.2
+CHEMBL4333,Sphingosine 1-phosphate receptor 1,Homo sapiens,Human,Q9NYN8,G protein-coupled receptors,11,11,EC50,EC50,1.0,0,2017,2017,4.03,8.51,4.4799999999999995
+CHEMBL5339,Free fatty acid receptor 4,Homo sapiens,Human,Q86SM7,G protein-coupled receptors,10,10,EC50,EC50,1.0,1,2022,2022,5.36,6.82,1.46
+CHEMBL319,Alpha-1A adrenergic receptor,Rattus norvegicus,Non-human,P43140,G protein-coupled receptors,8,8,Kd,Kd,1.0,1,2003,2003,6.45,9.07,2.62
+CHEMBL229,Alpha-1A adrenergic receptor,Homo sapiens,Human,Q9UD67,G protein-coupled receptors,11,7,AC50; IC50; Kd; Ki,Ki,0.45454545454545453,4,2013,2023,5.0,9.52,4.52
+CHEMBL1945,Melatonin receptor type 1A,Homo sapiens,Human,P48039,G protein-coupled receptors,10,7,EC50; Ki,Ki,0.8,3,2015,2022,5.28,9.35,4.069999999999999
+CHEMBL1899,5-hydroxytryptamine receptor 3A,Homo sapiens,Human,Q9BSZ9,G protein-coupled receptors,6,6,Ki,Ki,1.0,1,2012,2012,5.89,8.72,2.830000000000001
+CHEMBL3230,Sphingosine 1-phosphate receptor 4,Homo sapiens,Human,O95977,G protein-coupled receptors,6,6,EC50,EC50,1.0,0,,,4.43,6.11,1.6800000000000006
+CHEMBL326,Alpha-1D adrenergic receptor,Rattus norvegicus,Non-human,Q71UM4,G protein-coupled receptors,6,6,IC50,IC50,1.0,1,2006,2006,4.02,4.98,0.9600000000000009
+CHEMBL3785,Hydroxycarboxylic acid receptor 2,Homo sapiens,Human,Q8TDS4,G protein-coupled receptors,14,5,EC50,EC50,1.0,1,2018,2018,5.77,7.97,2.2
+CHEMBL210,Beta-2 adrenergic receptor,Homo sapiens,Human,P07550,G protein-coupled receptors,5,5,Kd,Kd,1.0,1,2023,2023,5.18,5.94,0.7600000000000007
+CHEMBL5857,Trace amine-associated receptor 1,Homo sapiens,Human,Q96RJ0,G protein-coupled receptors,6,3,EC50; IC50,IC50,0.5,0,,,4.88,5.73,0.8500000000000005
+CHEMBL2955,Sphingosine 1-phosphate receptor 2,Homo sapiens,Human,Q86UN8,G protein-coupled receptors,4,3,EC50; IC50,IC50,0.5,0,,,5.36,5.7,0.33999999999999986
+CHEMBL2010631,Atypical chemokine receptor 3,Homo sapiens,Human,Q92986,G protein-coupled receptors,3,3,IC50,IC50,1.0,1,2013,2013,5.1,5.89,0.79
+CHEMBL213,Beta-1 adrenergic receptor,Homo sapiens,Human,Q9UKG8,G protein-coupled receptors,3,3,Kd,Kd,1.0,1,2023,2023,5.25,5.62,0.3700000000000001
+CHEMBL237,Kappa-type opioid receptor,Homo sapiens,Human,Q499G4,G protein-coupled receptors,3,3,EC50; IC50; Ki,IC50,0.3333333333333333,1,2008,2008,4.74,5.58,0.8399999999999999
+CHEMBL4123,Neurotensin receptor type 1,Homo sapiens,Human,Q9H4T5,G protein-coupled receptors,3,3,EC50,EC50,1.0,0,,,4.75,4.83,0.08000000000000007
+CHEMBL5373,Cannabinoid receptor 2,Mus musculus,Non-human,Q544H5,G protein-coupled receptors,3,3,Ki,Ki,1.0,1,2007,2007,8.17,9.09,0.9199999999999999
+CHEMBL1946,Melatonin receptor type 1B,Homo sapiens,Human,P49286,G protein-coupled receptors,5,2,EC50; Ki,Ki,0.6,2,2015,2022,7.47,9.19,1.7199999999999998
+CHEMBL223,Alpha-1D adrenergic receptor,Homo sapiens,Human,Q9NPY0,G protein-coupled receptors,4,2,IC50; Ki,Ki,0.5,1,2015,2015,7.34,9.4,2.0600000000000005
+CHEMBL232,Alpha-1B adrenergic receptor,Homo sapiens,Human,P35368,G protein-coupled receptors,4,2,IC50; Ki,Ki,0.5,1,2015,2015,7.28,10.0,2.7199999999999998
+CHEMBL225,5-hydroxytryptamine receptor 2C,Homo sapiens,Human,Q9NP28,G protein-coupled receptors,3,2,IC50; Ki,Ki,0.6666666666666666,1,2021,2021,5.63,5.91,0.28000000000000025
+CHEMBL227,Type-1 angiotensin II receptor,Homo sapiens,Human,Q8TBK4,G protein-coupled receptors,2,2,IC50,IC50,1.0,0,,,4.86,4.98,0.1200000000000001
+CHEMBL246,Beta-3 adrenergic receptor,Homo sapiens,Human,Q4JFT4,G protein-coupled receptors,2,2,Kd,Kd,1.0,1,2023,2023,5.59,5.93,0.33999999999999986
+CHEMBL2731,Galanin receptor type 3,Homo sapiens,Human,Q53YJ4,G protein-coupled receptors,2,2,IC50,IC50,1.0,0,,,4.89,5.24,0.35000000000000053
+CHEMBL3155,5-hydroxytryptamine receptor 7,Homo sapiens,Human,Q5VX03,G protein-coupled receptors,2,2,Ki,Ki,1.0,1,2020,2020,7.37,7.58,0.20999999999999996
+CHEMBL3223,5-hydroxytryptamine receptor 7,Rattus norvegicus,Non-human,P97936,G protein-coupled receptors,2,2,Ki,Ki,1.0,1,2001,2001,5.83,6.55,0.7199999999999998
+CHEMBL4477,Metabotropic glutamate receptor 1,Rattus norvegicus,Non-human,P23385,G protein-coupled receptors,2,2,IC50,IC50,1.0,1,2009,2009,4.62,4.62,0.0
+CHEMBL4894,Galanin receptor type 1,Homo sapiens,Human,Q4VBL7,G protein-coupled receptors,2,1,Kd; Ki,Ki,0.5,2,2008,2010,4.92,4.93,0.009999999999999787
+CHEMBL231,Histamine H1 receptor,Homo sapiens,Human,Q6P9E5,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,2021,2021,5.95,5.95,0.0
+CHEMBL265,D(1A) dopamine receptor,Rattus norvegicus,Non-human,P21669,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,2008,2008,5.85,5.85,0.0
+CHEMBL274,C-C chemokine receptor type 5,Homo sapiens,Human,Q9UPA4,G protein-coupled receptors,1,1,IC50,IC50,1.0,1,2017,2017,5.89,5.89,0.0
+CHEMBL3176,Galanin receptor type 2,Homo sapiens,Human,Q32MN8,G protein-coupled receptors,1,1,Kd,Kd,1.0,1,2008,2008,4.62,4.62,0.0
+CHEMBL327,Alpha-2A adrenergic receptor,Rattus norvegicus,Non-human,P22909,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,1999,1999,5.57,5.57,0.0
+CHEMBL3371,5-hydroxytryptamine receptor 6,Homo sapiens,Human,Q5TGZ1,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,2021,2021,6.64,6.64,0.0
+CHEMBL3737,5-hydroxytryptamine receptor 1A,Mus musculus,Non-human,Q8BGS4,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,1999,1999,5.43,5.43,0.0
+CHEMBL4018,Neuropeptide Y receptor type 2,Homo sapiens,Human,Q9UE67,G protein-coupled receptors,1,1,IC50,IC50,1.0,0,,,5.3,5.3,0.0
+CHEMBL4153,Sigma non-opioid intracellular receptor 1,Cavia porcellus,Non-human,Q60492,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,2014,2014,6.63,6.63,0.0
+CHEMBL4523923,Probable G-protein coupled receptor 27,Homo sapiens,Human,Q9NS67,G protein-coupled receptors,1,1,EC50,EC50,1.0,1,2021,2021,5.11,5.11,0.0
+CHEMBL4777,Neuropeptide Y receptor type 1,Homo sapiens,Human,P25929,G protein-coupled receptors,1,1,IC50,IC50,1.0,0,,,5.23,5.23,0.0
+CHEMBL5071,Prostaglandin D2 receptor 2,Homo sapiens,Human,Q9Y5Y4,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,2012,2012,7.5,7.5,0.0
+CHEMBL5577,Galanin receptor type 2,Rattus norvegicus,Non-human,O08726,G protein-coupled receptors,1,1,Ki,Ki,1.0,1,2010,2010,4.47,4.47,0.0
+CHEMBL243,Human immunodeficiency virus type 1 protease,Human immunodeficiency virus 1,Non-human,Q72874,Proteases,86,74,IC50; Ki,IC50,0.813953488372093,14,1994,2023,4.05,11.0,6.95
+CHEMBL4822,Beta-secretase 1,Homo sapiens,Human,P56817,Proteases,65,45,IC50; Ki,IC50,0.8923076923076924,11,2006,2022,4.0,7.03,3.0300000000000002
+CHEMBL4117,Aminopeptidase N,Plasmodium falciparum FcB1/Columbia,Non-human,Q8IEK1,Proteases,43,43,IC50,IC50,1.0,0,,,4.13,5.01,0.8799999999999999
+CHEMBL2821,Coagulation factor XII,Homo sapiens,Human,P78339,Proteases,43,40,IC50; Ki,IC50,0.7441860465116279,5,2008,2023,4.38,7.21,2.83
+CHEMBL5939,Endoplasmic reticulum aminopeptidase 1,Homo sapiens,Human,Q9UKY2,Proteases,37,37,AC50,AC50,1.0,0,,,4.9,5.84,0.9399999999999995
+CHEMBL3706,Disintegrin and metalloproteinase domain-containing protein 17,Homo sapiens,Human,P78536,Proteases,37,23,IC50,IC50,1.0,3,1999,2010,4.91,9.57,4.66
+CHEMBL5620,Proteasome subunit beta type-8,Homo sapiens,Human,Q96J48,Proteases,18,16,IC50,IC50,1.0,2,2019,2019,5.74,8.05,2.3100000000000005
+CHEMBL2366,Trypsin,Sus scrofa,Non-human,P00761,Proteases,16,16,AC50; IC50,AC50,0.9375,0,2015,2015,4.62,5.82,1.2000000000000002
+CHEMBL1250413,CAAX prenyl protease 2,Saccharomyces cerevisiae S288c,Non-human,Q03530,Proteases,15,15,AC50,AC50,1.0,0,,,4.38,5.02,0.6399999999999997
+CHEMBL3411,CAAX prenyl protease 2,Homo sapiens,Human,Q9Y256,Proteases,12,12,AC50,AC50,1.0,0,,,4.01,6.12,2.1100000000000003
+CHEMBL284,Dipeptidyl peptidase 4,Homo sapiens,Human,Q53TN1,Proteases,13,10,IC50,IC50,1.0,3,2011,2021,4.06,6.81,2.75
+CHEMBL204,Prothrombin,Homo sapiens,Human,P00734,Proteases,10,10,IC50; Ki,IC50,0.8,5,2005,2023,4.32,7.0,2.6799999999999997
+CHEMBL2334,Caspase-3,Homo sapiens,Human,P42574,Proteases,10,10,AC50; EC50; IC50,IC50,0.8,2,2005,2010,4.42,6.02,1.5999999999999996
+CHEMBL2366517,Protease,Human immunodeficiency virus 1,Non-human,Q9YQ12,Proteases,10,10,IC50,IC50,1.0,1,2013,2013,4.46,4.67,0.20999999999999996
+CHEMBL333,72 kDa type IV collagenase,Homo sapiens,Human,Q9UCJ8,Proteases,9,9,IC50; Ki,IC50,0.8888888888888888,3,1999,2012,4.17,7.0,2.83
+CHEMBL1795093,Apoptotic protease-activating factor 1,Homo sapiens,Human,Q9UNC9,Proteases,8,7,IC50,IC50,1.0,0,,,4.05,5.51,1.46
+CHEMBL280,Collagenase 3,Homo sapiens,Human,Q6NWN6,Proteases,7,7,IC50,IC50,1.0,1,2012,2012,4.85,5.58,0.7300000000000004
+CHEMBL321,Matrix metalloproteinase-9,Homo sapiens,Human,Q9UDK2,Proteases,7,7,IC50; Ki,IC50,0.8571428571428571,3,1999,2010,4.61,6.96,2.3499999999999996
+CHEMBL3314,Chymotrypsinogen A,Bos taurus,Non-human,P00766,Proteases,7,7,Ki,Ki,1.0,1,1996,1996,4.23,6.6,2.369999999999999
+CHEMBL4143,Calpain-2 catalytic subunit,Sus scrofa,Non-human,P43367,Proteases,7,7,IC50,IC50,1.0,0,,,4.31,5.51,1.2000000000000002
+CHEMBL1741221,Cysteine protease ATG4B,Homo sapiens,Human,Q9Y4P1,Proteases,7,6,IC50,IC50,1.0,3,2016,2021,4.69,6.06,1.3699999999999992
+CHEMBL2443,Kallikrein-7,Homo sapiens,Human,Q8NFV7,Proteases,6,6,EC50,EC50,1.0,0,,,4.16,5.29,1.13
+CHEMBL3308,Caspase-6,Homo sapiens,Human,Q9BQE7,Proteases,6,6,AC50,AC50,1.0,0,,,4.66,5.86,1.2000000000000002
+CHEMBL4471,Prothrombin,Bos taurus,Non-human,Q3MHK7,Proteases,6,6,IC50,IC50,1.0,1,1980,1980,4.04,6.0,1.96
+CHEMBL1741207,Sentrin-specific protease 8,Homo sapiens,Human,Q96QA4,Proteases,6,5,IC50,IC50,1.0,0,,,4.49,6.22,1.7299999999999995
+CHEMBL1741185,CAAX prenyl protease 1,Saccharomyces cerevisiae S288c,Non-human,P47154,Proteases,5,5,AC50,AC50,1.0,0,,,4.9,5.54,0.6399999999999997
+CHEMBL1741213,Sentrin-specific protease 7,Homo sapiens,Human,Q9HBT5,Proteases,5,5,IC50,IC50,1.0,0,,,4.54,6.02,1.4799999999999995
+CHEMBL1741215,Sentrin-specific protease 6,Homo sapiens,Human,Q9UJV5,Proteases,5,5,IC50,IC50,1.0,0,,,4.5,5.9,1.4000000000000004
+CHEMBL2007629,26S proteasome non-ATPase regulatory subunit 14,Homo sapiens,Human,O00487,Proteases,4,4,IC50,IC50,1.0,0,,,4.24,5.0,0.7599999999999998
+CHEMBL1293313,Leucine aminopeptidase,Plasmodium falciparum 3D7,Non-human,Q8IL11,Proteases,3,3,IC50,IC50,1.0,0,,,4.02,5.3,1.2800000000000002
+CHEMBL268,Cathepsin K,Homo sapiens,Human,Q6FHS6,Proteases,3,3,IC50; Ki,Ki,0.6666666666666666,2,2012,2013,5.34,7.72,2.38
+CHEMBL3563,Cruzipain,Trypanosoma cruzi,Non-human,P25779,Proteases,3,2,IC50,IC50,1.0,1,2008,2008,4.05,4.19,0.14000000000000057
+CHEMBL1293307,3C-like protease,Infectious bronchitis virus,Non-human,Q3Y5H1,Proteases,2,2,IC50,IC50,1.0,0,,,5.48,5.53,0.04999999999999982
+CHEMBL2954,Cathepsin S,Homo sapiens,Human,Q9BUG3,Proteases,2,2,Ki,Ki,1.0,1,2012,2012,5.08,6.12,1.04
+CHEMBL3468,Caspase-7,Homo sapiens,Human,Q96BA0,Proteases,2,2,AC50; EC50,AC50,0.5,0,,,4.22,4.7,0.4800000000000004
+CHEMBL3869,Matrix metalloproteinase-14,Homo sapiens,Human,Q92678,Proteases,2,2,IC50; Ki,IC50,0.5,2,1999,2012,4.29,6.66,2.37
+CHEMBL3922,Methionine aminopeptidase 2,Homo sapiens,Human,Q8NB11,Proteases,2,2,IC50,IC50,1.0,0,2018,2018,6.4,6.72,0.3199999999999994
+CHEMBL4662,Proteasome Macropain subunit MB1,Homo sapiens,Human,Q9TNN9,Proteases,2,2,IC50,IC50,1.0,1,2019,2019,5.97,6.66,0.6900000000000004
+CHEMBL3974,Proteinase-activated receptor 1,Homo sapiens,Human,Q9BUN4,Proteases,2,1,IC50,IC50,1.0,1,1996,1996,4.66,5.36,0.7000000000000002
+CHEMBL1795140,Transmembrane protease serine 2,Homo sapiens,Human,Q9BXX1,Proteases,1,1,IC50,IC50,1.0,1,2024,2024,8.38,8.38,0.0
+CHEMBL2079849,Serine protease hepsin,Homo sapiens,Human,P05981,Proteases,1,1,IC50,IC50,1.0,0,2015,2015,6.01,6.01,0.0
+CHEMBL244,Coagulation factor X,Homo sapiens,Human,P00742,Proteases,1,1,Ki,Ki,1.0,1,2023,2023,4.88,4.88,0.0
+CHEMBL248,Neutrophil elastase,Homo sapiens,Human,Q6LDP5,Proteases,1,1,Ki,Ki,1.0,1,1995,1995,10.05,10.05,0.0
+CHEMBL2820,Coagulation factor XI,Homo sapiens,Human,Q9Y495,Proteases,1,1,Ki,Ki,1.0,1,2023,2023,5.06,5.06,0.0
+CHEMBL4072,Cathepsin B,Homo sapiens,Human,Q96D87,Proteases,1,1,Ki,Ki,1.0,1,2012,2012,6.85,6.85,0.0
+CHEMBL4510,Cysteine protease falcipain-3,Plasmodium falciparum,Non-human,Q9NBA7,Proteases,1,1,IC50,IC50,1.0,1,2004,2004,4.86,4.86,0.0
+CHEMBL4588,Neutrophil collagenase,Homo sapiens,Human,Q45F99,Proteases,1,1,Ki,Ki,1.0,1,1999,1999,7.77,7.77,0.0
+CHEMBL4630869,Collagenase ColH,Hathewaya histolytica,Non-human,Q46085,Proteases,1,1,IC50,IC50,1.0,1,2022,2022,7.62,7.62,0.0
+CHEMBL4801,Caspase-1,Homo sapiens,Human,Q9UCN3,Proteases,1,1,IC50,IC50,1.0,1,2000,2000,7.77,7.77,0.0
+CHEMBL3356,Cytochrome P450 1A2,Homo sapiens,Human,Q9UK49,Cytochrome P450s,101,97,AC50; IC50; Ki,AC50,0.7920792079207921,6,2009,2023,4.4,8.1,3.6999999999999993
+CHEMBL340,Cytochrome P450 3A4,Homo sapiens,Human,P08684,Cytochrome P450s,84,76,AC50; IC50; Ki,AC50,0.5714285714285714,12,2005,2023,4.23,7.19,2.96
+CHEMBL3622,Cytochrome P450 2C19,Homo sapiens,Human,Q9UCD4,Cytochrome P450s,72,70,AC50; IC50,AC50,0.8888888888888888,6,2009,2023,4.21,7.2,2.99
+CHEMBL3397,Cytochrome P450 2C9,Homo sapiens,Human,Q8WW80,Cytochrome P450s,79,68,AC50; IC50; Ki,AC50,0.6582278481012658,9,2000,2023,4.02,8.25,4.23
+CHEMBL289,Cytochrome P450 2D6,Homo sapiens,Human,Q6NXU8,Cytochrome P450s,29,28,AC50; IC50,AC50,0.7586206896551724,6,2003,2023,4.13,7.3,3.17
+CHEMBL5282,Cytochrome P450 2A6,Homo sapiens,Human,Q9UK48,Cytochrome P450s,41,27,IC50; Kd; Ki,Ki,0.7804878048780488,4,2005,2023,4.57,10.24,5.67
+CHEMBL1908,"Cytochrome P450 11B1, mitochondrial",Homo sapiens,Human,Q9UML2,Cytochrome P450s,22,21,IC50,IC50,1.0,2,2011,2015,6.03,8.3,2.2700000000000005
+CHEMBL2722,"Cytochrome P450 11B2, mitochondrial",Homo sapiens,Human,Q16726,Cytochrome P450s,22,21,IC50,IC50,1.0,2,2011,2015,5.66,7.11,1.4500000000000002
+CHEMBL4878,Cytochrome P450 1B1,Homo sapiens,Human,Q9H316,Cytochrome P450s,16,15,IC50; Ki,Ki,0.8125,3,2015,2018,4.33,6.66,2.33
+CHEMBL2231,Cytochrome P450 1A1,Homo sapiens,Human,Q53G18,Cytochrome P450s,16,12,EC50; IC50; Ki,Ki,0.6875,3,2015,2022,4.22,7.92,3.7
+CHEMBL4729,Cytochrome P450 2B6,Homo sapiens,Human,Q9UK46,Cytochrome P450s,2,2,IC50; Ki,Ki,0.5,1,2005,2022,4.06,5.28,1.2200000000000006
+CHEMBL5281,Cytochrome P450 2E1,Homo sapiens,Human,Q9UK47,Cytochrome P450s,2,2,IC50; Ki,Ki,0.5,2,2005,2009,4.4,5.3,0.8999999999999995
+CHEMBL3542436,Cytochrome P450 2A13,Homo sapiens,Human,Q9H2X2,Cytochrome P450s,2,1,Kd; Ki,Ki,0.5,1,2012,2012,5.8,7.4,1.6000000000000005
+CHEMBL1743542,Cytochrome P450 2B4,Oryctolagus cuniculus,Non-human,P00178,Cytochrome P450s,1,1,Ki,Ki,1.0,1,2005,2005,5.55,5.55,0.0
+CHEMBL3019,Cytochrome P450 3A5,Homo sapiens,Human,Q9HB56,Cytochrome P450s,1,1,Ki,Ki,1.0,1,2005,2005,4.7,4.7,0.0
+CHEMBL3335,Cytochrome P450 2B1,Rattus norvegicus,Non-human,Q64584,Cytochrome P450s,1,1,Ki,Ki,1.0,1,2005,2005,5.62,5.62,0.0
+CHEMBL5792,Cytochrome P450 3A43,Homo sapiens,Human,Q9HB57,Cytochrome P450s,1,1,IC50,IC50,1.0,0,2022,2022,5.03,5.03,0.0
+CHEMBL4633,Potassium voltage-gated channel subfamily A member 3,Homo sapiens,Human,Q6P2D3,Ion channels and transporters,121,81,EC50; IC50,IC50,0.6363636363636364,7,2006,2023,5.22,8.7,3.4799999999999995
+CHEMBL4306,Potassium voltage-gated channel subfamily A member 5,Homo sapiens,Human,Q9UDA4,Ion channels and transporters,37,35,EC50; IC50,EC50,0.918918918918919,3,2006,2023,4.92,8.11,3.1899999999999995
+CHEMBL4302,ATP-dependent translocase ABCB1,Homo sapiens,Human,Q14812,Ion channels and transporters,31,31,IC50,IC50,1.0,5,2014,2020,4.36,7.16,2.8
+CHEMBL4523503,Chloride anion exchanger,Mus musculus,Non-human,Q9WVC8,Ion channels and transporters,50,29,IC50,IC50,1.0,1,2019,2021,4.75,7.64,2.8899999999999997
+CHEMBL4523223,Chloride anion exchanger,Homo sapiens,Human,P40879,Ion channels and transporters,22,20,IC50,IC50,1.0,1,2021,2024,6.05,7.6,1.5499999999999998
+CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,Homo sapiens,Human,Q9H3P0,Ion channels and transporters,15,14,AC50; EC50; IC50; Ki,IC50,0.8,7,2005,2023,4.29,7.51,3.2199999999999998
+CHEMBL3004,Multidrug resistance-associated protein 1,Homo sapiens,Human,Q9UQA0,Ion channels and transporters,13,13,IC50,IC50,1.0,1,2019,2019,4.14,5.44,1.3000000000000007
+CHEMBL2073663,Monocarboxylate transporter 4,Homo sapiens,Human,Q2M1P8,Ion channels and transporters,11,9,IC50,IC50,1.0,1,2013,2013,5.1,8.0,2.9000000000000004
+CHEMBL2073709,Monocarboxylate transporter 1,Rattus norvegicus,Non-human,P53987,Ion channels and transporters,13,8,IC50,IC50,1.0,1,2016,2016,6.04,7.32,1.2800000000000002
+CHEMBL313,Sodium-dependent serotonin transporter,Rattus norvegicus,Non-human,P31652,Ion channels and transporters,6,6,IC50; Ki,IC50,0.6666666666666666,3,2004,2016,5.82,9.15,3.33
+CHEMBL2086,Potassium voltage-gated channel subfamily A member 2,Homo sapiens,Human,Q86XG6,Ion channels and transporters,5,4,EC50; IC50; Kd,Kd,0.6,2,1998,2017,4.39,6.6,2.21
+CHEMBL2309,Potassium voltage-gated channel subfamily A member 1,Homo sapiens,Human,Q3MIQ9,Ion channels and transporters,5,4,EC50; IC50; Kd,EC50,0.6,2,1998,2017,4.25,7.19,2.9400000000000004
+CHEMBL5287,Hepatic sodium/bile acid cotransporter,Homo sapiens,Human,Q2TU29,Ion channels and transporters,4,4,IC50,IC50,1.0,1,2022,2022,4.75,4.9,0.15000000000000036
+CHEMBL4818,Potassium voltage-gated channel subfamily A member 3,Mus musculus,Non-human,P16390,Ion channels and transporters,3,3,Kd,Kd,1.0,1,1998,1998,4.05,4.55,0.5
+CHEMBL3085,Excitatory amino acid transporter 1,Homo sapiens,Human,Q4JCQ8,Ion channels and transporters,4,2,IC50,IC50,1.0,1,2012,2012,4.77,4.85,0.08000000000000007
+CHEMBL4205,Potassium voltage-gated channel subfamily A member 4,Homo sapiens,Human,P22459,Ion channels and transporters,3,2,EC50; IC50,EC50,0.6666666666666666,1,2006,2017,6.3,7.12,0.8200000000000003
+CHEMBL4360,Monocarboxylate transporter 1,Homo sapiens,Human,Q9NSJ9,Ion channels and transporters,3,2,IC50,IC50,1.0,2,2024,2024,6.07,7.23,1.1600000000000001
+CHEMBL1075108,Solute carrier family 12 member 5,Rattus norvegicus,Non-human,Q63633,Ion channels and transporters,2,2,IC50,IC50,1.0,1,2012,2012,5.4,6.22,0.8199999999999994
+CHEMBL238,Sodium-dependent dopamine transporter,Homo sapiens,Human,Q14996,Ion channels and transporters,2,2,AC50; IC50,IC50,0.5,2,2018,2023,4.74,6.82,2.08
+CHEMBL2484,Acetylcholine receptor subunit epsilon,Homo sapiens,Human,Q04844,Ion channels and transporters,2,2,IC50,IC50,1.0,1,2019,2019,7.57,8.22,0.6500000000000004
+CHEMBL338,Sodium-dependent dopamine transporter,Rattus norvegicus,Non-human,P23977,Ion channels and transporters,2,2,IC50,IC50,1.0,1,2016,2016,7.16,8.0,0.8399999999999999
+CHEMBL1628477,Acid-sensing ion channel 1,Homo sapiens,Human,Q96CV2,Ion channels and transporters,2,1,IC50,IC50,1.0,1,2015,2015,5.13,7.56,2.4299999999999997
+CHEMBL1697668,Solute carrier organic anion transporter family member 1B1,Homo sapiens,Human,Q9Y6L6,Ion channels and transporters,2,1,IC50; Ki,Ki,0.5,1,2013,2013,5.97,6.23,0.2600000000000007
+CHEMBL1743121,Solute carrier organic anion transporter family member 1B3,Homo sapiens,Human,Q9NPD5,Ion channels and transporters,2,1,IC50; Ki,Ki,0.5,1,2013,2013,6.13,6.25,0.1200000000000001
+CHEMBL4305,Intermediate conductance calcium-activated potassium channel protein 4,Homo sapiens,Human,Q53XR4,Ion channels and transporters,2,1,EC50; IC50,IC50,0.5,1,2006,2009,5.0,5.0,0.0
+CHEMBL1628468,Transient receptor potential cation channel subfamily M member 5,Homo sapiens,Human,Q9NZQ8,Ion channels and transporters,1,1,EC50,EC50,1.0,1,2022,2022,4.57,4.57,0.0
+CHEMBL1641347,Solute carrier family 22 member 6,Homo sapiens,Human,Q9UEQ8,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2005,2005,6.57,6.57,0.0
+CHEMBL1743122,Solute carrier family 22 member 2,Homo sapiens,Human,Q9NQB9,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2023,2023,4.76,4.76,0.0
+CHEMBL1838,Chromaffin granule amine transporter,Homo sapiens,Human,Q9BRE4,Ion channels and transporters,1,1,EC50,EC50,1.0,1,2022,2022,5.7,5.7,0.0
+CHEMBL1893,Synaptic vesicular amine transporter,Homo sapiens,Human,Q9H3P6,Ion channels and transporters,1,1,EC50,EC50,1.0,1,2022,2022,5.45,5.45,0.0
+CHEMBL1904,"Glutamate receptor ionotropic, NMDA 2B",Homo sapiens,Human,Q9UM56,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2018,2018,4.05,4.05,0.0
+CHEMBL1972,"Glutamate receptor ionotropic, NMDA 2A",Homo sapiens,Human,Q17RZ6,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2018,2018,4.73,4.73,0.0
+CHEMBL2073682,ATP-binding cassette sub-family C member 3,Rattus norvegicus,Non-human,O88563,Ion channels and transporters,1,1,Ki,Ki,1.0,1,2002,2002,4.11,4.11,0.0
+CHEMBL222,Sodium-dependent noradrenaline transporter,Homo sapiens,Human,Q96KH8,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2018,2018,8.0,8.0,0.0
+CHEMBL228,Sodium-dependent serotonin transporter,Homo sapiens,Human,Q5EE02,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2018,2018,9.14,9.14,0.0
+CHEMBL2369,Small conductance calcium-activated potassium channel protein 1,Homo sapiens,Human,Q92952,Ion channels and transporters,1,1,EC50,EC50,1.0,0,2006,2006,5.3,5.3,0.0
+CHEMBL2535,"Solute carrier family 2, facilitated glucose transporter member 1",Homo sapiens,Human,Q147X2,Ion channels and transporters,1,1,IC50,IC50,1.0,1,,,4.63,4.63,0.0
+CHEMBL2773,Potassium voltage-gated channel subfamily A member 7,Homo sapiens,Human,Q9BYS4,Ion channels and transporters,1,1,EC50,EC50,1.0,0,2006,2006,7.01,7.01,0.0
+CHEMBL3431938,Glucose transporter,Leishmania mexicana,Non-human,O61059,Ion channels and transporters,1,1,IC50,IC50,1.0,1,,,4.87,4.87,0.0
+CHEMBL3714706,Transient receptor potential cation channel subfamily M member 7,Mus musculus,Non-human,Q9JLQ1,Ion channels and transporters,1,1,IC50,IC50,1.0,0,2012,2012,6.02,6.02,0.0
+CHEMBL4109,"Glutamate receptor ionotropic, NMDA 2C",Homo sapiens,Human,Q14957,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2018,2018,4.17,4.17,0.0
+CHEMBL4304,Calcium-activated potassium channel subunit alpha-1,Homo sapiens,Human,Q9UQK6,Ion channels and transporters,1,1,EC50,EC50,1.0,0,2006,2006,5.82,5.82,0.0
+CHEMBL4469,Small conductance calcium-activated potassium channel protein 2,Homo sapiens,Human,Q9H2S1,Ion channels and transporters,1,1,EC50,EC50,1.0,0,2006,2006,5.3,5.3,0.0
+CHEMBL5279,Potassium voltage-gated channel subfamily A member 6,Homo sapiens,Human,P17658,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2017,2017,6.89,6.89,0.0
+CHEMBL5393,Broad substrate specificity ATP-binding cassette transporter ABCG2,Homo sapiens,Human,Q9UNQ0,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2022,2022,4.37,4.37,0.0
+CHEMBL5685,Solute carrier family 22 member 1,Homo sapiens,Human,Q9NQD4,Ion channels and transporters,1,1,IC50,IC50,1.0,1,2023,2023,4.42,4.42,0.0
+CHEMBL247,Human immunodeficiency virus type 1 reverse transcriptase,Human immunodeficiency virus 1,Non-human,Q72547,Other enzymes,115,101,EC50; IC50,IC50,0.7304347826086957,14,1993,2022,4.0,7.42,3.42
+CHEMBL1978,Aromatase,Homo sapiens,Human,Q8IYJ7,Other enzymes,137,76,IC50; Ki,IC50,0.9927007299270073,16,2004,2021,4.0,7.54,3.54
+CHEMBL230,Prostaglandin G/H synthase 2,Homo sapiens,Human,Q16876,Other enzymes,60,60,IC50,IC50,1.0,6,2012,2021,4.09,7.05,2.96
+CHEMBL3559,Steryl-sulfatase,Homo sapiens,Human,P08842,Other enzymes,100,50,IC50,IC50,1.0,36,1996,2024,4.05,9.17,5.12
+CHEMBL3471,Human immunodeficiency virus type 1 integrase,Human immunodeficiency virus 1,Non-human,Q7ZJM1,Other enzymes,77,49,IC50,IC50,1.0,15,1997,2022,4.04,7.89,3.8499999999999996
+CHEMBL3623,NAD(P)H dehydrogenase [quinone] 1,Homo sapiens,Human,Q86UK1,Other enzymes,81,41,EC50; IC50,IC50,0.9876543209876543,5,2006,2018,4.2,9.74,5.54
+CHEMBL2916,Telomerase reverse transcriptase,Homo sapiens,Human,Q8NG46,Other enzymes,42,39,IC50,IC50,1.0,7,2010,2023,4.23,6.09,1.8599999999999994
+CHEMBL221,Prostaglandin G/H synthase 1,Homo sapiens,Human,Q5T7T8,Other enzymes,39,39,IC50,IC50,1.0,5,2005,2018,4.01,4.58,0.5700000000000003
+CHEMBL5979,"Alkaline phosphatase, tissue-nonspecific isozyme",Homo sapiens,Human,Q9UBK0,Other enzymes,38,38,IC50,IC50,1.0,2,2017,2023,4.59,6.6,2.01
+CHEMBL1795098,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,Homo sapiens,Human,Q9GZU7,Other enzymes,37,37,IC50,IC50,1.0,0,,,4.49,5.7,1.21
+CHEMBL4234,17-beta-hydroxysteroid dehydrogenase type 3,Homo sapiens,Human,Q5U0Q6,Other enzymes,36,36,IC50,IC50,1.0,1,2010,2010,5.0,8.82,3.8200000000000003
+CHEMBL5573,Intestinal-type alkaline phosphatase,Homo sapiens,Human,Q9UCL2,Other enzymes,33,32,IC50,IC50,1.0,1,2017,2017,4.69,5.96,1.2699999999999996
+CHEMBL1826,DNA gyrase subunit B,Escherichia coli,Non-human,Q2M811,Other enzymes,54,30,IC50; Kd; Ki,IC50,0.9444444444444444,4,2008,2018,5.5,8.92,3.42
+CHEMBL1895,DNA topoisomerase 4 subunit A,Escherichia coli K-12,Non-human,Q2M9I1,Other enzymes,30,30,IC50,IC50,1.0,1,2019,2019,4.53,7.0,2.4699999999999998
+CHEMBL1858,DNA gyrase subunit A,Escherichia coli K-12,Non-human,P0AES4,Other enzymes,29,29,IC50,IC50,1.0,1,2019,2019,4.18,7.4,3.2200000000000006
+CHEMBL215,Polyunsaturated fatty acid 5-lipoxygenase,Homo sapiens,Human,Q5JQ14,Other enzymes,52,28,IC50,IC50,1.0,8,1992,2022,4.44,9.3,4.86
+CHEMBL2424506,DNA gyrase subunit A,Staphylococcus aureus,Non-human,P20831,Other enzymes,28,28,IC50,IC50,1.0,1,2019,2019,4.36,6.1,1.7399999999999993
+CHEMBL3229,Fatty-acid amide hydrolase 1,Rattus norvegicus,Non-human,Q5BKA3,Other enzymes,54,27,IC50,IC50,1.0,3,2012,2022,5.04,8.88,3.8400000000000007
+CHEMBL4161,Urease,Canavalia ensiformis,Non-human,P07374,Other enzymes,28,27,IC50,IC50,1.0,3,2008,2022,4.04,6.45,2.41
+CHEMBL1293246,Beta Lactamase,Pseudomonas aeruginosa,Non-human,Q932Y6,Other enzymes,38,25,IC50,IC50,1.0,0,,,4.41,6.28,1.87
+CHEMBL1075138,Tyrosyl-DNA phosphodiesterase 1,Homo sapiens,Human,Q9NZM8,Other enzymes,26,24,IC50,IC50,1.0,3,2010,2020,4.65,7.0,2.3499999999999996
+CHEMBL1900,Aldo-keto reductase family 1 member B1,Homo sapiens,Human,P15121,Other enzymes,24,24,IC50,IC50,1.0,3,2010,2017,4.13,7.01,2.88
+CHEMBL3621036,"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial",Homo sapiens,Human,Q7Z650,Other enzymes,23,23,IC50,IC50,1.0,2,2019,2019,5.42,8.2,2.7799999999999994
+CHEMBL2176851,Replicative DNA helicase,Bacillus anthracis,Non-human,Q81JI8,Other enzymes,22,22,IC50,IC50,1.0,1,2012,2012,4.07,5.82,1.75
+CHEMBL3775,M-phase inducer phosphatase 1,Homo sapiens,Human,Q9H2F2,Other enzymes,22,21,IC50,IC50,1.0,4,2010,2020,4.02,5.92,1.9000000000000004
+CHEMBL2378,M-phase inducer phosphatase 3,Homo sapiens,Human,Q9H2F1,Other enzymes,21,20,IC50,IC50,1.0,4,2010,2020,4.14,7.0,2.8600000000000003
+CHEMBL1930,Vitamin K epoxide reductase complex subunit 1,Homo sapiens,Human,Q9BQB6,Other enzymes,20,20,IC50; Ki,IC50,0.8,3,2012,2023,4.1,8.35,4.25
+CHEMBL2622,Aldo-keto reductase family 1 member B1,Rattus norvegicus,Non-human,P07943,Other enzymes,20,20,IC50,IC50,1.0,2,1986,2012,4.21,7.7,3.49
+CHEMBL312,Polyunsaturated fatty acid 5-lipoxygenase,Rattus norvegicus,Non-human,P12527,Other enzymes,20,20,IC50,IC50,1.0,1,2017,2017,5.2,6.06,0.8599999999999994
+CHEMBL3649,Xanthine dehydrogenase/oxidase,Bos taurus,Non-human,Q95325,Other enzymes,20,20,IC50,IC50,1.0,5,2017,2024,4.19,5.67,1.4799999999999995
+CHEMBL4088,DNA topoisomerase 4 subunit A,Staphylococcus aureus,Non-human,P95683,Other enzymes,20,20,IC50,IC50,1.0,1,2019,2019,4.0,6.52,2.5199999999999996
+CHEMBL1287620,Fructose-bisphosphate aldolase,Mycobacterium tuberculosis,Non-human,P9WQA3,Other enzymes,18,18,IC50,IC50,1.0,0,,,5.43,6.04,0.6100000000000003
+CHEMBL2949,Prostaglandin G/H synthase 1,Ovis aries,Non-human,P05979,Other enzymes,17,17,IC50,IC50,1.0,4,2012,2021,4.28,5.79,1.5099999999999998
+CHEMBL1741189,FAD-linked sulfhydryl oxidase ALR,Homo sapiens,Human,Q9UK40,Other enzymes,16,16,AC50,AC50,1.0,0,,,4.03,7.04,3.01
+CHEMBL335,Tyrosine-protein phosphatase non-receptor type 1,Homo sapiens,Human,P18031,Other enzymes,16,16,IC50,IC50,1.0,4,2009,2020,4.04,6.39,2.3499999999999996
+CHEMBL2541,"C-1-tetrahydrofolate synthase, cytoplasmic",Homo sapiens,Human,Q9BVP5,Other enzymes,15,15,IC50,IC50,1.0,1,2019,2019,4.57,6.24,1.67
+CHEMBL288,"3',5'-cyclic-AMP phosphodiesterase 4D",Homo sapiens,Human,Q08499,Other enzymes,15,15,AC50; IC50,IC50,0.9333333333333333,3,2014,2023,4.78,6.85,2.0699999999999994
+CHEMBL4105870,Vitamin K epoxide reductase complex subunit 1,Rattus norvegicus,Non-human,Q6TEK4,Other enzymes,15,15,Ki,Ki,1.0,1,2017,2017,4.66,7.7,3.04
+CHEMBL1935,"Aldehyde dehydrogenase, mitochondrial",Homo sapiens,Human,Q6IV71,Other enzymes,25,14,IC50; Ki,IC50,0.72,3,2001,2021,5.25,7.72,2.4699999999999998
+CHEMBL275,"3',5'-cyclic-AMP phosphodiesterase 4B",Homo sapiens,Human,Q5TEK6,Other enzymes,15,14,IC50,IC50,1.0,2,2010,2020,5.93,9.0,3.0700000000000003
+CHEMBL3577,Aldehyde dehydrogenase 1A1,Homo sapiens,Human,Q5SYR1,Other enzymes,19,13,IC50; Ki,IC50,0.7894736842105263,3,2017,2021,4.53,6.89,2.3599999999999994
+CHEMBL1795151,Bis(5'-adenosyl)-triphosphatase,Homo sapiens,Human,Q6IU12,Other enzymes,15,13,IC50,IC50,1.0,1,2021,2021,4.3,7.22,2.92
+CHEMBL6145,Inosine-5'-monophosphate dehydrogenase,Cryptosporidium parvum,Non-human,Q8T6T2,Other enzymes,13,13,IC50,IC50,1.0,1,2014,2014,5.6,7.7,2.1000000000000005
+CHEMBL2635,Dual specificity protein phosphatase 3,Homo sapiens,Human,Q8IYJ9,Other enzymes,16,12,IC50,IC50,1.0,1,2013,2013,4.6,5.81,1.21
+CHEMBL5983,Aldo-keto reductase family 1 member B10,Homo sapiens,Human,Q8IWZ1,Other enzymes,13,12,IC50; Ki,IC50,0.9230769230769231,1,2017,2017,5.57,8.64,3.0700000000000003
+CHEMBL2007628,Tyrosine-protein phosphatase non-receptor type 5,Homo sapiens,Human,Q8NDP8,Other enzymes,12,12,IC50,IC50,1.0,2,2019,2020,4.44,5.53,1.0899999999999999
+CHEMBL2284,Glyceraldehyde-3-phosphate dehydrogenase,Homo sapiens,Human,Q53X65,Other enzymes,12,12,IC50,IC50,1.0,1,2004,2004,4.07,4.77,0.6999999999999993
+CHEMBL4102,Prostaglandin G/H synthase 2,Ovis aries,Non-human,P79208,Other enzymes,12,12,IC50,IC50,1.0,2,2014,2019,5.36,6.39,1.0299999999999994
+CHEMBL1806,DNA topoisomerase 2-alpha,Homo sapiens,Human,Q9UQP9,Other enzymes,11,11,IC50,IC50,1.0,2,2017,2021,4.58,5.0,0.41999999999999993
+CHEMBL1849,Enoyl-[acyl-carrier-protein] reductase [NADH],Mycobacterium tuberculosis,Non-human,P9WGR1,Other enzymes,11,11,IC50,IC50,1.0,1,2023,2023,5.45,7.27,1.8199999999999994
+CHEMBL2074,Maltase-glucoamylase,Homo sapiens,Human,Q86UM5,Other enzymes,11,11,IC50,IC50,1.0,5,2017,2024,4.04,6.05,2.01
+CHEMBL2903,Polyunsaturated fatty acid lipoxygenase ALOX15,Homo sapiens,Human,Q99657,Other enzymes,11,11,IC50,IC50,1.0,2,2012,2023,4.37,6.13,1.7599999999999998
+CHEMBL4586,Seed linoleate 13S-lipoxygenase-1,Glycine max,Non-human,P08170,Other enzymes,11,11,IC50,IC50,1.0,2,2005,2023,4.0,6.17,2.17
+CHEMBL6136,Lysine-specific histone demethylase 1A,Homo sapiens,Human,O60341,Other enzymes,11,11,IC50,IC50,1.0,3,2014,2024,4.08,7.48,3.4000000000000004
+CHEMBL3864,Tyrosine-protein phosphatase non-receptor type 11,Homo sapiens,Human,Q06124,Other enzymes,11,10,IC50,IC50,1.0,2,2020,2022,5.13,7.51,2.38
+CHEMBL5567,Luciferin 4-monooxygenase,Photinus pyralis,Non-human,Q27755,Other enzymes,18,9,AC50; EC50; IC50,IC50,0.5555555555555556,1,2008,2008,4.85,7.05,2.2
+CHEMBL325,Histone deacetylase 1,Homo sapiens,Human,Q92534,Other enzymes,10,9,IC50,IC50,1.0,5,2011,2023,4.23,9.52,5.289999999999999
+CHEMBL4295618,Enoyl-(Acyl-carrier-protein) reductase II,Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R),Non-human,Q8E1K8,Other enzymes,9,9,IC50,IC50,1.0,1,2018,2018,5.12,5.95,0.8300000000000001
+CHEMBL1741179,DNA dC->dU-editing enzyme APOBEC-3A,Homo sapiens,Human,Q9UH18,Other enzymes,10,8,IC50,IC50,1.0,0,,,4.3,5.61,1.3100000000000005
+CHEMBL4881,"Aldehyde dehydrogenase X, mitochondrial",Homo sapiens,Human,Q9BV45,Other enzymes,9,8,IC50,IC50,1.0,2,2017,2021,4.89,7.07,2.1800000000000006
+CHEMBL3112384,Retinal dehydrogenase 2,Homo sapiens,Human,Q9UFY0,Other enzymes,8,8,IC50,IC50,1.0,1,2017,2017,4.96,7.19,2.2300000000000004
+CHEMBL3564,"DNA polymerase I, thermostable",Thermus aquaticus,Non-human,P19821,Other enzymes,8,8,IC50,IC50,1.0,2,2010,2014,4.23,5.4,1.17
+CHEMBL3579,Retinaldehyde dehydrogenase 3,Homo sapiens,Human,Q6NT64,Other enzymes,8,8,AC50; IC50,IC50,0.75,1,2017,2017,4.46,6.77,2.3099999999999996
+CHEMBL6174,Cytochrome c oxidase subunit 2,Homo sapiens,Human,Q37526,Other enzymes,8,8,IC50,IC50,1.0,1,2022,2022,5.07,5.07,0.0
+CHEMBL1741217,DNA dC->dU-editing enzyme APOBEC-3G,Homo sapiens,Human,Q9HC16,Other enzymes,8,7,IC50,IC50,1.0,0,,,4.29,5.63,1.3399999999999999
+CHEMBL3167,Serum paraoxonase/arylesterase 1,Homo sapiens,Human,Q9UCB1,Other enzymes,8,7,IC50; Ki,IC50,0.875,2,2016,2022,4.4,5.62,1.2199999999999998
+CHEMBL1641359,Lipoxygenase,Glycine max,Non-human,Q39829,Other enzymes,7,7,IC50,IC50,1.0,2,2014,2018,4.09,5.2,1.1100000000000003
+CHEMBL1787,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Homo sapiens,Human,Q9UP37,Other enzymes,7,7,IC50,IC50,1.0,1,2001,2001,4.3,6.31,2.01
+CHEMBL3569,Squalene--hopene cyclase,Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC27009 / DSM 446 / 104-1A) (Bacillus acidocaldarius),Non-human,P33247,Other enzymes,7,7,IC50,IC50,1.0,1,2004,2004,4.0,5.82,1.8200000000000003
+CHEMBL1741192,Replicative DNA helicase DnaB,Mycobacterium tuberculosis,Non-human,P9WMR3,Other enzymes,9,6,AC50,AC50,1.0,0,,,4.43,5.58,1.1500000000000004
+CHEMBL2243,Fatty-acid amide hydrolase 1,Homo sapiens,Human,Q5TDF8,Other enzymes,6,6,IC50,IC50,1.0,2,2012,2024,4.83,6.29,1.46
+CHEMBL4235,11-beta-hydroxysteroid dehydrogenase 1,Homo sapiens,Human,P28845,Other enzymes,10,5,IC50; Ki,Ki,0.5,1,2011,2011,5.71,6.84,1.13
+CHEMBL3318,Tyrosinase,Agaricus bisporus,Non-human,Q12543,Other enzymes,7,5,EC50; IC50; Ki,IC50,0.7142857142857143,5,2016,2021,4.83,8.34,3.51
+CHEMBL4804,M-phase inducer phosphatase 2,Homo sapiens,Human,Q9BRA6,Other enzymes,6,5,IC50,IC50,1.0,3,2013,2020,4.34,6.05,1.71
+CHEMBL3081,Aldo-keto reductase family 1 member B1,Bos taurus,Non-human,Q5E962,Other enzymes,5,5,IC50,IC50,1.0,1,2018,2018,5.47,6.96,1.4900000000000002
+CHEMBL3108645,Histone-lysine N-methyltransferase NSD2,Homo sapiens,Human,Q9UPR2,Other enzymes,5,5,AC50,AC50,1.0,0,,,4.99,6.18,1.1899999999999995
+CHEMBL3596075,"Beta-galactoside alpha-2,6-sialyltransferase 1",Homo sapiens,Human,P15907,Other enzymes,5,5,IC50,IC50,1.0,1,2021,2021,5.24,5.34,0.09999999999999964
+CHEMBL4512,Fatty acid synthase,Plasmodium falciparum,Non-human,Q965D7,Other enzymes,5,5,IC50,IC50,1.0,1,2013,2013,4.05,5.0,0.9500000000000002
+CHEMBL1929,Xanthine dehydrogenase/oxidase,Homo sapiens,Human,Q4PJ16,Other enzymes,5,4,IC50,IC50,1.0,5,2007,2023,5.08,6.23,1.1500000000000004
+CHEMBL2392,DNA polymerase beta,Homo sapiens,Human,P06746,Other enzymes,5,4,IC50,IC50,1.0,2,2008,2017,4.02,4.65,0.6300000000000008
+CHEMBL3151,Intestinal-type alkaline phosphatase,Mus musculus,Non-human,P24822,Other enzymes,5,4,IC50,IC50,1.0,0,,,4.89,5.82,0.9300000000000006
+CHEMBL5131,Trypanothione reductase,Trypanosoma cruzi,Non-human,P28593,Other enzymes,5,4,IC50; Ki,Ki,0.8,2,2000,2017,4.65,6.25,1.5999999999999996
+CHEMBL3308960,Alpha-amylase,Sus scrofa domesticus,Non-human,Q7M328,Other enzymes,4,4,IC50,IC50,1.0,1,2024,2024,4.11,4.43,0.3199999999999994
+CHEMBL3807,Tyrosine-protein phosphatase non-receptor type 2,Homo sapiens,Human,Q96HR2,Other enzymes,4,4,IC50,IC50,1.0,2,2019,2020,4.77,5.89,1.12
+CHEMBL4198,E3 ubiquitin-protein ligase XIAP,Homo sapiens,Human,Q9NQ14,Other enzymes,4,4,IC50,IC50,1.0,0,2016,2018,6.39,6.67,0.28000000000000025
+CHEMBL5422,Protein disulfide-isomerase,Homo sapiens,Human,Q6LDE5,Other enzymes,4,4,AC50,AC50,1.0,0,,,4.71,5.17,0.45999999999999996
+CHEMBL5511,Dual specificity protein phosphatase 6,Rattus norvegicus,Non-human,Q64346,Other enzymes,4,4,IC50,IC50,1.0,0,,,4.1,4.62,0.5200000000000005
+CHEMBL5643,DnaC helicase,Staphylococcus aureus,Non-human,Q9AQH7,Other enzymes,4,4,IC50,IC50,1.0,1,2009,2009,4.19,4.82,0.6299999999999999
+CHEMBL3114,"Sucrase-isomaltase, intestinal",Rattus norvegicus,Non-human,P23739,Other enzymes,6,3,IC50,IC50,1.0,1,2017,2017,4.87,6.27,1.3999999999999995
+CHEMBL2758,Mannose-6-phosphate isomerase,Homo sapiens,Human,Q96AB0,Other enzymes,4,3,IC50,IC50,1.0,0,,,4.53,5.29,0.7599999999999998
+CHEMBL5586,Carbonyl reductase [NADPH] 1,Homo sapiens,Human,Q3LHW8,Other enzymes,4,3,IC50; Ki,IC50,0.75,2,2009,2017,5.38,6.22,0.8399999999999999
+CHEMBL1293244,Beta-lactamase,Pseudomonas aeruginosa,Non-human,Q79MP6,Other enzymes,3,3,IC50,IC50,1.0,0,,,4.11,5.49,1.38
+CHEMBL1293260,Beta-lactamase,Salmonella choleraesuis (strain SC-B67),Non-human,Q5J463,Other enzymes,3,3,IC50,IC50,1.0,0,,,4.57,6.15,1.58
+CHEMBL1697656,Glutathione S-transferase,Plasmodium falciparum,Non-human,Q95V54,Other enzymes,3,3,IC50,IC50,1.0,1,2009,2009,4.13,5.16,1.0300000000000002
+CHEMBL1865,Histone deacetylase 6,Homo sapiens,Human,Q9UBN7,Other enzymes,3,3,IC50,IC50,1.0,3,2011,2021,4.5,7.82,3.3200000000000003
+CHEMBL2219,Tyrosine-protein phosphatase non-receptor type 7,Homo sapiens,Human,Q9BV05,Other enzymes,3,3,IC50,IC50,1.0,1,2020,2020,4.4,6.89,2.4899999999999993
+CHEMBL2755,"Glutathione reductase, mitochondrial",Homo sapiens,Human,Q9NP63,Other enzymes,3,3,IC50,IC50,1.0,1,2009,2009,4.57,5.12,0.5499999999999998
+CHEMBL3902,Glutathione S-transferase P,Homo sapiens,Human,Q5TZY3,Other enzymes,3,3,IC50,IC50,1.0,1,2009,2009,4.11,4.46,0.34999999999999964
+CHEMBL4295521,Phosphotyrosine protein phosphatase,Mycobacterium tuberculosis,Non-human,A0A045ISB3,Other enzymes,3,3,IC50,IC50,1.0,1,2019,2019,5.06,5.39,0.33000000000000007
+CHEMBL4681,Aldo-keto reductase family 1 member C3,Homo sapiens,Human,Q9UKL9,Other enzymes,3,3,IC50; Ki,IC50,0.6666666666666666,2,2012,2017,5.4,6.33,0.9299999999999997
+CHEMBL5847,Aldo-keto reductase family 1 member C2,Homo sapiens,Human,Q96A71,Other enzymes,3,3,IC50; Ki,IC50,0.6666666666666666,2,2012,2017,4.67,6.21,1.54
+CHEMBL5905,Aldo-keto reductase family 1 member C1,Homo sapiens,Human,Q9UCX2,Other enzymes,3,3,IC50; Ki,IC50,0.6666666666666666,2,2012,2017,4.92,6.02,1.0999999999999996
+CHEMBL6175,Lysine-specific demethylase 4C,Homo sapiens,Human,Q9H3R0,Other enzymes,3,3,AC50; IC50,AC50,0.6666666666666666,1,2016,2016,3.75,6.32,2.5700000000000003
+CHEMBL3713355,Polypeptide N-acetylgalactosaminyltransferase 2,Homo sapiens,Human,Q9NPY4,Other enzymes,11,2,IC50; Kd; Ki,IC50,0.6363636363636364,1,2019,2019,5.21,6.53,1.3200000000000003
+CHEMBL1973,Tyrosinase,Homo sapiens,Human,Q9BZX1,Other enzymes,4,2,IC50; Ki,Ki,0.5,4,2017,2024,4.58,5.55,0.9699999999999998
+CHEMBL3402,"Alkaline phosphatase, germ cell type",Homo sapiens,Human,Q96CM1,Other enzymes,4,2,IC50,IC50,1.0,0,,,5.21,5.54,0.33000000000000007
+CHEMBL6164,Poly [ADP-ribose] polymerase tankyrase-1,Homo sapiens,Human,Q59FX0,Other enzymes,4,2,IC50,IC50,1.0,1,2023,2023,7.48,8.7,1.2199999999999989
+CHEMBL5926,"Glyceraldehyde-3-phosphate dehydrogenase, glycosomal",Trypanosoma cruzi,Non-human,P22513,Other enzymes,3,2,IC50,IC50,1.0,2,2009,2014,4.19,4.75,0.5599999999999996
+CHEMBL1169595,UDP-galactose 4-epimerase,Trypanosoma brucei,Non-human,Q8T8E9,Other enzymes,2,2,IC50,IC50,1.0,1,2010,2010,5.3,5.5,0.20000000000000018
+CHEMBL1741212,Glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase,Plasmodium berghei,Non-human,Q9BHT9,Other enzymes,2,2,IC50,IC50,1.0,0,,,4.38,4.43,0.04999999999999982
+CHEMBL1781,DNA topoisomerase 1,Homo sapiens,Human,Q9UJN0,Other enzymes,2,2,IC50,IC50,1.0,2,2012,2021,4.22,7.42,3.2
+CHEMBL202,Dihydrofolate reductase,Homo sapiens,Human,Q6IRW8,Other enzymes,2,2,IC50,IC50,1.0,1,2018,2018,4.82,4.92,0.09999999999999964
+CHEMBL2246,Aldo-keto reductase family 1 member A1,Homo sapiens,Human,Q6IAZ4,Other enzymes,2,2,IC50,IC50,1.0,1,2017,2017,5.77,5.82,0.05000000000000071
+CHEMBL2275,Sorbitol dehydrogenase,Homo sapiens,Human,Q9UMD6,Other enzymes,2,2,IC50,IC50,1.0,1,2010,2010,4.08,4.15,0.07000000000000028
+CHEMBL2362978,DNA repair protein RAD52 homolog,Homo sapiens,Human,Q9Y5T9,Other enzymes,2,2,AC50,AC50,1.0,0,,,4.57,4.72,0.14999999999999947
+CHEMBL2424,Lactoylglutathione lyase,Homo sapiens,Human,Q96J41,Other enzymes,2,2,IC50,IC50,1.0,1,2020,2020,4.72,4.75,0.03000000000000025
+CHEMBL2563,Histone deacetylase 5,Homo sapiens,Human,Q9UQL6,Other enzymes,2,2,IC50,IC50,1.0,1,2010,2010,5.52,5.88,0.3600000000000003
+CHEMBL2716,Histone deacetylase 7,Homo sapiens,Human,Q9UFU7,Other enzymes,2,2,IC50,IC50,1.0,1,2010,2010,5.89,6.11,0.22000000000000064
+CHEMBL3192,Histone deacetylase 8,Homo sapiens,Human,Q9NYH4,Other enzymes,2,2,IC50,IC50,1.0,2,2011,2014,4.55,6.26,1.71
+CHEMBL3212,Vitamin K epoxide reductase complex subunit 1,Bos taurus,Non-human,Q6B4J2,Other enzymes,2,2,IC50,IC50,1.0,1,2005,2005,6.0,7.4,1.4000000000000004
+CHEMBL3317339,Polymerase basic protein 2,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),Non-human,Q8JUU8,Other enzymes,2,2,Kd,Kd,1.0,2,2018,2021,5.44,6.96,1.5199999999999996
+CHEMBL3524,Histone deacetylase 4,Homo sapiens,Human,Q9UND6,Other enzymes,2,2,IC50,IC50,1.0,1,2010,2010,5.93,6.19,0.2600000000000007
+CHEMBL3720,ATP-citrate synthase,Homo sapiens,Human,Q9BRL0,Other enzymes,2,2,IC50,IC50,1.0,1,2017,2017,4.92,5.39,0.46999999999999975
+CHEMBL3784,Histone acetyltransferase p300,Homo sapiens,Human,Q09472,Other enzymes,2,2,IC50,IC50,1.0,2,2015,2022,6.58,7.32,0.7400000000000002
+CHEMBL4105939,Polyketide synthase Pks13,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),Non-human,I6X8D2,Other enzymes,2,2,IC50,IC50,1.0,1,2022,2022,5.81,5.89,0.08000000000000007
+CHEMBL4145,Histone deacetylase 9,Homo sapiens,Human,Q9UKV0,Other enzymes,2,2,IC50,IC50,1.0,1,2010,2010,5.63,5.99,0.3600000000000003
+CHEMBL4241,Squalene monooxygenase,Rattus norvegicus,Non-human,Q4V8L3,Other enzymes,2,2,IC50,IC50,1.0,1,2001,2001,4.7,5.7,1.0
+CHEMBL4343,DNA polymerase beta,Rattus norvegicus,Non-human,Q4G081,Other enzymes,2,2,IC50,IC50,1.0,1,2004,2004,4.02,4.65,0.6300000000000008
+CHEMBL4358,Polyunsaturated fatty acid lipoxygenase ALOX15,Oryctolagus cuniculus,Non-human,P12530,Other enzymes,2,2,IC50,IC50,1.0,1,2007,2007,4.78,4.82,0.040000000000000036
+CHEMBL4481,"Nitric oxide synthase, inducible",Homo sapiens,Human,Q9UD42,Other enzymes,2,2,EC50,EC50,1.0,1,2009,2009,5.7,6.08,0.3799999999999999
+CHEMBL4685,"Indoleamine 2,3-dioxygenase 1",Homo sapiens,Human,Q540B4,Other enzymes,2,2,IC50,IC50,1.0,2,2012,2017,4.65,4.7,0.04999999999999982
+CHEMBL4999,Aldo-keto reductase family 1 member C4,Homo sapiens,Human,Q9NS54,Other enzymes,2,2,IC50,IC50,1.0,1,2017,2017,6.09,6.46,0.3700000000000001
+CHEMBL5465386,Metallo-beta-lactamase type 2,Bacteria,Non-human,C7C422,Other enzymes,2,2,Ki,Ki,1.0,0,2020,2020,4.0,4.26,0.2599999999999998
+CHEMBL6065,Dihydrofolate reductase,Mycobacterium tuberculosis,Non-human,P9WNX1,Other enzymes,2,2,IC50,IC50,1.0,1,2018,2018,5.87,6.09,0.21999999999999975
+CHEMBL5485,D-amino-acid oxidase,Homo sapiens,Human,Q8N6R2,Other enzymes,10,1,IC50; Kd; Ki,Ki,0.4,2,2013,2013,5.2,7.89,2.6899999999999995
+CHEMBL5347,Glucose-6-phosphate 1-dehydrogenase,Homo sapiens,Human,Q96PQ2,Other enzymes,6,1,IC50; Kd; Ki,Ki,0.6666666666666666,1,2021,2021,5.0,5.92,0.9199999999999999
+CHEMBL4523345,Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6,Homo sapiens,Human,Q9Y4E2,Other enzymes,3,1,IC50,IC50,1.0,1,2019,2019,4.99,6.66,1.67
+CHEMBL5933,NAD-dependent protein deacetylase HST2,Saccharomyces cerevisiae S288c,Non-human,P53686,Other enzymes,3,1,IC50; Ki,Ki,0.6666666666666666,1,2009,2009,5.19,5.92,0.7299999999999995
+CHEMBL1287617,UDP-glucuronosyltransferase 1A1,Homo sapiens,Human,P22309,Other enzymes,2,1,IC50,IC50,1.0,1,2011,2011,4.0,4.0,0.0
+CHEMBL2193,Arylsulfatase A,Homo sapiens,Human,Q96CJ0,Other enzymes,2,1,IC50; Kd,IC50,0.5,1,2021,2021,4.68,4.88,0.20000000000000018
+CHEMBL2889,Tyrosine-protein phosphatase non-receptor type 22,Homo sapiens,Human,Q9Y2R2,Other enzymes,2,1,IC50,IC50,1.0,0,,,5.03,5.07,0.040000000000000036
+CHEMBL3203,4-hydroxyphenylpyruvate dioxygenase,Sus scrofa,Non-human,Q02110,Other enzymes,2,1,IC50,IC50,1.0,2,2002,2017,6.96,6.96,0.0
+CHEMBL3925,17-beta-hydroxysteroid-dehydrogenase,Cochliobolus lunatus,Non-human,O93874,Other enzymes,2,1,IC50,IC50,1.0,1,2004,2004,5.1,5.57,0.47000000000000064
+CHEMBL4295885,Tyrosinase,Danio rerio,Non-human,Q8AYA1,Other enzymes,2,1,IC50,IC50,1.0,1,2017,2017,4.04,4.38,0.33999999999999986
+CHEMBL4461,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",Homo sapiens,Human,Q9Y6E8,Other enzymes,2,1,IC50; Kd,Kd,0.5,1,2024,2024,4.12,5.41,1.29
+CHEMBL5542,DNA polymerase eta,Homo sapiens,Human,Q9Y253,Other enzymes,2,1,IC50,IC50,1.0,2,2016,2023,7.21,7.21,0.0
+CHEMBL1075093,Farnesyl pyrophosphate synthase,Rattus norvegicus,Non-human,Q6GT82,Other enzymes,1,1,Kd,Kd,1.0,1,2020,2020,4.27,4.27,0.0
+CHEMBL1169598,Polymerase acidic protein,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),Non-human,Q8JUU6,Other enzymes,1,1,IC50,IC50,1.0,1,2019,2019,6.3,6.3,0.0
+CHEMBL1275219,Glucosylceramidase,Bos taurus,Non-human,Q2KHZ8,Other enzymes,1,1,Ki,Ki,1.0,1,2010,2010,4.5,4.5,0.0
+CHEMBL1293308,Likely tRNA 2'-phosphotransferase,Candida albicans (strain SC5314 / ATCC MYA-2876) (Yeast),Non-human,Q5A7N4,Other enzymes,1,1,IC50,IC50,1.0,0,,,6.27,6.27,0.0
+CHEMBL1829,Histone deacetylase 3,Homo sapiens,Human,Q9UEV0,Other enzymes,1,1,IC50,IC50,1.0,1,2014,2014,4.92,4.92,0.0
+CHEMBL1937,Histone deacetylase 2,Homo sapiens,Human,Q92769,Other enzymes,1,1,IC50,IC50,1.0,1,2014,2014,4.48,4.48,0.0
+CHEMBL1993,DNA (cytosine-5)-methyltransferase 1,Homo sapiens,Human,Q9UMZ6,Other enzymes,1,1,IC50,IC50,1.0,0,,,5.12,5.12,0.0
+CHEMBL2007625,Isocitrate dehydrogenase [NADP] cytoplasmic,Homo sapiens,Human,Q9UKW8,Other enzymes,1,1,IC50,IC50,1.0,0,2017,2017,6.26,6.26,0.0
+CHEMBL2150835,Enoyl-[acyl-carrier-protein] reductase [NADH],Francisella tularensis subsp. tularensis (strain SCHU S4 / Schu 4),Non-human,Q5NGQ3,Other enzymes,1,1,IC50,IC50,1.0,1,2013,2013,4.33,4.33,0.0
+CHEMBL2176778,Protein mono-ADP-ribosyltransferase PARP15,Homo sapiens,Human,Q8N1K3,Other enzymes,1,1,IC50,IC50,1.0,1,2022,2022,6.01,6.01,0.0
+CHEMBL2179,Lysosomal acid glucosylceramidase,Homo sapiens,Human,Q9UMJ8,Other enzymes,1,1,Ki,Ki,1.0,1,2001,2001,8.92,8.92,0.0
+CHEMBL2390811,Thioredoxin reductase,Mycobacterium tuberculosis,Non-human,P9WHH1,Other enzymes,1,1,IC50,IC50,1.0,1,2013,2013,4.0,4.0,0.0
+CHEMBL2409,Bifunctional epoxide hydrolase 2,Homo sapiens,Human,P34913,Other enzymes,1,1,IC50,IC50,1.0,1,2014,2014,4.68,4.68,0.0
+CHEMBL2424504,Lysine-specific demethylase 5A,Homo sapiens,Human,Q86XZ1,Other enzymes,1,1,IC50,IC50,1.0,1,2022,2022,7.62,7.62,0.0
+CHEMBL2424510,E3 ubiquitin-protein ligase UHRF1,Homo sapiens,Human,Q9P1U7,Other enzymes,1,1,IC50,IC50,1.0,0,,,4.57,4.57,0.0
+CHEMBL2424511,3-oxoacyl-(Acyl-carrier protein) reductase,Plasmodium falciparum (isolate 3D7),Non-human,Q8I2S7,Other enzymes,1,1,IC50,IC50,1.0,1,2013,2013,4.0,4.0,0.0
+CHEMBL254,"3',5'-cyclic-AMP phosphodiesterase 4A",Homo sapiens,Human,Q9H3H2,Other enzymes,1,1,AC50,AC50,1.0,1,2023,2023,5.94,5.94,0.0
+CHEMBL2730,Protein-glutamine gamma-glutamyltransferase,Homo sapiens,Human,Q9UH35,Other enzymes,1,1,Ki,Ki,1.0,1,2017,2017,4.95,4.95,0.0
+CHEMBL3048,Nitric oxide synthase 1,Rattus norvegicus,Non-human,P29476,Other enzymes,1,1,IC50,IC50,1.0,1,2011,2011,6.07,6.07,0.0
+CHEMBL3085613,DNA gyrase subunit B,Mycobacterium smegmatis,Non-human,Q59555,Other enzymes,1,1,IC50,IC50,1.0,1,2022,2022,6.36,6.36,0.0
+CHEMBL3091269,NAD(P)H dehydrogenase [quinone] 1,Rattus norvegicus,Non-human,Q63478,Other enzymes,1,1,Ki,Ki,1.0,1,2018,2018,9.0,9.0,0.0
+CHEMBL3166,Tyrosine-protein phosphatase non-receptor type 6,Homo sapiens,Human,Q9UK67,Other enzymes,1,1,IC50,IC50,1.0,1,2020,2020,6.89,6.89,0.0
+CHEMBL3236,Tyrosine-protein phosphatase non-receptor type 12,Homo sapiens,Human,Q86XU4,Other enzymes,1,1,IC50,IC50,1.0,1,2020,2020,6.89,6.89,0.0
+CHEMBL3243,Receptor-type tyrosine-protein phosphatase C,Homo sapiens,Human,X6R433,Other enzymes,1,1,IC50,IC50,1.0,1,2020,2020,5.96,5.96,0.0
+CHEMBL3275,NAD-dependent histone deacetylase SIR2,Saccharomyces cerevisiae S288c,Non-human,P06700,Other enzymes,1,1,IC50,IC50,1.0,1,2004,2004,4.07,4.07,0.0
+CHEMBL3310,Histone deacetylase 11,Homo sapiens,Human,Q9NTC9,Other enzymes,1,1,IC50,IC50,1.0,1,2014,2014,4.13,4.13,0.0
+CHEMBL3414417,Histone acetyltransferase RTT109,Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast),Non-human,Q07794,Other enzymes,1,1,IC50,IC50,1.0,1,2015,2015,6.58,6.58,0.0
+CHEMBL3480,Chitin synthase 1,Candida albicans,Non-human,P23316,Other enzymes,1,1,IC50,IC50,1.0,1,2000,2000,4.92,4.92,0.0
+CHEMBL3578,"Aldehyde dehydrogenase, dimeric NADP-preferring",Homo sapiens,Human,Q9BT37,Other enzymes,1,1,IC50,IC50,1.0,1,2017,2017,5.27,5.27,0.0
+CHEMBL3774295,Lysine-specific demethylase 5B,Homo sapiens,Human,Q9Y3Q5,Other enzymes,1,1,IC50,IC50,1.0,1,2020,2020,5.34,5.34,0.0
+CHEMBL3924,Dual specificity protein phosphatase 22,Homo sapiens,Human,Q9NRW4,Other enzymes,1,1,IC50,IC50,1.0,1,2020,2020,5.68,5.68,0.0
+CHEMBL3988613,Protein-glutamine gamma-glutamyltransferase 2,Cavia cutleri,Non-human,P08587,Other enzymes,1,1,IC50,IC50,1.0,0,2015,2015,4.32,4.32,0.0
+CHEMBL4042,Prostaglandin G/H synthase 1,Rattus norvegicus,Non-human,Q63921,Other enzymes,1,1,AC50,AC50,1.0,1,2023,2023,5.64,5.64,0.0
+CHEMBL4506,NAD-dependent protein deacetylase sirtuin-1,Homo sapiens,Human,Q9Y6F0,Other enzymes,1,1,IC50,IC50,1.0,1,2009,2009,5.22,5.22,0.0
+CHEMBL4523282,Polypeptide N-acetylgalactosaminyltransferase 1,Homo sapiens,Human,Q9UM86,Other enzymes,1,1,IC50,IC50,1.0,1,2019,2019,5.61,5.61,0.0
+CHEMBL4523291,Polypeptide N-acetylgalactosaminyltransferase 3,Homo sapiens,Human,Q7Z476,Other enzymes,1,1,IC50,IC50,1.0,1,2019,2019,5.79,5.79,0.0
+CHEMBL4523371,Polypeptide N-acetylgalactosaminyltransferase 10,Homo sapiens,Human,Q9Y4M4,Other enzymes,1,1,IC50,IC50,1.0,1,2019,2019,6.48,6.48,0.0
+CHEMBL4523392,Polypeptide N-acetylgalactosaminyltransferase 13,Homo sapiens,Human,Q9UIE5,Other enzymes,1,1,IC50,IC50,1.0,1,2019,2019,4.86,4.86,0.0
+CHEMBL4523400,Polypeptide N-acetylgalactosaminyltransferase 6,Homo sapiens,Human,Q9UIV5,Other enzymes,1,1,IC50,IC50,1.0,1,2019,2019,5.74,5.74,0.0
+CHEMBL4523427,Polypeptide N-acetylgalactosaminyltransferase 14,Homo sapiens,Human,Q9H9J8,Other enzymes,1,1,IC50,IC50,1.0,1,2019,2019,6.34,6.34,0.0
+CHEMBL4550,Arachidonate 5-lipoxygenase-activating protein,Homo sapiens,Human,Q5VV04,Other enzymes,1,1,Kd,Kd,1.0,1,2017,2017,4.68,4.68,0.0
+CHEMBL4669,Histone acetyltransferase GCN5,Saccharomyces cerevisiae S288c,Non-human,Q6B165,Other enzymes,1,1,IC50,IC50,1.0,1,2015,2015,5.96,5.96,0.0
+CHEMBL4703,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,Homo sapiens,Human,P67775,Other enzymes,1,1,IC50,IC50,1.0,1,2020,2020,6.7,6.7,0.0
+CHEMBL4739681,Ectonucleoside triphosphate diphosphohydrolase 1,Mus musculus,Non-human,P55772,Other enzymes,1,1,IC50,IC50,1.0,1,2021,2021,6.3,6.3,0.0
+CHEMBL5103,Polyamine deacetylase HDAC10,Homo sapiens,Human,Q9UGX2,Other enzymes,1,1,IC50,IC50,1.0,1,2014,2014,4.07,4.07,0.0
+CHEMBL5391,DNA polymerase iota,Homo sapiens,Human,Q9UNA4,Other enzymes,1,1,IC50,IC50,1.0,1,2016,2016,7.21,7.21,0.0
+CHEMBL5406,Histone-arginine methyltransferase CARM1,Homo sapiens,Human,Q86X55,Other enzymes,1,1,IC50,IC50,1.0,1,2012,2012,4.6,4.6,0.0
+CHEMBL5695,Intestinal-type alkaline phosphatase,Bos taurus,Non-human,Q28124,Other enzymes,1,1,IC50,IC50,1.0,1,2018,2018,5.86,5.86,0.0
+CHEMBL5722,Ectonucleoside triphosphate diphosphohydrolase 1,Homo sapiens,Human,Q9Y3Q9,Other enzymes,1,1,IC50,IC50,1.0,1,2018,2018,7.3,7.3,0.0
+CHEMBL6086,ATP phosphoribosyltransferase,Mycobacterium tuberculosis,Non-human,P9WMN1,Other enzymes,1,1,Ki,Ki,1.0,1,2008,2008,4.22,4.22,0.0
+CHEMBL4361,Induced myeloid leukemia cell differentiation protein Mcl-1,Homo sapiens,Human,Q07820,Other/unclassified,89,55,IC50; Ki,IC50,0.5955056179775281,2,2016,2021,4.08,6.68,2.5999999999999996
+CHEMBL4879514,Microtubule-associated proteins 1A/1B light chain 3B,Homo sapiens,Human,Q9GZQ8,Other/unclassified,55,46,IC50; Kd; Ki,Ki,0.8,2,2021,2024,4.01,6.7,2.6900000000000004
+CHEMBL4879518,Microtubule-associated proteins 1A/1B light chain 3A,Homo sapiens,Human,Q9H492,Other/unclassified,61,44,IC50; Kd; Ki,Ki,0.7213114754098361,1,2021,2021,4.04,5.55,1.5099999999999998
+CHEMBL4739844,Immunoglobulin lambda variable 6-57,Homo sapiens,Human,P06319,Other/unclassified,79,41,EC50,EC50,1.0,1,2021,2021,4.58,8.41,3.83
+CHEMBL3251,Nuclear factor NF-kappa-B p105 subunit,Homo sapiens,Human,Q9NZC0,Other/unclassified,31,31,EC50; IC50,EC50,0.7741935483870968,2,2010,2013,4.0,5.6,1.5999999999999996
+CHEMBL2085,Macrophage migration inhibitory factor,Homo sapiens,Human,P14174,Other/unclassified,54,29,IC50; Kd; Ki,Ki,0.6111111111111112,6,2001,2020,4.19,7.8,3.6099999999999994
+CHEMBL1293251,ATP-dependent molecular chaperone HSP82,Candida albicans (strain WO-1) (Yeast),Non-human,C4YTQ8,Other/unclassified,18,16,EC50,EC50,1.0,0,,,4.66,6.19,1.5300000000000002
+CHEMBL1293200,Zn finger protein,Nicotiana tabacum,Non-human,Q43570,Other/unclassified,15,15,Ki,Ki,1.0,1,2010,2010,4.11,9.01,4.8999999999999995
+CHEMBL4531,Galectin-3,Homo sapiens,Human,P17931,Other/unclassified,23,14,Kd,Kd,1.0,4,2014,2023,4.11,8.7,4.589999999999999
+CHEMBL2487,Amyloid-beta precursor protein,Homo sapiens,Human,P05067,Other/unclassified,18,14,IC50,IC50,1.0,4,2013,2024,4.0,8.1,4.1
+CHEMBL4680039,Myosin-2,Bos taurus,Non-human,Q9BE41,Other/unclassified,14,14,IC50,IC50,1.0,1,2020,2020,4.0,5.54,1.54
+CHEMBL5313,Heat shock factor protein 1,Mus musculus,Non-human,P38532,Other/unclassified,12,11,AC50; EC50,EC50,0.6666666666666666,0,,,4.14,6.68,2.54
+CHEMBL3712907,Transmembrane domain-containing protein TMIGD3,Homo sapiens,Human,Q9BYZ1,Other/unclassified,11,11,Ki,Ki,1.0,1,2016,2016,4.65,6.13,1.4799999999999995
+CHEMBL1163125,Bromodomain-containing protein 4,Homo sapiens,Human,O60885,Other/unclassified,9,9,IC50,IC50,1.0,4,2017,2024,5.09,7.0,1.9100000000000001
+CHEMBL1293286,Polyadenylate-binding protein 1,Homo sapiens,Human,Q93004,Other/unclassified,9,9,IC50,IC50,1.0,0,,,4.22,4.99,0.7700000000000005
+CHEMBL4915,Galectin-1,Homo sapiens,Human,Q9UDK5,Other/unclassified,9,9,IC50; Kd,Kd,0.8888888888888888,4,2016,2023,4.0,6.5,2.5
+CHEMBL3253,Albumin,Homo sapiens,Human,P02768,Other/unclassified,9,8,Kd; Ki,Kd,0.7777777777777778,3,2019,2024,4.5,7.52,3.0199999999999996
+CHEMBL1293311,Envelope glycoprotein gp160,Human immunodeficiency virus 1,Non-human,Q6QLK5,Other/unclassified,8,8,IC50,IC50,1.0,0,,,4.38,4.94,0.5600000000000005
+CHEMBL1250379,ELAV-like protein 1,Homo sapiens,Human,Q9BTT1,Other/unclassified,25,7,IC50; Ki,IC50,0.52,1,2017,2017,4.38,6.46,2.08
+CHEMBL1741171,Protein RecA,Mycobacterium tuberculosis,Non-human,P9WHJ3,Other/unclassified,8,7,AC50; EC50,EC50,0.875,0,,,4.92,5.81,0.8899999999999997
+CHEMBL3880,Heat shock protein HSP 90-alpha,Homo sapiens,Human,P07900,Other/unclassified,7,7,AC50; IC50,AC50,0.8571428571428571,0,,,5.11,6.32,1.21
+CHEMBL4218,Tegument protein VP16,Herpes simplex virus (type 1 / strain 17),Non-human,Q09I86,Other/unclassified,7,7,IC50,IC50,1.0,0,,,4.54,4.89,0.34999999999999964
+CHEMBL5804,Toll-like receptor 9,Homo sapiens,Human,Q9NYC3,Other/unclassified,7,7,IC50,IC50,1.0,0,,,4.88,5.47,0.5899999999999999
+CHEMBL1293266,Nucleotide-binding oligomerization domain-containing protein 2,Homo sapiens,Human,Q9HC29,Other/unclassified,7,6,EC50; IC50,EC50,0.8571428571428571,0,,,4.9,5.53,0.6299999999999999
+CHEMBL1795086,HSP90,Plasmodium falciparum 3D7,Non-human,Q8IL32,Other/unclassified,6,6,AC50,AC50,1.0,0,,,5.08,6.13,1.0499999999999998
+CHEMBL5957,5'-nucleotidase,Homo sapiens,Human,Q5W116,Other/unclassified,6,6,IC50,IC50,1.0,3,2021,2024,5.33,6.8,1.4699999999999998
+CHEMBL1293240,Plectin,Homo sapiens,Human,Q6S383,Other/unclassified,8,5,IC50,IC50,1.0,0,,,4.6,5.62,1.0200000000000005
+CHEMBL2362980,Paired box protein Pax-8,Homo sapiens,Human,Q96J49,Other/unclassified,7,5,AC50,AC50,1.0,0,,,4.37,5.97,1.5999999999999996
+CHEMBL1293319,Zinc finger protein mex-5,Caenorhabditis elegans,Non-human,Q9XUB2,Other/unclassified,5,5,EC50,EC50,1.0,0,,,4.2,5.26,1.0599999999999996
+CHEMBL1741180,Mitochondrial import inner membrane translocase subunit TIM23,Saccharomyces cerevisiae S288c,Non-human,P32897,Other/unclassified,5,5,IC50,IC50,1.0,0,,,4.83,5.4,0.5700000000000003
+CHEMBL2384898,N-arachidonyl glycine receptor,Homo sapiens,Human,Q9H2L2,Other/unclassified,5,5,IC50,IC50,1.0,1,2013,2013,4.8,5.09,0.29000000000000004
+CHEMBL5475,Galectin-8,Homo sapiens,Human,Q9UP34,Other/unclassified,5,4,Kd,Kd,1.0,2,2016,2023,4.08,5.7,1.62
+CHEMBL6101,Signal transducer and activator of transcription 1-alpha/beta,Homo sapiens,Human,Q9UDL5,Other/unclassified,5,4,EC50; IC50,EC50,0.6,0,,,4.5,5.37,0.8700000000000001
+CHEMBL1293222,Nucleotide-binding oligomerization domain-containing protein 1,Homo sapiens,Human,Q9Y239,Other/unclassified,4,4,IC50,IC50,1.0,0,,,5.18,5.5,0.3200000000000003
+CHEMBL1293274,Eukaryotic translation initiation factor 4H,Homo sapiens,Human,Q15056,Other/unclassified,4,4,IC50,IC50,1.0,0,,,4.37,5.14,0.7699999999999996
+CHEMBL1293304,RNA-binding protein pos-1,Caenorhabditis elegans,Non-human,G5EF15,Other/unclassified,4,4,EC50,EC50,1.0,0,,,4.12,5.09,0.9699999999999998
+CHEMBL1741163,ORF 73,Human herpesvirus 8,Non-human,O40947,Other/unclassified,4,4,AC50,AC50,1.0,0,,,4.72,6.26,1.54
+CHEMBL1741194,Mitochondrial import inner membrane translocase subunit TIM10,Saccharomyces cerevisiae S288c,Non-human,P87108,Other/unclassified,4,4,IC50,IC50,1.0,0,,,4.49,5.47,0.9799999999999995
+CHEMBL1795089,Latent membrane protein 1,Human herpesvirus 4 (strain B95-8),Non-human,Q777A4,Other/unclassified,4,4,AC50,AC50,1.0,0,,,4.19,5.03,0.8399999999999999
+CHEMBL4426,Phospholipase A2,Homo sapiens,Human,Q3KPI1,Other/unclassified,4,4,IC50,IC50,1.0,0,,,4.87,6.01,1.1399999999999997
+CHEMBL5936,Toll-like receptor 7,Homo sapiens,Human,Q9NYK1,Other/unclassified,4,4,EC50; IC50,IC50,0.5,2,2019,2021,4.43,5.75,1.3200000000000003
+CHEMBL6152,Alpha-synuclein,Homo sapiens,Human,P37840,Other/unclassified,4,4,IC50,IC50,1.0,1,2024,2024,5.99,6.2,0.20999999999999996
+CHEMBL4105838,DCN1-like protein 1,Homo sapiens,Human,Q9HCT3,Other/unclassified,6,3,IC50,IC50,1.0,1,2019,2019,5.9,6.7,0.7999999999999998
+CHEMBL1075214,5'-nucleotidase,Rattus norvegicus,Non-human,P21588,Other/unclassified,4,3,IC50; Ki,IC50,0.75,1,2012,2012,4.13,5.8,1.67
+CHEMBL1075094,Nuclear factor erythroid 2-related factor 2,Homo sapiens,Human,Q96F71,Other/unclassified,3,3,EC50,EC50,1.0,2,2019,2022,5.34,5.92,0.5800000000000001
+CHEMBL1293282,Protein Rev,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)(HIV-1),Non-human,P04618,Other/unclassified,3,3,IC50,IC50,1.0,0,,,4.18,4.85,0.6699999999999999
+CHEMBL1293302,Female germline-specific tumor suppressor gld-1,Caenorhabditis elegans,Non-human,Q17339,Other/unclassified,3,3,IC50,IC50,1.0,0,,,5.33,5.41,0.08000000000000007
+CHEMBL1825,Tumor necrosis factor,Homo sapiens,Human,P01375,Other/unclassified,3,3,IC50,IC50,1.0,0,,,5.18,5.34,0.16000000000000014
+CHEMBL4026,Signal transducer and activator of transcription 3,Homo sapiens,Human,Q9BW54,Other/unclassified,3,3,EC50; IC50,IC50,0.6666666666666666,1,2012,2012,4.2,6.09,1.8899999999999997
+CHEMBL4523143,Galectin-7,Mus musculus,Non-human,O54974,Other/unclassified,3,3,Kd,Kd,1.0,1,2016,2016,4.22,5.3,1.08
+CHEMBL4523582,Replicase polyprotein 1ab,Severe acute respiratory syndrome coronavirus 2,Non-human,P0DTD1,Other/unclassified,3,3,IC50,IC50,1.0,3,2023,2024,4.34,8.36,4.02
+CHEMBL5444,Tubulin beta-5 chain,Homo sapiens,Human,Q9CY33,Other/unclassified,3,3,IC50,IC50,1.0,1,2018,2018,5.03,5.54,0.5099999999999998
+CHEMBL1741165,Microphthalmia-associated transcription factor,Homo sapiens,Human,Q9P2Y8,Other/unclassified,4,2,AC50,AC50,1.0,0,,,4.63,7.52,2.8899999999999997
+CHEMBL5474,Galectin-9,Homo sapiens,Human,Q9NQ58,Other/unclassified,4,2,Kd,Kd,1.0,1,2016,2016,4.35,5.8,1.4500000000000002
+CHEMBL5113,Orexin/Hypocretin receptor type 1,Homo sapiens,Human,Q9HBV6,Other/unclassified,3,2,IC50; Ki,IC50,0.6666666666666666,1,2020,2020,5.27,5.94,0.6700000000000008
+CHEMBL6089,Ubiquitin-conjugating enzyme E2 N,Homo sapiens,Human,Q53Y81,Other/unclassified,3,2,IC50,IC50,1.0,0,,,4.98,5.46,0.47999999999999954
+CHEMBL1293317,Muscleblind-like protein 1,Homo sapiens,Human,Q9NR56,Other/unclassified,2,2,Kd,Kd,1.0,1,2022,2022,7.03,8.4,1.37
+CHEMBL1801,Plasminogen,Homo sapiens,Human,Q6PA00,Other/unclassified,2,2,Ki,Ki,1.0,1,2023,2023,5.67,6.97,1.2999999999999998
+CHEMBL2069,Thromboxane A2 receptor,Homo sapiens,Human,Q9UCY2,Other/unclassified,2,2,Kd,Kd,1.0,1,1995,1995,6.37,6.86,0.4900000000000002
+CHEMBL2176846,Advanced glycosylation end product-specific receptor,Homo sapiens,Human,V5R6A3,Other/unclassified,2,2,Kd,Kd,1.0,0,2020,2020,5.0,8.19,3.1899999999999995
+CHEMBL3658,Tubulin alpha chain,Sus scrofa,Non-human,P02550,Other/unclassified,2,2,IC50,IC50,1.0,1,2004,2004,4.52,5.0,0.4800000000000004
+CHEMBL3797020,Lectin,Burkholderia cenocepacia (strain ATCC BAA-245 / DSM 16553 / LMG 16656/ NCTC 13227 / J2315 / CF5610) (Burkholderia cepacia (strain J2315)),Non-human,B4EH87,Other/unclassified,2,2,IC50,IC50,1.0,1,2016,2016,4.84,5.13,0.29000000000000004
+CHEMBL4105758,Butyrophilin subfamily 3 member A1,Homo sapiens,Human,Q9HCY1,Other/unclassified,2,2,EC50,EC50,1.0,1,2021,2021,7.92,8.1,0.17999999999999972
+CHEMBL4261,Hypoxia-inducible factor 1-alpha,Homo sapiens,Human,Q9UPB1,Other/unclassified,2,2,IC50,IC50,1.0,1,2021,2021,6.82,7.1,0.27999999999999936
+CHEMBL4450,UDP-galactopyranose mutase,Mycobacterium tuberculosis,Non-human,Q7D4U3,Other/unclassified,2,2,AC50,AC50,1.0,0,,,4.2,4.97,0.7699999999999996
+CHEMBL4869,Major prion protein,Homo sapiens,Human,Q9UP19,Other/unclassified,2,2,IC50,IC50,1.0,0,,,5.04,5.08,0.040000000000000036
+CHEMBL5460,Heat shock 70 kDa protein 1A,Homo sapiens,Human,Q9UQM0,Other/unclassified,2,2,IC50,IC50,1.0,1,2023,2023,4.6,6.12,1.5200000000000005
+CHEMBL5533,Transcription factor p65,Homo sapiens,Human,Q04206,Other/unclassified,2,2,IC50,IC50,1.0,2,2018,2020,5.8,8.22,2.420000000000001
+CHEMBL5661,Exportin-1,Homo sapiens,Human,Q99433,Other/unclassified,2,2,IC50,IC50,1.0,1,2010,2010,5.19,5.8,0.6099999999999994
+CHEMBL6187,MecA,Staphylococcus aureus,Non-human,Q7DHH4,Other/unclassified,2,2,Kd,Kd,1.0,1,2021,2021,4.06,6.58,2.5200000000000005
+CHEMBL2189117,Polycomb protein EED,Homo sapiens,Human,O75530,Other/unclassified,5,1,Kd,Kd,1.0,5,2020,2022,5.55,5.55,0.0
+CHEMBL1741161,Acyl-homoserine lactone acylase PvdQ,Pseudomonas aeruginosa (strain LESB58),Non-human,Q9I194,Other/unclassified,2,1,AC50,AC50,1.0,0,,,4.62,5.06,0.4399999999999995
+CHEMBL1795096,Endoribonuclease toxin MazF,Escherichia coli K-12,Non-human,Q2MA50,Other/unclassified,2,1,EC50,EC50,1.0,0,,,4.05,4.56,0.5099999999999998
+CHEMBL3429,Steroid hormone receptor ERR1,Homo sapiens,Human,Q14514,Other/unclassified,2,1,IC50,IC50,1.0,1,2013,2013,6.94,7.0,0.05999999999999961
+CHEMBL4630859,Sialin,Homo sapiens,Human,Q9UGH0,Other/unclassified,2,1,IC50; Ki,IC50,0.5,1,2020,2020,5.11,5.62,0.5099999999999998
+CHEMBL1075145,Transitional endoplasmic reticulum ATPase,Homo sapiens,Human,P55072,Other/unclassified,1,1,IC50,IC50,1.0,0,,,4.68,4.68,0.0
+CHEMBL1275223,Heat shock cognate 71 kDa protein,Homo sapiens,Human,Q9H3R6,Other/unclassified,1,1,IC50,IC50,1.0,0,,,4.0,4.0,0.0
+CHEMBL1293203,Major prion protein,Mesocricetus auratus,Non-human,P04273,Other/unclassified,1,1,Kd,Kd,1.0,1,2017,2017,4.33,4.33,0.0
+CHEMBL1293239,Bcl-2-related protein A1,Mus musculus,Non-human,Q07440,Other/unclassified,1,1,IC50,IC50,1.0,0,,,6.26,6.26,0.0
+CHEMBL1293243,Mucolipin-3,Homo sapiens,Human,Q9NV09,Other/unclassified,1,1,EC50,EC50,1.0,0,,,5.34,5.34,0.0
+CHEMBL1293258,Mothers against decapentaplegic homolog 3,Homo sapiens,Human,P84022,Other/unclassified,1,1,IC50,IC50,1.0,0,,,6.85,6.85,0.0
+CHEMBL1293269,NS3,Hepatitis C virus,Non-human,A3EZJ3,Other/unclassified,1,1,IC50,IC50,1.0,0,,,5.64,5.64,0.0
+CHEMBL1293281,Epstein-Barr nuclear antigen 1,Epstein-Barr virus (strain B95-8) (HHV-4) (Human herpesvirus 4),Non-human,Q777E1,Other/unclassified,1,1,IC50,IC50,1.0,0,,,5.28,5.28,0.0
+CHEMBL1293287,Insulin-degrading enzyme,Homo sapiens,Human,Q5T5N2,Other/unclassified,1,1,IC50,IC50,1.0,0,,,5.37,5.37,0.0
+CHEMBL1293293,Neuropeptides B/W receptor type 1,Homo sapiens,Human,Q6NTC7,Other/unclassified,1,1,IC50,IC50,1.0,0,,,4.53,4.53,0.0
+CHEMBL1293296,14-3-3 protein gamma,Homo sapiens,Human,Q9UN99,Other/unclassified,1,1,IC50,IC50,1.0,0,,,4.34,4.34,0.0
+CHEMBL1293297,Bifunctional protein GlmU,Mycobacterium tuberculosis,Non-human,Q7D8Z8,Other/unclassified,1,1,IC50,IC50,1.0,0,,,4.26,4.26,0.0
+CHEMBL1667698,Telomere resolvase ResT,Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM4680),Non-human,O50979,Other/unclassified,1,1,IC50,IC50,1.0,1,2009,2009,5.06,5.06,0.0
+CHEMBL1671608,Galectin-4,Homo sapiens,Human,P56470,Other/unclassified,1,1,Kd,Kd,1.0,1,2016,2016,4.39,4.39,0.0
+CHEMBL1741172,Large ribosomal subunit protein eL19A,Saccharomyces cerevisiae S288c,Non-human,P0CX82,Other/unclassified,1,1,EC50,EC50,1.0,0,,,5.95,5.95,0.0
+CHEMBL1741176,X-box-binding protein 1,Homo sapiens,Human,Q96BD7,Other/unclassified,1,1,IC50,IC50,1.0,0,,,6.8,6.8,0.0
+CHEMBL1741203,Scavenger receptor class B member 1,Mus musculus,Non-human,Q9CWJ7,Other/unclassified,1,1,AC50,AC50,1.0,0,,,4.3,4.3,0.0
+CHEMBL1781865,Endoplasmic reticulum chaperone BiP,Homo sapiens,Human,Q9UK02,Other/unclassified,1,1,IC50,IC50,1.0,1,2023,2023,5.18,5.18,0.0
+CHEMBL1812,Pancreatic triacylglycerol lipase,Homo sapiens,Human,Q5VSQ2,Other/unclassified,1,1,IC50,IC50,1.0,1,2023,2023,5.55,5.55,0.0
+CHEMBL1957,Insulin-like growth factor 1 receptor,Homo sapiens,Human,Q9UCC0,Other/unclassified,1,1,IC50,IC50,1.0,1,2012,2012,6.6,6.6,0.0
+CHEMBL1981,Insulin receptor,Homo sapiens,Human,P06213,Other/unclassified,1,1,IC50,IC50,1.0,1,2012,2012,6.47,6.47,0.0
+CHEMBL2047,Bile acid receptor,Homo sapiens,Human,Q96RI1,Other/unclassified,1,1,EC50,EC50,1.0,1,2015,2015,6.34,6.34,0.0
+CHEMBL2062348,Heat shock-related 70 kDa protein 2,Homo sapiens,Human,Q9UE78,Other/unclassified,1,1,IC50,IC50,1.0,1,2023,2023,4.6,4.6,0.0
+CHEMBL2146304,DNA damage-inducible transcript 3 protein,Mus musculus,Non-human,Q91YW9,Other/unclassified,1,1,IC50,IC50,1.0,0,,,6.8,6.8,0.0
+CHEMBL2176863,Uncharacterized protein,Sus scrofa,Non-human,I3LIR5,Other/unclassified,1,1,Ki,Ki,1.0,1,2010,2010,4.55,4.55,0.0
+CHEMBL2232,Proprotein convertase subtilisin/kexin type 7,Homo sapiens,Human,Q9UL57,Other/unclassified,1,1,IC50,IC50,1.0,1,2011,2011,5.89,5.89,0.0
+CHEMBL283,Stromelysin-1,Homo sapiens,Human,Q6GRF8,Other/unclassified,1,1,IC50,IC50,1.0,1,2010,2010,5.06,5.06,0.0
+CHEMBL3091,Sortilin,Homo sapiens,Human,Q99523,Other/unclassified,1,1,IC50,IC50,1.0,1,2014,2014,5.4,5.4,0.0
+CHEMBL3305,Sex hormone-binding globulin,Homo sapiens,Human,Q6ISD2,Other/unclassified,1,1,Kd,Kd,1.0,1,2008,2008,5.66,5.66,0.0
+CHEMBL3307224,Nonstructural protein 5A,Hepatitis C virus,Non-human,Q5L478,Other/unclassified,1,1,EC50,EC50,1.0,1,2016,2016,8.15,8.15,0.0
+CHEMBL3308998,Genome polyprotein,dengue virus type 2,Non-human,Q88655,Other/unclassified,1,1,IC50,IC50,1.0,1,2010,2010,4.92,4.92,0.0
+CHEMBL3351196,PA-I galactophilic lectin,Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG12228),Non-human,Q05097,Other/unclassified,1,1,Kd,Kd,1.0,1,2023,2023,5.27,5.27,0.0
+CHEMBL3412,Stromelysin-3,Mus musculus,Non-human,Q02853,Other/unclassified,1,1,Ki,Ki,1.0,1,1999,1999,8.3,8.3,0.0
+CHEMBL3663,Growth factor receptor-bound protein 2,Homo sapiens,Human,P62993,Other/unclassified,1,1,Kd,Kd,1.0,1,1999,1999,4.95,4.95,0.0
+CHEMBL3751,Steroid hormone receptor ERR2,Homo sapiens,Human,Q9HCB4,Other/unclassified,1,1,IC50,IC50,1.0,1,2013,2013,6.95,6.95,0.0
+CHEMBL3879827,Chromodomain Y-like protein,Homo sapiens,Human,Q9Y424,Other/unclassified,1,1,Kd,Kd,1.0,1,2019,2019,4.58,4.58,0.0
+CHEMBL3988623,Thyrotropin releasing hormone degrading enzyme,Sus scrofa,Non-human,F1SH20,Other/unclassified,1,1,Ki,Ki,1.0,0,2010,2010,6.39,6.39,0.0
+CHEMBL4105924,ELAV-like protein 3,Homo sapiens,Human,Q96QS9,Other/unclassified,1,1,IC50,IC50,1.0,1,2017,2017,6.22,6.22,0.0
+CHEMBL4128,Angiopoietin-1 receptor,Homo sapiens,Human,Q8IV34,Other/unclassified,1,1,IC50,IC50,1.0,1,2012,2012,6.58,6.58,0.0
+CHEMBL4295757,"Stress-70 protein, mitochondrial",Homo sapiens,Human,Q9UC56,Other/unclassified,1,1,IC50,IC50,1.0,1,2023,2023,4.87,4.87,0.0
+CHEMBL4296326,Anthrax toxin receptor 2,Homo sapiens,Human,Q96NC7,Other/unclassified,1,1,IC50,IC50,1.0,1,2012,2012,6.3,6.3,0.0
+CHEMBL4372,Lethal factor,Bacillus anthracis,Non-human,Q933F6,Other/unclassified,1,1,Ki,Ki,1.0,1,2014,2014,6.24,6.24,0.0
+CHEMBL4524025,Translin-associated protein X,Homo sapiens,Human,Q99598,Other/unclassified,1,1,IC50,IC50,1.0,1,2016,2016,5.46,5.46,0.0
+CHEMBL4553,Thyrotropin-releasing hormone receptor,Rattus norvegicus,Non-human,Q63949,Other/unclassified,1,1,Ki,Ki,1.0,0,2010,2010,4.32,4.32,0.0
+CHEMBL4680034,5'-nucleotidase,Mus musculus,Non-human,Q61503,Other/unclassified,1,1,IC50,IC50,1.0,1,2021,2021,7.4,7.4,0.0
+CHEMBL4698,"Malonyl-CoA decarboxylase, mitochondrial",Homo sapiens,Human,Q9Y3F2,Other/unclassified,1,1,IC50,IC50,1.0,1,2010,2010,8.17,8.17,0.0
+CHEMBL4837,Type 1 fimbrin D-mannose specific adhesin,Escherichia coli K-12,Non-human,Q2M5Z3,Other/unclassified,1,1,Kd,Kd,1.0,1,2014,2014,7.7,7.7,0.0
+CHEMBL4984,Tumor necrosis factor,Mus musculus,Non-human,Q91VF3,Other/unclassified,1,1,IC50,IC50,1.0,1,2018,2018,4.78,4.78,0.0
+CHEMBL5147,Ephrin type-B receptor 4,Homo sapiens,Human,Q9BXP0,Other/unclassified,1,1,IC50,IC50,1.0,1,2012,2012,5.74,5.74,0.0
+CHEMBL5362,Sortase A,Staphylococcus aureus,Non-human,Q9S446,Other/unclassified,1,1,IC50,IC50,1.0,1,2021,2021,4.44,4.44,0.0
+CHEMBL5619,DNA repair nuclease/redox regulator APEX1,Homo sapiens,Human,Q99775,Other/unclassified,1,1,IC50,IC50,1.0,1,2009,2009,5.1,5.1,0.0
+CHEMBL5725151,"Pyruvate carboxylase, mitochondrial",Homo sapiens,Human,Q16705,Other/unclassified,1,1,IC50,IC50,1.0,1,2024,2024,7.14,7.14,0.0
+CHEMBL5800,Falcipain 2,Plasmodium falciparum,Non-human,Q9N6S8,Other/unclassified,1,1,IC50,IC50,1.0,1,2004,2004,5.41,5.41,0.0
+CHEMBL5848,"Oligo-1,6-glucosidase IMA1",Saccharomyces cerevisiae S288c,Non-human,Q76CZ0,Other/unclassified,1,1,IC50,IC50,1.0,1,2013,2013,4.21,4.21,0.0
+CHEMBL5977,Galectin-2,Homo sapiens,Human,Q6FGY4,Other/unclassified,1,1,Kd,Kd,1.0,1,2016,2016,5.16,5.16,0.0
+CHEMBL6020,Bile salt export pump,Homo sapiens,Human,Q9UNB2,Other/unclassified,1,1,IC50,IC50,1.0,1,2012,2012,4.4,4.4,0.0
+CHEMBL6100,Autoinducer 2-binding periplasmic protein LuxP,Vibrio harveyi,Non-human,P54300,Other/unclassified,1,1,IC50,IC50,1.0,1,2008,2008,4.92,4.92,0.0
+CHEMBL6135,Neuraminidase,Influenza A virus,Non-human,B4URF0,Other/unclassified,1,1,IC50,IC50,1.0,1,2017,2017,4.42,4.42,0.0

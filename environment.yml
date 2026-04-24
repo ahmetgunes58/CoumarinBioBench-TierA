@@ -1,0 +1,5 @@
+name: coumarinbiobench
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy

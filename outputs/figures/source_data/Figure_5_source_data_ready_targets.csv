@@ -1,0 +1,15 @@
+target_chembl_id,target_name,target_organism,target_family,organism_group,unique_compounds,record_count,dominant_endpoint,endpoint_homogeneity,dominant_endpoint_pactivity_range,doi_count,year_min,year_max
+CHEMBL2039,Amine oxidase [flavin-containing] B,Homo sapiens,Monoamine oxidases,Human,661,714,IC50,0.988795518207283,5.839999999999999,64,2002,2024
+CHEMBL3594,Carbonic anhydrase 9,Homo sapiens,Carbonic anhydrases,Human,448,471,Ki,0.9554140127388536,4.540000000000001,41,2005,2024
+CHEMBL3242,Carbonic anhydrase 12,Homo sapiens,Carbonic anhydrases,Human,428,444,Ki,1.0,4.96,35,2008,2024
+CHEMBL4078,Acetylcholinesterase,Electrophorus electricus,Cholinesterases,Non-human,427,449,IC50,0.9621380846325168,5.950000000000001,41,2006,2024
+CHEMBL1951,Amine oxidase [flavin-containing] A,Homo sapiens,Monoamine oxidases,Human,313,329,IC50,0.9756838905775076,4.41,45,2002,2024
+CHEMBL220,Acetylcholinesterase,Homo sapiens,Cholinesterases,Human,289,332,IC50,0.8975903614457831,5.470000000000001,45,2001,2024
+CHEMBL5763,Cholinesterase,Equus caballus,Cholinesterases,Non-human,286,289,IC50,1.0,5.28,33,2008,2024
+CHEMBL2993,Amine oxidase [flavin-containing] B,Rattus norvegicus,Monoamine oxidases,Non-human,233,359,IC50,1.0,5.4,16,1994,2022
+CHEMBL261,Carbonic anhydrase 1,Homo sapiens,Carbonic anhydrases,Human,219,235,Ki,0.9787234042553192,4.98,26,2000,2024
+CHEMBL205,Carbonic anhydrase 2,Homo sapiens,Carbonic anhydrases,Human,204,213,Ki,0.8826291079812206,5.99,28,2000,2024
+CHEMBL3358,Amine oxidase [flavin-containing] A,Rattus norvegicus,Monoamine oxidases,Non-human,133,160,IC50,1.0,4.300000000000001,13,1994,2020
+CHEMBL206,Estrogen receptor,Homo sapiens,Nuclear receptors,Human,133,180,IC50,0.9666666666666668,5.420000000000001,10,2004,2022
+CHEMBL1914,Cholinesterase,Homo sapiens,Cholinesterases,Human,127,132,IC50,0.8636363636363636,5.29,26,2003,2024
+CHEMBL2326,Carbonic anhydrase 7,Homo sapiens,Carbonic anhydrases,Human,106,108,Ki,1.0,5.11,10,2008,2024

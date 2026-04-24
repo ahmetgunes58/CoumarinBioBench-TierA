@@ -1,0 +1,5 @@
+readiness_tier,target_count,percent_of_targets,median_unique_compounds,median_endpoint_homogeneity,median_dominant_endpoint_pactivity_range,median_doi_count
+Ready,14,2.2151898734177213,259.5,0.9772036474164134,5.285,30.5
+Curatable,26,4.113924050632911,69.0,0.9700968523002422,3.8499999999999996,7.5
+Exploratory,71,11.234177215189874,28.0,1.0,2.41,3.0
+Not Suitable,521,82.4367088607595,2.0,1.0,0.23999999999999932,1.0

@@ -1,0 +1,8 @@
+step,records_before,records_after,records_removed,percent_removed,unique_molecules,unique_targets,notes
+P0_raw_dataset,0,180653,0,0.0,21632,2082,Original raw dataset loaded from data/raw.
+P0_01_single_protein_targets,180653,67520,113133,62.6245,11856,1301,Retained rows where target_type_full == SINGLE PROTEIN.
+P0_02_exact_relation_equals,67520,33513,34007,50.3658,10074,940,Retained rows where standard_relation == =.
+P0_03_accepted_endpoints,33513,12211,21302,63.5634,5578,661,"Accepted endpoint types: IC50, Ki, Kd, EC50, AC50."
+P0_04_nM_standardized_units,12211,12017,194,1.5887,5540,656,Retained rows where standard_units == nM.
+P0_05_positive_numeric_values,12017,12012,5,0.0416,5538,656,Retained rows where standard_value is numeric and > 0.
+P0_06_remove_data_validity_warnings,12012,11579,433,3.6047,5390,632,Tier-A Core after excluding non-null ChEMBL data_validity_comment records.

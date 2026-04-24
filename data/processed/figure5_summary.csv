@@ -1,0 +1,10 @@
+metric,value
+total_targets,632
+ready_targets,14
+curatable_targets,26
+exploratory_targets,71
+not_suitable_targets,521
+ready_target_percent,2.2151898734177213
+top_ready_target,CHEMBL2039
+top_ready_target_name,Amine oxidase [flavin-containing] B
+top_ready_target_unique_compounds,661

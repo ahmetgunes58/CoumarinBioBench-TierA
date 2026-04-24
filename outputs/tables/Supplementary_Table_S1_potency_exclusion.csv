@@ -1,0 +1,6 @@
+metric,value,notes
+potency_records,15036,
+potency_doi_count,4,
+potency_doi_coverage_percent,0.0266,
+potency_journal_non_null_count,4,
+potency_source_id_distribution,"{7: 15032, 1: 4}",Distribution of src_id/source_id among Potency records.

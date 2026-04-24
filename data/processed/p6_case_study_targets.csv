@@ -1,0 +1,4 @@
+case_id,target_label,target_chembl_id,target_name,target_organism,endpoint,raw_record_count,unique_compounds_raw,compound_level_rows_after_median_collapse,compounds_with_duplicate_activity_records,duplicate_compound_percent,missing_smiles_compounds,doi_count,year_min,year_max,median_pactivity_min,median_pactivity_max,median_pactivity_range
+MAOB_HUMAN_IC50,Human MAO-B,CHEMBL2039,Amine oxidase [flavin-containing] B,Homo sapiens,IC50,706,659,659,38,5.7663125948406675,0,63,2002,2024,4.03,9.87,5.839999999999999
+CA9_HUMAN_KI,Human CA9,CHEMBL3594,Carbonic anhydrase 9,Homo sapiens,Ki,450,427,427,19,4.449648711943794,0,39,2005,2024,4.18,8.64,4.460000000000001
+ACHE_HUMAN_IC50,Human AChE,CHEMBL220,Acetylcholinesterase,Homo sapiens,IC50,298,271,271,17,6.273062730627306,0,43,2001,2024,4.16,9.63,5.470000000000001
